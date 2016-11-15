@@ -162,3 +162,24 @@ pac,oregon state,Mike Riley,1997,1998,2,22,8,14,0,0.363,0,0,0,0,0,resigned
 pac,oregon state,Dennis Erickson,1999,2002,4,48,31,17,0,0.646,3,1,2,0,0.333,resigned
 pac,oregon state,Mike Riley,2003,2014,12,151,85,66,0,0.562,8,6,2,0,0.75,resigned
 pac,oregon state,Gary Andersen,2015,2016,2,20,4,16,0,0.2,0,0,0,0,,current
+big_ten,penn state,Joe Paterno,1966,2011,46,548,409,136,3,0.749,37,24,12,1,0.662,fired with cause
+big_ten,penn state,Tom Bradley,2011,2011,1,4,1,3,0,0.25,1,0,1,0,0,interim only
+big_ten,penn state,Bill O'Brien,2012,2013,2,24,15,9,0,0.625,0,0,0,0,,changed jobs
+big_ten,penn state,James Franklin,2014,2016,3,36,22,14,0,0.611,2,1,1,0,0.5,current
+acc,pittsburgh,Walt Harris,1997,2004,8,96,52,44,0,0.542,6,2,4,0,0.333,changed jobs
+acc,pittsburgh,Dave Wannstedt,2005,2010,6,73,42,31,0,0.575,2,1,1,0,0.5,resigned
+acc,pittsburgh,Phil Bennett,2010,2010,1,1,1,0,0,1,1,1,0,0,1,interim only
+acc,pittsburgh,Keith Patterson,2011,2011,1,1,0,1,0,0,1,0,1,0,0,interim only
+acc,pittsburgh,Todd Graham,2011,2011,1,12,6,6,0,0.5,0,0,0,0,,changed jobs
+acc,pittsburgh,Paul Chryst,2012,2014,3,38,19,19,0,0.5,2,1,1,0,0.5,changed jobs
+acc,pittsburgh,Joe Rudolph,2014,2014,1,1,0,1,0,0,1,0,1,0,0,interim only
+acc,pittsburgh,Pat Narduzzi,2015,2016,2,23,14,9,0,0.609,1,0,1,0,0,current
+big_ten,purdue,Joe Tiller,1997,2008,12,149,87,62,0,0.584,10,4,6,0,0.4,retired
+big_ten,purdue,Danny Hope,2009,2012,4,49,22,27,0,0.449,1,1,0,0,1,fired
+big_ten,purdue,Patrick Higgins,2012,2012,1,1,0,1,0,0,1,0,1,0,0,interim only
+big_ten,purdue,Darrell Hazell,2013,2016,4,42,9,33,0,0.214,0,0,0,0,,fired
+big_ten,purdue,Gerad Parker,2016,2016,1,4,0,4,0,0,0,0,0,0,,current
+big_ten,rutgers,Terry Shea,1996,2000,5,55,11,44,0,0.2,0,0,0,0,,fired
+big_ten,rutgers,Greg Schiano,2001,2011,11,135,68,67,0,0.504,6,5,1,0,0.833,changed jobs
+big_ten,rutgers,Kyle Flood,2012,2015,4,51,27,24,0,0.529,3,1,2,0,0.333,fired
+big_ten,rutgers,Chris Ash,2016,2016,1,10,2,8,0,0.2,0,0,0,0,,current
