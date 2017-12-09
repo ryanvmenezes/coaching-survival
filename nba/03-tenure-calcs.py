@@ -78,6 +78,8 @@ for gm in games:
 
     T.win() if gm['result'] == 'W' else T.loss()
 
+tenures.append(T)
+
 # summaries of a coach's entire tenure
 
 tenure_summaries = [t.summarize() for t in tenures]

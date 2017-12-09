@@ -2578,5 +2578,17 @@
     "max_year": "2016", 
     "losses": 199, 
     "slug": "wittman|12|16|WAS"
+  }, 
+  {
+    "min_year": "2017", 
+    "left_truncated": false, 
+    "coach": "S. Brooks", 
+    "games": 82, 
+    "seasons": 1, 
+    "franchise": "WAS", 
+    "wins": 49, 
+    "max_year": "2017", 
+    "losses": 33, 
+    "slug": "brooks|17|17|WAS"
   }
 ]
