@@ -19,27 +19,27 @@ rawpoc = sorted(rawpoc, key=lambda x: (x['poc'], x['coach']), reverse=True)
 settings.write_csv(
     rawpoc,
     'categorized/coach-list-poc.csv',
-    ['coach','franchises','poc','note'],
+    ['coach','coach_id','franchises','poc','note'],
 )
 
 
-rawtenures = settings.read_csv('data/tenures-summarized.csv')
+# rawtenures = settings.read_csv('data/tenures-summarized.csv')
 
-oldtenures =  {
-    c['slug']: c['ending']
-    for c in settings.read_csv('categorized/tenures-summarized-categorized.csv')
-}
+# oldtenures =  {
+#     c['slug']: c['ending']
+#     for c in settings.read_csv('categorized/tenures-summarized-categorized.csv')
+# }
 
-for coach in rawtenures:
-    ending = ''
-    if coach['slug'] in oldtenures:
-        ending = oldtenures[coach['slug']]
-    coach['ending'] = ending
+# for coach in rawtenures:
+#     ending = ''
+#     if coach['slug'] in oldtenures:
+#         ending = oldtenures[coach['slug']]
+#     coach['ending'] = ending
 
-rawtenures = sorted(rawtenures, key=lambda x: (x['franchise'], x['min_year']))
+# rawtenures = sorted(rawtenures, key=lambda x: (x['franchise'], x['min_year']))
 
-settings.write_csv(
-    rawtenures,
-    'categorized/tenures-summarized-categorized.csv',
-    ['slug','coach','franchise','seasons','games','wins','losses','min_year','max_year','left_truncated','ending'],
-)
+# settings.write_csv(
+#     rawtenures,
+#     'categorized/tenures-summarized-categorized.csv',
+#     ['slug','coach','franchise','seasons','games','wins','losses','min_year','max_year','left_truncated','ending'],
+# )
