@@ -13,7 +13,7 @@ for c in coaches:
     f = c['franchise']
     s = c['year']
     g = int(c['games'])
-    ch = c['coach']
+    ch = c['coach_id']
     if not team_look.get(f):
         team_look[f] = {}
     if not team_look[f].get(s):

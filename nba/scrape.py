@@ -111,6 +111,7 @@ for tm in tqdm(teams, desc='teams'):
             coachres['team'] = s
             coachres['franchise'] = f
             coachres['coaches_text'] = t.find(attrs={"data-stat": "coaches"}).text
+            coachres['coaches_id'] = '|'.join(c['href'].split('/')[-1][:-5] for c in t.find(attrs={"data-stat": "coaches"}).find_all('a'))
             coaches.append(coachres)
 
 
@@ -123,5 +124,5 @@ settings.write_csv(
 settings.write_csv(
     coaches,
     'scrape/sportsref-coaches.csv',
-    ['franchise','team','year','coaches_text']
+    ['franchise','team','year','coaches_text','coaches_id']
 )

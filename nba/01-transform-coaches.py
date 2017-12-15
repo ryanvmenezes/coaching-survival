@@ -19,16 +19,19 @@ def parse_coach(string):
 results = []
 
 for line in coaches:
-    chs = line['coaches_text'].split(", ")
+    chstr = line['coaches_text'].split(", ")
+    chid = line['coaches_id'].split('|')
+    chs = zip(chstr, chid)
     order = len(chs)
     for c in reversed(chs):
-        name, wins, losses = parse_coach(c)
+        name, wins, losses = parse_coach(c[0])
         res = {}
         res['team'] = line['team']
         res['franchise'] = line['franchise']
         res['year'] = line['year']
         res['coaches_text'] = line['coaches_text']
         res['coach'] = name
+        res['coach_id'] = c[1]
         res['wins'] = wins
         res['losses'] = losses
         res['games'] = wins + losses
@@ -39,5 +42,5 @@ for line in coaches:
 settings.write_csv(
     results,
     'data/coaches-ordered.csv',
-    ['franchise','team','year','coaches_text','coach','wins','losses','games','order']
+    ['franchise','team','year','coaches_text','coach','coach_id','wins','losses','games','order']
 )
