@@ -43,7 +43,7 @@ rawcoaches = sorted(rawcoaches, key=lambda x: x['former_nba_player'], reverse=Tr
 
 settings.write_csv(
     rawcoaches,
-    'categorized/coach-list-poc.csv',
+    'categorized/coach-list-qualifications.csv',
     ['coach','coach_id','franchises','former_nba_player'],
 )
 
