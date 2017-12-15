@@ -3,14 +3,14 @@ import settings
 rawpoc = settings.read_csv('data/coach-list.csv')
 
 oldpoc =  {
-    l['coach']: (l['poc'], l['note'])
+    l['coach_id']: (l['poc'], l['note'])
     for l in settings.read_csv('categorized/coach-list-poc.csv')
 }
 
 for coach in rawpoc:
     poc = note = ''
-    if coach['coach'] in oldpoc:
-        poc, note = oldpoc[coach['coach']]
+    if coach['coach_id'] in oldpoc:
+        poc, note = oldpoc[coach['coach_id']]
     coach['poc'] = poc
     coach['note'] = note
 
