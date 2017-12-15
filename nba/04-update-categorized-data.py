@@ -1,5 +1,6 @@
 import settings
 
+
 ## update POC categorization
 
 rawcoaches = settings.read_csv('data/coach-list.csv')
@@ -23,6 +24,7 @@ settings.write_csv(
     'categorized/coach-list-poc.csv',
     ['coach','coach_id','franchises','poc','note'],
 )
+
 
 ## update NBA player categorization
 
