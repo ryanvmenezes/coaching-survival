@@ -1,217 +1,217 @@
-slug,coach,franchise,seasons,games,wins,losses,min_year,max_year,left_truncated,ending
-kruger|01|03|ATL,L. Kruger,ATL,3,191,69,122,2001,2003,True,fired
-stotts|03|04|ATL,T. Stotts,ATL,2,137,52,85,2003,2004,False,fired
-woodson|05|10|ATL,M. Woodson,ATL,6,492,206,286,2005,2010,False,fired
-drew|11|13|ATL,L. Drew,ATL,3,230,128,102,2011,2013,False,fired
-budenholzer|14|17|ATL,M. Budenholzer,ATL,4,328,189,139,2014,2017,False,
-pitino|01|01|BOS,R. Pitino,BOS,1,34,12,22,2001,2001,True,resigned
-o'brien|01|04|BOS,J. O'Brien,BOS,4,258,139,119,2001,2004,False,resigned
-carroll|04|04|BOS,J. Carroll,BOS,1,36,14,22,2004,2004,False,interim only
-rivers|05|13|BOS,D. Rivers,BOS,9,721,416,305,2005,2013,False,traded
-stevens|14|17|BOS,B. Stevens,BOS,4,328,166,162,2014,2017,False,
-bickerstaff|05|07|CHARBH,B. Bickerstaff,CHARBH,3,246,77,169,2005,2007,False,resigned
-vincent|08|08|CHARBH,S. Vincent,CHARBH,1,82,32,50,2008,2008,False,fired
-brown|09|11|CHARBH,L. Brown,CHARBH,3,192,88,104,2009,2011,False,resigned
-silas|11|12|CHARBH,P. Silas,CHARBH,2,120,32,88,2011,2012,False,fired
-dunlap|13|13|CHARBH,M. Dunlap,CHARBH,1,82,21,61,2013,2013,False,fired
-clifford|14|17|CHARBH,S. Clifford,CHARBH,4,328,160,168,2014,2017,False,
-floyd|01|02|CHI,T. Floyd,CHI,2,107,19,88,2001,2002,True,resigned
-berry|02|02|CHI,B. Berry,CHI,1,2,0,2,2002,2002,False,interim only
-cartwright|02|04|CHI,B. Cartwright,CHI,3,151,51,100,2002,2004,False,fired
-myers|04|04|CHI,P. Myers,CHI,1,2,0,2,2004,2004,False,interim only
-skiles|04|08|CHI,S. Skiles,CHI,5,337,165,172,2004,2008,False,fired
-myers|08|08|CHI,P. Myers,CHI,1,1,0,1,2008,2008,False,interim only
-boylan|08|08|CHI,J. Boylan,CHI,1,56,24,32,2008,2008,False,interim only
-negro|09|10|CHI,V. Del Negro,CHI,2,164,82,82,2009,2010,False,fired
-thibodeau|11|15|CHI,T. Thibodeau,CHI,5,394,255,139,2011,2015,False,fired
-hoiberg|16|17|CHI,F. Hoiberg,CHI,2,164,83,81,2016,2017,False,
-wittman|01|01|CLE,R. Wittman,CLE,1,82,30,52,2001,2001,True,fired
-lucas|02|03|CLE,J. Lucas,CLE,2,124,37,87,2002,2003,False,fired
-smart|03|03|CLE,K. Smart,CLE,1,40,9,31,2003,2003,False,interim only
-silas|04|05|CLE,P. Silas,CLE,2,146,69,77,2004,2005,False,fired
-malone|05|05|CLE,B. Malone,CLE,1,18,8,10,2005,2005,False,interim only
-brown|06|10|CLE,M. Brown,CLE,5,410,272,138,2006,2010,False,fired
-scott|11|13|CLE,B. Scott,CLE,3,230,64,166,2011,2013,False,fired
-brown|14|14|CLE,M. Brown,CLE,1,82,33,49,2014,2014,False,fired
-blatt|15|16|CLE,D. Blatt,CLE,2,123,83,40,2015,2016,False,fired
-lue|16|17|CLE,T. Lue,CLE,2,123,78,45,2016,2017,False,
-nelson|01|05|DAL,D. Nelson,DAL,5,392,264,128,2001,2005,True,resigned
-johnson|05|08|DAL,A. Johnson,DAL,4,264,194,70,2005,2008,False,fired
-carlisle|09|17|DAL,R. Carlisle,DAL,9,722,413,309,2009,2017,False,
-issel|01|02|DEN,D. Issel,DEN,2,108,49,59,2001,2002,True,resigned
-evans|02|02|DEN,M. Evans,DEN,1,56,18,38,2002,2002,False,interim only
-bzdelik|03|05|DEN,J. Bzdelik,DEN,3,192,73,119,2003,2005,False,fired
-cooper|05|05|DEN,M. Cooper,DEN,1,14,4,10,2005,2005,False,interim only
-karl|05|13|DEN,G. Karl,DEN,9,680,423,257,2005,2013,False,fired
-shaw|14|15|DEN,B. Shaw,DEN,2,141,56,85,2014,2015,False,fired
-hunt|15|15|DEN,M. Hunt,DEN,1,23,10,13,2015,2015,False,interim only
-malone|16|17|DEN,M. Malone,DEN,2,164,73,91,2016,2017,False,
-irvine|01|01|DET,G. Irvine,DET,1,82,32,50,2001,2001,True,fired
-carlisle|02|03|DET,R. Carlisle,DET,2,164,100,64,2002,2003,False,fired
-brown|04|05|DET,L. Brown,DET,2,164,108,56,2004,2005,False,fired
-saunders|06|08|DET,F. Saunders,DET,3,246,176,70,2006,2008,False,fired
-curry|09|09|DET,M. Curry,DET,1,82,39,43,2009,2009,False,fired
-kuester|10|11|DET,J. Kuester,DET,2,164,57,107,2010,2011,False,fired
-frank|12|13|DET,L. Frank,DET,2,148,54,94,2012,2013,False,fired
-cheeks|14|14|DET,M. Cheeks,DET,1,50,21,29,2014,2014,False,fired
-loyer|14|14|DET,J. Loyer,DET,1,32,8,24,2014,2014,False,interim only
-gundy|15|17|DET,S. Van Gundy,DET,3,246,113,133,2015,2017,False,
-cowens|01|02|GSW,D. Cowens,GSW,2,105,25,80,2001,2002,True,fired
-winters|02|02|GSW,B. Winters,GSW,1,59,13,46,2002,2002,False,interim only
-musselman|03|04|GSW,E. Musselman,GSW,2,164,75,89,2003,2004,False,fired
-montgomery|05|06|GSW,M. Montgomery,GSW,2,164,68,96,2005,2006,False,fired
-nelson|07|10|GSW,D. Nelson,GSW,4,328,145,183,2007,2010,False,fired
-smart|11|11|GSW,K. Smart,GSW,1,82,36,46,2011,2011,False,interim only
-jackson|12|14|GSW,M. Jackson,GSW,3,230,121,109,2012,2014,False,fired
-kerr|15|17|GSW,S. Kerr,GSW,3,246,207,39,2015,2017,False,
-tomjanovich|01|03|HOU,R. Tomjanovich,HOU,3,246,116,130,2001,2003,True,resigned
-gundy|04|07|HOU,J. Van Gundy,HOU,4,328,182,146,2004,2007,False,fired
-adelman|08|11|HOU,R. Adelman,HOU,4,328,193,135,2008,2011,False,fired
-mchale|12|16|HOU,K. McHale,HOU,5,323,193,130,2012,2016,False,fired
-bickerstaff|16|16|HOU,J. Bickerstaff,HOU,1,71,37,34,2016,2016,False,interim only
-d'antoni|17|17|HOU,M. D'Antoni,HOU,1,82,55,27,2017,2017,False,
-thomas|01|03|IND,I. Thomas,IND,3,246,131,115,2001,2003,True,fired
-carlisle|04|07|IND,R. Carlisle,IND,4,328,181,147,2004,2007,False,fired
-o'brien|08|11|IND,J. O'Brien,IND,4,290,121,169,2008,2011,False,fired
-vogel|11|16|IND,F. Vogel,IND,6,431,250,181,2011,2016,False,fired
-mcmillan|17|17|IND,N. McMillan,IND,1,82,42,40,2017,2017,False,
-gentry|01|03|LAC,A. Gentry,LAC,3,222,89,133,2001,2003,True,fired
-johnson|03|03|LAC,D. Johnson,LAC,1,24,8,16,2003,2003,False,interim only
-dunleavy|04|10|LAC,M. Dunleavy,LAC,7,541,215,326,2004,2010,False,resigned
-hughes|10|10|LAC,K. Hughes,LAC,1,33,8,25,2010,2010,False,interim only
-negro|11|13|LAC,V. Del Negro,LAC,3,230,128,102,2011,2013,False,fired
-rivers|14|17|LAC,D. Rivers,LAC,4,328,217,111,2014,2017,False,
-jackson|01|04|LAL,P. Jackson,LAL,4,328,220,108,2001,2004,True,fired
-tomjanovich|05|05|LAL,R. Tomjanovich,LAL,1,43,24,19,2005,2005,False,resigned
-hamblen|05|05|LAL,F. Hamblen,LAL,1,39,10,29,2005,2005,False,interim only
-jackson|06|11|LAL,P. Jackson,LAL,6,492,323,169,2006,2011,False,resigned
-brown|12|13|LAL,M. Brown,LAL,2,71,42,29,2012,2013,False,fired
-bickerstaff|13|13|LAL,B. Bickerstaff,LAL,1,5,4,1,2013,2013,False,interim only
-d'antoni|13|14|LAL,M. D'Antoni,LAL,2,154,67,87,2013,2014,False,mutual
-scott|15|16|LAL,B. Scott,LAL,2,164,38,126,2015,2016,False,fired
-walton|17|17|LAL,L. Walton,LAL,1,82,26,56,2017,2017,False,
-riley|01|03|MIA,P. Riley,MIA,3,246,111,135,2001,2003,True,resigned
-gundy|04|06|MIA,S. Van Gundy,MIA,3,185,112,73,2004,2006,False,resigned
-riley|06|08|MIA,P. Riley,MIA,3,225,100,125,2006,2008,False,resigned
-spoelstra|09|17|MIA,E. Spoelstra,MIA,9,722,440,282,2009,2017,False,
-karl|01|03|MIL,G. Karl,MIL,3,246,135,111,2001,2003,True,fired
-porter|04|05|MIL,T. Porter,MIL,2,164,71,93,2004,2005,False,fired
-stotts|06|07|MIL,T. Stotts,MIL,2,146,63,83,2006,2007,False,fired
-krystkowiak|07|08|MIL,L. Krystkowiak,MIL,2,100,31,69,2007,2008,False,fired
-skiles|09|13|MIL,S. Skiles,MIL,5,344,162,182,2009,2013,False,mutual
-boylan|13|13|MIL,J. Boylan,MIL,1,50,22,28,2013,2013,False,interim only
-drew|14|14|MIL,L. Drew,MIL,1,82,15,67,2014,2014,False,fired
-kidd|15|17|MIL,J. Kidd,MIL,3,246,116,130,2015,2017,False,
-saunders|01|05|MIN,F. Saunders,MIN,5,379,231,148,2001,2005,True,fired
-mchale|05|05|MIN,K. McHale,MIN,1,31,19,12,2005,2005,False,resigned
-casey|06|07|MIN,D. Casey,MIN,2,122,53,69,2006,2007,False,fired
-wittman|07|09|MIN,R. Wittman,MIN,3,143,38,105,2007,2009,False,fired
-mchale|09|09|MIN,K. McHale,MIN,1,63,20,43,2009,2009,False,fired
-rambis|10|11|MIN,K. Rambis,MIN,2,164,32,132,2010,2011,False,fired
-adelman|12|14|MIN,R. Adelman,MIN,3,230,97,133,2012,2014,False,retired
-saunders|15|15|MIN,F. Saunders,MIN,1,82,16,66,2015,2015,False,died
-mitchell|16|16|MIN,S. Mitchell,MIN,1,82,29,53,2016,2016,False,interim only
-thibodeau|17|17|MIN,T. Thibodeau,MIN,1,82,31,51,2017,2017,False,
-scott|01|04|NJNBRK,B. Scott,NJNBRK,4,288,149,139,2001,2004,True,fired
-frank|04|10|NJNBRK,L. Frank,NJNBRK,7,466,225,241,2004,2010,False,fired
-barrise|10|10|NJNBRK,T. Barrise,NJNBRK,1,2,0,2,2010,2010,False,interim only
-vandeweghe|10|10|NJNBRK,K. Vandeweghe,NJNBRK,1,64,12,52,2010,2010,False,interim only
-johnson|11|13|NJNBRK,A. Johnson,NJNBRK,3,176,60,116,2011,2013,False,fired
-carlesimo|13|13|NJNBRK,P. Carlesimo,NJNBRK,1,54,35,19,2013,2013,False,interim only
-kidd|14|14|NJNBRK,J. Kidd,NJNBRK,1,82,44,38,2014,2014,False,traded
-hollins|15|16|NJNBRK,L. Hollins,NJNBRK,2,119,48,71,2015,2016,False,fired
-brown|16|16|NJNBRK,T. Brown,NJNBRK,1,45,11,34,2016,2016,False,interim only
-atkinson|17|17|NJNBRK,K. Atkinson,NJNBRK,1,82,20,62,2017,2017,False,
-silas|01|03|NORLHP,P. Silas,NORLHP,3,246,137,109,2001,2003,True,fired
-floyd|04|04|NORLHP,T. Floyd,NORLHP,1,82,41,41,2004,2004,False,fired
-scott|05|10|NORLHP,B. Scott,NORLHP,6,419,203,216,2005,2010,False,fired
-bower|10|10|NORLHP,J. Bower,NORLHP,1,73,34,39,2010,2010,False,interim only
-williams|11|15|NORLHP,M. Williams,NORLHP,5,394,173,221,2011,2015,False,fired
-gentry|16|17|NORLHP,A. Gentry,NORLHP,2,164,64,100,2016,2017,False,
-gundy|01|02|NYK,J. Van Gundy,NYK,2,101,58,43,2001,2002,True,resigned
-chaney|02|04|NYK,D. Chaney,NYK,3,184,72,112,2002,2004,False,fired
-williams|04|04|NYK,H. Williams,NYK,1,1,1,0,2004,2004,False,interim only
-wilkens|04|05|NYK,L. Wilkens,NYK,2,81,40,41,2004,2005,False,resigned
-williams|05|05|NYK,H. Williams,NYK,1,43,16,27,2005,2005,False,interim only
-brown|06|06|NYK,L. Brown,NYK,1,82,23,59,2006,2006,False,fired
-thomas|07|08|NYK,I. Thomas,NYK,2,164,56,108,2007,2008,False,fired
-d'antoni|09|12|NYK,M. D'Antoni,NYK,4,288,121,167,2009,2012,False,resigned
-woodson|12|14|NYK,M. Woodson,NYK,3,188,109,79,2012,2014,False,fired
-fisher|15|16|NYK,D. Fisher,NYK,2,136,40,96,2015,2016,False,fired
-rambis|16|16|NYK,K. Rambis,NYK,1,28,9,19,2016,2016,False,interim only
-hornacek|17|17|NYK,J. Hornacek,NYK,1,82,31,51,2017,2017,False,
-rivers|01|04|ORL,D. Rivers,ORL,4,257,130,127,2001,2004,True,fired
-davis|04|05|ORL,J. Davis,ORL,2,135,51,84,2004,2005,False,fired
-jent|05|05|ORL,C. Jent,ORL,1,18,5,13,2005,2005,False,interim only
-hill|06|07|ORL,B. Hill,ORL,2,164,76,88,2006,2007,False,fired
-gundy|08|12|ORL,S. Van Gundy,ORL,5,394,259,135,2008,2012,False,fired
-vaughn|13|15|ORL,J. Vaughn,ORL,3,216,58,158,2013,2015,False,fired
-borrego|15|15|ORL,J. Borrego,ORL,1,30,10,20,2015,2015,False,interim only
-skiles|16|16|ORL,S. Skiles,ORL,1,82,35,47,2016,2016,False,resigned
-vogel|17|17|ORL,F. Vogel,ORL,1,82,29,53,2017,2017,False,
-brown|01|03|PHI,L. Brown,PHI,3,246,147,99,2001,2003,True,resigned
-ayers|04|04|PHI,R. Ayers,PHI,1,52,21,31,2004,2004,False,fired
-ford|04|04|PHI,C. Ford,PHI,1,30,12,18,2004,2004,False,interim only
-o'brien|05|05|PHI,J. O'Brien,PHI,1,82,43,39,2005,2005,False,fired
-cheeks|06|09|PHI,M. Cheeks,PHI,4,269,122,147,2006,2009,False,fired
-dileo|09|09|PHI,T. DiLeo,PHI,1,59,32,27,2009,2009,False,interim only
-jordan|10|10|PHI,E. Jordan,PHI,1,82,27,55,2010,2010,False,fired
-collins|11|13|PHI,D. Collins,PHI,3,230,110,120,2011,2013,False,resigned
-brown|14|17|PHI,B. Brown,PHI,4,328,75,253,2014,2017,False,
-skiles|01|02|PHO,S. Skiles,PHO,2,133,76,57,2001,2002,True,resigned
-johnson|02|04|PHO,F. Johnson,PHO,3,134,63,71,2002,2004,False,fired
-d'antoni|04|08|PHO,M. D'Antoni,PHO,5,389,253,136,2004,2008,False,resigned
-porter|09|09|PHO,T. Porter,PHO,1,51,28,23,2009,2009,False,fired
-gentry|09|13|PHO,A. Gentry,PHO,5,302,158,144,2009,2013,False,fired
-hunter|13|13|PHO,L. Hunter,PHO,1,41,12,29,2013,2013,False,interim only
-hornacek|14|16|PHO,J. Hornacek,PHO,3,213,101,112,2014,2016,False,fired
-watson|16|17|PHO,E. Watson,PHO,2,115,33,82,2016,2017,False,
-dunleavy|01|01|POR,M. Dunleavy,POR,1,82,50,32,2001,2001,True,fired
-cheeks|02|05|POR,M. Cheeks,POR,4,301,162,139,2002,2005,False,fired
-pritchard|05|05|POR,K. Pritchard,POR,1,27,5,22,2005,2005,False,interim only
-mcmillan|06|12|POR,N. McMillan,POR,7,535,266,269,2006,2012,False,fired
-canales|12|12|POR,K. Canales,POR,1,23,8,15,2012,2012,False,interim only
-stotts|13|17|POR,T. Stotts,POR,5,410,223,187,2013,2017,False,
-adelman|01|06|SAC,R. Adelman,SAC,6,492,324,168,2001,2006,True,fired
-musselman|07|07|SAC,E. Musselman,SAC,1,82,33,49,2007,2007,False,fired
-theus|08|09|SAC,R. Theus,SAC,2,106,44,62,2008,2009,False,fired
-natt|09|09|SAC,K. Natt,SAC,1,58,11,47,2009,2009,False,interim only
-westphal|10|12|SAC,P. Westphal,SAC,3,171,51,120,2010,2012,False,fired
-smart|12|13|SAC,K. Smart,SAC,2,141,48,93,2012,2013,False,fired
-malone|14|15|SAC,M. Malone,SAC,2,106,39,67,2014,2015,False,fired
-corbin|15|15|SAC,T. Corbin,SAC,1,28,7,21,2015,2015,False,fired
-karl|15|16|SAC,G. Karl,SAC,2,112,44,68,2015,2016,False,fired
-joerger|17|17|SAC,D. Joerger,SAC,1,82,32,50,2017,2017,False,
-popovich|01|17|SAS,G. Popovich,SAS,17,1378,987,391,2001,2017,True,
-westphal|01|01|SEAOKC,P. Westphal,SEAOKC,1,15,6,9,2001,2001,True,fired
-mcmillan|01|05|SEAOKC,N. McMillan,SEAOKC,5,395,212,183,2001,2005,False,contract expired
-weiss|06|06|SEAOKC,B. Weiss,SEAOKC,1,30,13,17,2006,2006,False,fired
-hill|06|07|SEAOKC,B. Hill,SEAOKC,2,134,53,81,2006,2007,False,fired
-carlesimo|08|09|SEAOKC,P. Carlesimo,SEAOKC,2,95,21,74,2008,2009,False,fired
-brooks|09|15|SEAOKC,S. Brooks,SEAOKC,7,545,338,207,2009,2015,False,fired
-donovan|16|17|SEAOKC,B. Donovan,SEAOKC,2,164,102,62,2016,2017,False,
-wilkens|01|03|TOR,L. Wilkens,TOR,3,246,113,133,2001,2003,True,fired
-o'neill|04|04|TOR,K. O'Neill,TOR,1,82,33,49,2004,2004,False,fired
-mitchell|05|09|TOR,S. Mitchell,TOR,5,345,156,189,2005,2009,False,fired
-triano|09|11|TOR,J. Triano,TOR,3,229,87,142,2009,2011,False,contract expired
-casey|12|17|TOR,D. Casey,TOR,6,476,261,215,2012,2017,False,
-sloan|01|11|UTA,J. Sloan,UTA,11,874,490,384,2001,2011,True,resigned
-corbin|11|14|UTA,T. Corbin,UTA,4,258,112,146,2011,2014,False,fired
-snyder|15|17|UTA,Q. Snyder,UTA,3,246,129,117,2015,2017,False,
-lowe|01|03|VANMEM,S. Lowe,VANMEM,3,172,46,126,2001,2003,True,resigned
-brown|03|05|VANMEM,H. Brown,VANMEM,3,168,83,85,2003,2005,False,retired
-hollins|05|05|VANMEM,L. Hollins,VANMEM,1,4,0,4,2005,2005,False,interim only
-fratello|05|07|VANMEM,M. Fratello,VANMEM,3,178,95,83,2005,2007,False,fired
-barone|07|07|VANMEM,T. Barone,VANMEM,1,52,16,36,2007,2007,False,interim only
-iavaroni|08|09|VANMEM,M. Iavaroni,VANMEM,2,123,33,90,2008,2009,False,fired
-davis|09|09|VANMEM,J. Davis,VANMEM,1,2,0,2,2009,2009,False,interim only
-hollins|09|13|VANMEM,L. Hollins,VANMEM,5,351,196,155,2009,2013,False,fired
-joerger|14|16|VANMEM,D. Joerger,VANMEM,3,246,147,99,2014,2016,False,fired
-fizdale|17|17|VANMEM,D. Fizdale,VANMEM,1,82,43,39,2017,2017,False,
-hamilton|01|01|WAS,L. Hamilton,WAS,1,82,19,63,2001,2001,True,resigned
-collins|02|03|WAS,D. Collins,WAS,2,164,74,90,2002,2003,False,fired
-jordan|04|09|WAS,E. Jordan,WAS,6,421,197,224,2004,2009,False,fired
-tapscott|09|09|WAS,E. Tapscott,WAS,1,71,18,53,2009,2009,False,fired
-saunders|10|12|WAS,F. Saunders,WAS,3,181,51,130,2010,2012,False,fired
-wittman|12|16|WAS,R. Wittman,WAS,5,377,178,199,2012,2016,False,fired
-brooks|17|17|WAS,S. Brooks,WAS,1,82,49,33,2017,2017,False,
+slug,coach,coach_id,franchise,seasons,games,wins,losses,min_date,max_date,left_truncated,ending
+krugelo99c|00|02|ATL,Lon Kruger,krugelo99c,ATL,3,191,69,122,2000-10-31,2002-12-23,True,fired
+stottte99c|02|04|ATL,Terry Stotts,stottte99c,ATL,2,137,52,85,2002-12-27,2004-04-14,False,fired
+woodsmi01c|04|10|ATL,Mike Woodson,woodsmi01c,ATL,6,492,206,286,2004-11-03,2010-04-14,False,fired
+drewla01c|10|13|ATL,Larry Drew,drewla01c,ATL,3,230,128,102,2010-10-27,2013-04-17,False,fired
+budenmi99c|13|17|ATL,Mike Budenholzer,budenmi99c,ATL,4,328,189,139,2013-10-30,2017-04-12,False,
+pitinri99c|00|01|BOS,Rick Pitino,pitinri99c,BOS,1,34,12,22,2000-11-01,2001-01-06,True,resigned
+obrieji99c|01|04|BOS,Jim O'Brien,obrieji99c,BOS,4,258,139,119,2001-01-08,2004-01-25,False,resigned
+carrojo99c|04|04|BOS,John Carroll,carrojo99c,BOS,1,36,14,22,2004-01-28,2004-04-14,False,interim only
+riverdo01c|04|13|BOS,Doc Rivers,riverdo01c,BOS,9,721,416,305,2004-11-03,2013-04-17,False,traded
+stevebr99c|13|17|BOS,Brad Stevens,stevebr99c,BOS,4,328,166,162,2013-10-30,2017-04-12,False,
+bickebe99c|04|07|CHARBH,Bernie Bickerstaff,bickebe99c,CHARBH,3,246,77,169,2004-11-04,2007-04-18,False,resigned
+vincesa01c|07|08|CHARBH,Sam Vincent,vincesa01c,CHARBH,1,82,32,50,2007-11-02,2008-04-16,False,fired
+brownla01c|08|10|CHARBH,Larry Brown,brownla01c,CHARBH,3,192,88,104,2008-10-30,2010-12-21,False,resigned
+silaspa01c|10|12|CHARBH,Paul Silas,silaspa01c,CHARBH,2,120,32,88,2010-12-27,2012-04-26,False,fired
+dunlami99c|12|13|CHARBH,Mike Dunlap,dunlami99c,CHARBH,1,82,21,61,2012-11-02,2013-04-17,False,fired
+cliffst99c|13|17|CHARBH,Steve Clifford,cliffst99c,CHARBH,4,328,160,168,2013-10-30,2017-04-11,False,
+floydti99c|00|01|CHI,Tim Floyd,floydti99c,CHI,2,107,19,88,2000-10-31,2001-12-22,True,resigned
+berrybi99c|01|01|CHI,Bill Berry,berrybi99c,CHI,1,2,0,2,2001-12-26,2001-12-27,False,interim only
+cartwbi01c|01|03|CHI,Bill Cartwright,cartwbi01c,CHI,3,151,51,100,2001-12-29,2003-11-23,False,fired
+myerspe01c|03|03|CHI,Pete Myers,myerspe01c,CHI,1,2,0,2,2003-11-25,2003-11-26,False,interim only
+skilesc01c|03|07|CHI,Scott Skiles,skilesc01c,CHI,5,337,165,172,2003-12-01,2007-12-22,False,fired
+myerspe01c|07|07|CHI,Pete Myers,myerspe01c,CHI,1,1,0,1,2007-12-26,2007-12-26,False,interim only
+boylaji99c|07|08|CHI,Jim Boylan,boylaji99c,CHI,1,56,24,32,2007-12-28,2008-04-16,False,interim only
+delnevi01c|08|10|CHI,Vinny Del Negro,delnevi01c,CHI,2,164,82,82,2008-10-28,2010-04-14,False,fired
+thiboto99c|10|15|CHI,Tom Thibodeau,thiboto99c,CHI,5,394,255,139,2010-10-27,2015-04-15,False,fired
+hoibefr99c|15|17|CHI,Fred Hoiberg,hoibefr99c,CHI,2,164,83,81,2015-10-27,2017-04-12,False,
+wittmra01c|00|01|CLE,Randy Wittman,wittmra01c,CLE,1,82,30,52,2000-10-31,2001-04-18,True,fired
+lucasjo01c|01|03|CLE,John Lucas,lucasjo01c,CLE,2,124,37,87,2001-10-30,2003-01-18,False,fired
+smartke01c|03|03|CLE,Keith Smart,smartke01c,CLE,1,40,9,31,2003-01-21,2003-04-16,False,interim only
+silaspa01c|03|05|CLE,Paul Silas,silaspa01c,CLE,2,146,69,77,2003-10-29,2005-03-20,False,fired
+malonbr99c|05|05|CLE,Brendan Malone,malonbr99c,CLE,1,18,8,10,2005-03-22,2005-04-20,False,interim only
+brownmi99c|05|10|CLE,Mike Brown,brownmi99c,CLE,5,410,272,138,2005-11-02,2010-04-14,False,fired
+scottby01c|10|13|CLE,Byron Scott,scottby01c,CLE,3,230,64,166,2010-10-27,2013-04-17,False,fired
+brownmi99c|13|14|CLE,Mike Brown,brownmi99c,CLE,1,82,33,49,2013-10-30,2014-04-16,False,fired
+blattda99c|14|16|CLE,David Blatt,blattda99c,CLE,2,123,83,40,2014-10-30,2016-01-21,False,fired
+luety01c|16|17|CLE,Tyronn Lue,luety01c,CLE,2,123,78,45,2016-01-23,2017-04-12,False,
+nelsodo01c|00|05|DAL,Don Nelson,nelsodo01c,DAL,5,392,264,128,2000-10-31,2005-03-17,True,resigned
+johnsav01c|05|08|DAL,Avery Johnson,johnsav01c,DAL,4,264,194,70,2005-03-19,2008-04-16,False,fired
+carliri01c|08|17|DAL,Rick Carlisle,carliri01c,DAL,9,722,413,309,2008-10-30,2017-04-12,False,
+isselda01c|00|01|DEN,Dan Issel,isselda01c,DEN,2,108,49,59,2000-11-01,2001-12-22,True,resigned
+evansmi01c|01|02|DEN,Mike Evans,evansmi01c,DEN,1,56,18,38,2001-12-26,2002-04-17,False,interim only
+bzdelje99c|02|04|DEN,Jeff Bzdelik,bzdelje99c,DEN,3,192,73,119,2002-10-30,2004-12-27,False,fired
+coopemi01c|04|05|DEN,Michael Cooper,coopemi01c,DEN,1,14,4,10,2004-12-31,2005-01-26,False,interim only
+karlge01c|05|13|DEN,George Karl,karlge01c,DEN,9,680,423,257,2005-01-28,2013-04-17,False,fired
+shawbr01c|13|15|DEN,Brian Shaw,shawbr01c,DEN,2,141,56,85,2013-10-30,2015-03-01,False,fired
+huntme01c|15|15|DEN,Melvin Hunt,huntme01c,DEN,1,23,10,13,2015-03-03,2015-04-15,False,interim only
+malonmi99c|15|17|DEN,Mike Malone,malonmi99c,DEN,2,164,73,91,2015-10-28,2017-04-12,False,
+irvinge01c|00|01|DET,George Irvine,irvinge01c,DET,1,82,32,50,2000-10-31,2001-04-18,True,fired
+carliri01c|01|03|DET,Rick Carlisle,carliri01c,DET,2,164,100,64,2001-10-30,2003-04-16,False,fired
+brownla01c|03|05|DET,Larry Brown,brownla01c,DET,2,164,108,56,2003-10-29,2005-04-20,False,fired
+saundfl99c|05|08|DET,Flip Saunders,saundfl99c,DET,3,246,176,70,2005-11-02,2008-04-16,False,fired
+currymi01c|08|09|DET,Michael Curry,currymi01c,DET,1,82,39,43,2008-10-29,2009-04-15,False,fired
+kuestjo01c|09|11|DET,John Kuester,kuestjo01c,DET,2,164,57,107,2009-10-28,2011-04-13,False,fired
+frankla99c|11|13|DET,Lawrence Frank,frankla99c,DET,2,148,54,94,2011-12-26,2013-04-17,False,fired
+cheekma01c|13|14|DET,Maurice Cheeks,cheekma01c,DET,1,50,21,29,2013-10-30,2014-02-08,False,fired
+loyerjo99c|14|14|DET,John Loyer,loyerjo99c,DET,1,32,8,24,2014-02-10,2014-04-16,False,interim only
+vangust99c|14|17|DET,Stan Van Gundy,vangust99c,DET,3,246,113,133,2014-10-29,2017-04-12,False,
+cowenda01c|00|01|GSW,Dave Cowens,cowenda01c,GSW,2,105,25,80,2000-10-31,2001-12-13,True,fired
+wintebr01c|01|02|GSW,Brian Winters,wintebr01c,GSW,1,59,13,46,2001-12-15,2002-04-17,False,interim only
+musseer99c|02|04|GSW,Eric Musselman,musseer99c,GSW,2,164,75,89,2002-10-30,2004-04-14,False,fired
+montgmi99c|04|06|GSW,Mike Montgomery,montgmi99c,GSW,2,164,68,96,2004-11-03,2006-04-19,False,fired
+nelsodo01c|06|10|GSW,Don Nelson,nelsodo01c,GSW,4,328,145,183,2006-11-01,2010-04-14,False,fired
+smartke01c|10|11|GSW,Keith Smart,smartke01c,GSW,1,82,36,46,2010-10-27,2011-04-13,False,interim only
+jacksma01c|11|14|GSW,Mark Jackson,jacksma01c,GSW,3,230,121,109,2011-12-25,2014-04-16,False,fired
+kerrst01c|14|17|GSW,Steve Kerr,kerrst01c,GSW,3,246,207,39,2014-10-29,2017-04-12,False,
+tomjaru01c|00|03|HOU,Rudy Tomjanovich,tomjaru01c,HOU,3,246,116,130,2000-10-31,2003-04-16,True,resigned
+vanguje99c|03|07|HOU,Jeff Van Gundy,vanguje99c,HOU,4,328,182,146,2003-10-30,2007-04-18,False,fired
+adelmri01c|07|11|HOU,Rick Adelman,adelmri01c,HOU,4,328,193,135,2007-10-30,2011-04-13,False,fired
+mchalke01c|11|15|HOU,Kevin McHale,mchalke01c,HOU,5,323,193,130,2011-12-26,2015-11-16,False,fired
+bickejb01c|15|16|HOU,J.B. Bickerstaff,bickejb01c,HOU,1,71,37,34,2015-11-18,2016-04-13,False,interim only
+dantomi01c|16|17|HOU,Mike D'Antoni,dantomi01c,HOU,1,82,55,27,2016-10-26,2017-04-12,False,
+thomais01c|00|03|IND,Isiah Thomas,thomais01c,IND,3,246,131,115,2000-10-31,2003-04-16,True,fired
+carliri01c|03|07|IND,Rick Carlisle,carliri01c,IND,4,328,181,147,2003-10-29,2007-04-18,False,fired
+obrieji99c|07|11|IND,Jim O'Brien,obrieji99c,IND,4,290,121,169,2007-10-31,2011-01-29,False,fired
+vogelfr99c|11|16|IND,Frank Vogel,vogelfr99c,IND,6,431,250,181,2011-01-31,2016-04-13,False,fired
+mcmilna01c|16|17|IND,Nate McMillan,mcmilna01c,IND,1,82,42,40,2016-10-26,2017-04-12,False,
+gentral99c|00|03|LAC,Alvin Gentry,gentral99c,LAC,3,222,89,133,2000-10-31,2003-03-01,True,fired
+johnsde01c|03|03|LAC,Dennis Johnson,johnsde01c,LAC,1,24,8,16,2003-03-03,2003-04-16,False,interim only
+dunlemi01c|03|10|LAC,Mike Dunleavy,dunlemi01c,LAC,7,541,215,326,2003-10-30,2010-02-03,False,resigned
+hugheki01c|10|10|LAC,Kim Hughes,hugheki01c,LAC,1,33,8,25,2010-02-06,2010-04-14,False,interim only
+delnevi01c|10|13|LAC,Vinny Del Negro,delnevi01c,LAC,3,230,128,102,2010-10-27,2013-04-17,False,fired
+riverdo01c|13|17|LAC,Doc Rivers,riverdo01c,LAC,4,328,217,111,2013-10-29,2017-04-12,False,
+jacksph01c|00|04|LAL,Phil Jackson,jacksph01c,LAL,4,328,220,108,2000-10-31,2004-04-14,True,fired
+tomjaru01c|04|05|LAL,Rudy Tomjanovich,tomjaru01c,LAL,1,43,24,19,2004-11-02,2005-02-01,False,resigned
+hamblfr99c|05|05|LAL,Frank Hamblen,hamblfr99c,LAL,1,39,10,29,2005-02-03,2005-04-20,False,interim only
+jacksph01c|05|11|LAL,Phil Jackson,jacksph01c,LAL,6,492,323,169,2005-11-02,2011-04-13,False,resigned
+brownmi99c|11|12|LAL,Mike Brown,brownmi99c,LAL,2,71,42,29,2011-12-25,2012-11-07,False,fired
+bickebe99c|12|12|LAL,Bernie Bickerstaff,bickebe99c,LAL,1,5,4,1,2012-11-09,2012-11-18,False,interim only
+dantomi01c|12|14|LAL,Mike D'Antoni,dantomi01c,LAL,2,154,67,87,2012-11-20,2014-04-16,False,mutual
+scottby01c|14|16|LAL,Byron Scott,scottby01c,LAL,2,164,38,126,2014-10-28,2016-04-13,False,fired
+waltolu01c|16|17|LAL,Luke Walton,waltolu01c,LAL,1,82,26,56,2016-10-26,2017-04-12,False,
+rileypa01c|00|03|MIA,Pat Riley,rileypa01c,MIA,3,246,111,135,2000-11-01,2003-04-15,True,resigned
+vangust99c|03|05|MIA,Stan Van Gundy,vangust99c,MIA,3,185,112,73,2003-10-28,2005-12-11,False,resigned
+rileypa01c|05|08|MIA,Pat Riley,rileypa01c,MIA,3,225,100,125,2005-12-13,2008-04-16,False,resigned
+spoeler99c|08|17|MIA,Erik Spoelstra,spoeler99c,MIA,9,722,440,282,2008-10-29,2017-04-12,False,
+karlge01c|00|03|MIL,George Karl,karlge01c,MIL,3,246,135,111,2000-10-31,2003-04-16,True,fired
+portete01c|03|05|MIL,Terry Porter,portete01c,MIL,2,164,71,93,2003-10-29,2005-04-19,False,fired
+stottte99c|05|07|MIL,Terry Stotts,stottte99c,MIL,2,146,63,83,2005-11-01,2007-03-12,False,fired
+krystla01c|07|08|MIL,Larry Krystkowiak,krystla01c,MIL,2,100,31,69,2007-03-15,2008-04-16,False,fired
+skilesc01c|08|13|MIL,Scott Skiles,skilesc01c,MIL,5,344,162,182,2008-10-28,2013-01-05,False,mutual
+boylaji99c|13|13|MIL,Jim Boylan,boylaji99c,MIL,1,50,22,28,2013-01-08,2013-04-17,False,interim only
+drewla01c|13|14|MIL,Larry Drew,drewla01c,MIL,1,82,15,67,2013-10-30,2014-04-16,False,fired
+kiddja01c|14|17|MIL,Jason Kidd,kiddja01c,MIL,3,246,116,130,2014-10-29,2017-04-12,False,
+saundfl99c|00|05|MIN,Flip Saunders,saundfl99c,MIN,5,379,231,148,2000-10-31,2005-02-11,True,fired
+mchalke01c|05|05|MIN,Kevin McHale,mchalke01c,MIN,1,31,19,12,2005-02-13,2005-04-20,False,resigned
+caseydw99c|05|07|MIN,Dwane Casey,caseydw99c,MIN,2,122,53,69,2005-11-02,2007-01-22,False,fired
+wittmra01c|07|08|MIN,Randy Wittman,wittmra01c,MIN,3,143,38,105,2007-01-24,2008-12-06,False,fired
+mchalke01c|08|09|MIN,Kevin McHale,mchalke01c,MIN,1,63,20,43,2008-12-09,2009-04-15,False,fired
+rambiku01c|09|11|MIN,Kurt Rambis,rambiku01c,MIN,2,164,32,132,2009-10-28,2011-04-13,False,fired
+adelmri01c|11|14|MIN,Rick Adelman,adelmri01c,MIN,3,230,97,133,2011-12-26,2014-04-16,False,retired
+saundfl99c|14|15|MIN,Flip Saunders,saundfl99c,MIN,1,82,16,66,2014-10-29,2015-04-15,False,died
+mitchsa01c|15|16|MIN,Sam Mitchell,mitchsa01c,MIN,1,82,29,53,2015-10-28,2016-04-13,False,interim only
+thiboto99c|16|17|MIN,Tom Thibodeau,thiboto99c,MIN,1,82,31,51,2016-10-26,2017-04-12,False,
+scottby01c|00|04|NJNBRK,Byron Scott,scottby01c,NJNBRK,4,288,149,139,2000-10-31,2004-01-25,True,fired
+frankla99c|04|09|NJNBRK,Lawrence Frank,frankla99c,NJNBRK,7,466,225,241,2004-01-27,2009-11-27,False,fired
+barrito99c|09|09|NJNBRK,Tom Barrise,barrito99c,NJNBRK,1,2,0,2,2009-11-29,2009-12-02,False,interim only
+vandeki01c|09|10|NJNBRK,Kiki Vandeweghe,vandeki01c,NJNBRK,1,64,12,52,2009-12-04,2010-04-14,False,interim only
+johnsav01c|10|12|NJNBRK,Avery Johnson,johnsav01c,NJNBRK,3,176,60,116,2010-10-27,2012-12-26,False,fired
+carlepj99c|12|13|NJNBRK,P.J. Carlesimo,carlepj99c,NJNBRK,1,54,35,19,2012-12-28,2013-04-17,False,interim only
+kiddja01c|13|14|NJNBRK,Jason Kidd,kiddja01c,NJNBRK,1,82,44,38,2013-10-30,2014-04-16,False,traded
+hollili01c|14|16|NJNBRK,Lionel Hollins,hollili01c,NJNBRK,2,119,48,71,2014-10-29,2016-01-09,False,fired
+brownto01c|16|16|NJNBRK,Tony Brown,brownto01c,NJNBRK,1,45,11,34,2016-01-11,2016-04-13,False,interim only
+atkinke01c|16|17|NJNBRK,Kenny Atkinson,atkinke01c,NJNBRK,1,82,20,62,2016-10-26,2017-04-12,False,
+silaspa01c|00|03|NORLHP,Paul Silas,silaspa01c,NORLHP,3,246,137,109,2000-10-31,2003-04-16,True,fired
+floydti99c|03|04|NORLHP,Tim Floyd,floydti99c,NORLHP,1,82,41,41,2003-10-29,2004-04-14,False,fired
+scottby01c|04|09|NORLHP,Byron Scott,scottby01c,NORLHP,6,419,203,216,2004-11-03,2009-11-11,False,fired
+bowerje99c|09|10|NORLHP,Jeff Bower,bowerje99c,NORLHP,1,73,34,39,2009-11-13,2010-04-14,False,interim only
+willimo01c|10|15|NORLHP,Monty Williams,willimo01c,NORLHP,5,394,173,221,2010-10-27,2015-04-15,False,fired
+gentral99c|15|17|NORLHP,Alvin Gentry,gentral99c,NORLHP,2,164,64,100,2015-10-27,2017-04-12,False,
+vanguje99c|00|01|NYK,Jeff Van Gundy,vanguje99c,NYK,2,101,58,43,2000-10-31,2001-12-04,True,resigned
+chanedo01c|01|04|NYK,Don Chaney,chanedo01c,NYK,3,184,72,112,2001-12-08,2004-01-12,False,fired
+willihe01c|04|04|NYK,Herb Williams,willihe01c,NYK,1,1,1,0,2004-01-14,2004-01-14,False,interim only
+wilkele01c|04|05|NYK,Lenny Wilkens,wilkele01c,NYK,2,81,40,41,2004-01-16,2005-01-21,False,resigned
+willihe01c|05|05|NYK,Herb Williams,willihe01c,NYK,1,43,16,27,2005-01-23,2005-04-20,False,interim only
+brownla01c|05|06|NYK,Larry Brown,brownla01c,NYK,1,82,23,59,2005-11-02,2006-04-19,False,fired
+thomais01c|06|08|NYK,Isiah Thomas,thomais01c,NYK,2,164,56,108,2006-11-01,2008-04-16,False,fired
+dantomi01c|08|12|NYK,Mike D'Antoni,dantomi01c,NYK,4,288,121,167,2008-10-29,2012-03-12,False,resigned
+woodsmi01c|12|14|NYK,Mike Woodson,woodsmi01c,NYK,3,188,109,79,2012-03-14,2014-04-16,False,fired
+fishede01c|14|16|NYK,Derek Fisher,fishede01c,NYK,2,136,40,96,2014-10-29,2016-02-07,False,fired
+rambiku01c|16|16|NYK,Kurt Rambis,rambiku01c,NYK,1,28,9,19,2016-02-09,2016-04-12,False,interim only
+hornaje01c|16|17|NYK,Jeff Hornacek,hornaje01c,NYK,1,82,31,51,2016-10-25,2017-04-12,False,
+riverdo01c|00|03|ORL,Doc Rivers,riverdo01c,ORL,4,257,130,127,2000-10-31,2003-11-17,True,fired
+davisjo01c|03|05|ORL,Johnny Davis,davisjo01c,ORL,2,135,51,84,2003-11-20,2005-03-16,False,fired
+jentch01c|05|05|ORL,Chris Jent,jentch01c,ORL,1,18,5,13,2005-03-18,2005-04-20,False,interim only
+hillbr99c|05|07|ORL,Brian Hill,hillbr99c,ORL,2,164,76,88,2005-11-02,2007-04-18,False,fired
+vangust99c|07|12|ORL,Stan Van Gundy,vangust99c,ORL,5,394,259,135,2007-10-31,2012-04-26,False,fired
+vaughja01c|12|15|ORL,Jacque Vaughn,vaughja01c,ORL,3,216,58,158,2012-11-02,2015-02-04,False,fired
+borreja99c|15|15|ORL,James Borrego,borreja99c,ORL,1,30,10,20,2015-02-06,2015-04-15,False,interim only
+skilesc01c|15|16|ORL,Scott Skiles,skilesc01c,ORL,1,82,35,47,2015-10-28,2016-04-13,False,resigned
+vogelfr99c|16|17|ORL,Frank Vogel,vogelfr99c,ORL,1,82,29,53,2016-10-26,2017-04-12,False,
+brownla01c|00|03|PHI,Larry Brown,brownla01c,PHI,3,246,147,99,2000-10-31,2003-04-16,True,resigned
+ayersra99c|03|04|PHI,Randy Ayers,ayersra99c,PHI,1,52,21,31,2003-10-28,2004-02-08,False,fired
+fordch01c|04|04|PHI,Chris Ford,fordch01c,PHI,1,30,12,18,2004-02-11,2004-04-14,False,interim only
+obrieji99c|04|05|PHI,Jim O'Brien,obrieji99c,PHI,1,82,43,39,2004-11-03,2005-04-20,False,fired
+cheekma01c|05|08|PHI,Maurice Cheeks,cheekma01c,PHI,4,269,122,147,2005-11-01,2008-12-12,False,fired
+dileoto99c|08|09|PHI,Tony DiLeo,dileoto99c,PHI,1,59,32,27,2008-12-13,2009-04-15,False,interim only
+jordaed01c|09|10|PHI,Eddie Jordan,jordaed01c,PHI,1,82,27,55,2009-10-28,2010-04-14,False,fired
+collido01c|10|13|PHI,Doug Collins,collido01c,PHI,3,230,110,120,2010-10-27,2013-04-17,False,resigned
+brownbr99c|13|17|PHI,Brett Brown,brownbr99c,PHI,4,328,75,253,2013-10-30,2017-04-12,False,
+skilesc01c|00|02|PHO,Scott Skiles,skilesc01c,PHO,2,133,76,57,2000-10-31,2002-02-15,True,resigned
+johnsfr01c|02|03|PHO,Frank Johnson,johnsfr01c,PHO,3,134,63,71,2002-02-17,2003-12-09,False,fired
+dantomi01c|03|08|PHO,Mike D'Antoni,dantomi01c,PHO,5,389,253,136,2003-12-11,2008-04-16,False,resigned
+portete01c|08|09|PHO,Terry Porter,portete01c,PHO,1,51,28,23,2008-10-29,2009-02-11,False,fired
+gentral99c|09|13|PHO,Alvin Gentry,gentral99c,PHO,5,302,158,144,2009-02-17,2013-01-17,False,fired
+hunteli01c|13|13|PHO,Lindsey Hunter,hunteli01c,PHO,1,41,12,29,2013-01-23,2013-04-17,False,interim only
+hornaje01c|13|16|PHO,Jeff Hornacek,hornaje01c,PHO,3,213,101,112,2013-10-30,2016-01-31,False,fired
+watsoea01c|16|17|PHO,Earl Watson,watsoea01c,PHO,2,115,33,82,2016-02-02,2017-04-11,False,
+dunlemi01c|00|01|POR,Mike Dunleavy,dunlemi01c,POR,1,82,50,32,2000-10-31,2001-04-17,True,fired
+cheekma01c|01|05|POR,Maurice Cheeks,cheekma01c,POR,4,301,162,139,2001-10-30,2005-03-01,False,fired
+pritcke01c|05|05|POR,Kevin Pritchard,pritcke01c,POR,1,27,5,22,2005-03-04,2005-04-20,False,interim only
+mcmilna01c|05|12|POR,Nate McMillan,mcmilna01c,POR,7,535,266,269,2005-11-02,2012-03-14,False,fired
+canalka99c|12|12|POR,Kaleb Canales,canalka99c,POR,1,23,8,15,2012-03-16,2012-04-26,False,interim only
+stottte99c|12|17|POR,Terry Stotts,stottte99c,POR,5,410,223,187,2012-10-31,2017-04-12,False,
+adelmri01c|00|06|SAC,Rick Adelman,adelmri01c,SAC,6,492,324,168,2000-10-31,2006-04-18,True,fired
+musseer99c|06|07|SAC,Eric Musselman,musseer99c,SAC,1,82,33,49,2006-11-01,2007-04-18,False,fired
+theusre01c|07|08|SAC,Reggie Theus,theusre01c,SAC,2,106,44,62,2007-10-31,2008-12-13,False,fired
+nattke01c|08|09|SAC,Kenny Natt,nattke01c,SAC,1,58,11,47,2008-12-15,2009-04-15,False,interim only
+westppa01c|09|12|SAC,Paul Westphal,westppa01c,SAC,3,171,51,120,2009-10-28,2012-01-04,False,fired
+smartke01c|12|13|SAC,Keith Smart,smartke01c,SAC,2,141,48,93,2012-01-05,2013-04-17,False,fired
+malonmi99c|13|14|SAC,Mike Malone,malonmi99c,SAC,2,106,39,67,2013-10-30,2014-12-13,False,fired
+corbity01c|14|15|SAC,Tyrone Corbin,corbity01c,SAC,1,28,7,21,2014-12-16,2015-02-11,False,fired
+karlge01c|15|16|SAC,George Karl,karlge01c,SAC,2,112,44,68,2015-02-20,2016-04-13,False,fired
+joergda99c|16|17|SAC,Dave Joerger,joergda99c,SAC,1,82,32,50,2016-10-26,2017-04-12,False,
+popovgr99c|00|17|SAS,Gregg Popovich,popovgr99c,SAS,17,1378,987,391,2000-10-31,2017-04-12,True,
+westppa01c|00|00|SEAOKC,Paul Westphal,westppa01c,SEAOKC,1,15,6,9,2000-10-31,2000-11-25,True,fired
+mcmilna01c|00|05|SEAOKC,Nate McMillan,mcmilna01c,SEAOKC,5,395,212,183,2000-11-28,2005-04-20,False,contract expired
+weissbo01c|05|06|SEAOKC,Bob Weiss,weissbo01c,SEAOKC,1,30,13,17,2005-11-02,2006-01-02,False,fired
+hillbo99c|06|07|SEAOKC,Bob Hill,hillbo99c,SEAOKC,2,134,53,81,2006-01-04,2007-04-18,False,fired
+carlepj99c|07|08|SEAOKC,P.J. Carlesimo,carlepj99c,SEAOKC,2,95,21,74,2007-10-31,2008-11-21,False,fired
+brooksc01c|08|15|SEAOKC,Scott Brooks,brooksc01c,SEAOKC,7,545,338,207,2008-11-22,2015-04-15,False,fired
+donovbi99c|15|17|SEAOKC,Billy Donovan,donovbi99c,SEAOKC,2,164,102,62,2015-10-28,2017-04-12,False,
+wilkele01c|00|03|TOR,Lenny Wilkens,wilkele01c,TOR,3,246,113,133,2000-10-31,2003-04-16,True,fired
+oneilke99c|03|04|TOR,Kevin O'Neill,oneilke99c,TOR,1,82,33,49,2003-10-29,2004-04-14,False,fired
+mitchsa01c|04|08|TOR,Sam Mitchell,mitchsa01c,TOR,5,345,156,189,2004-11-03,2008-12-02,False,fired
+trianja99c|08|11|TOR,Jay Triano,trianja99c,TOR,3,229,87,142,2008-12-05,2011-04-13,False,contract expired
+caseydw99c|11|17|TOR,Dwane Casey,caseydw99c,TOR,6,476,261,215,2011-12-26,2017-04-12,False,
+sloanje01c|00|11|UTA,Jerry Sloan,sloanje01c,UTA,11,874,490,384,2000-10-31,2011-02-09,True,resigned
+corbity01c|11|14|UTA,Tyrone Corbin,corbity01c,UTA,4,258,112,146,2011-02-11,2014-04-16,False,fired
+snydequ01c|14|17|UTA,Quin Snyder,snydequ01c,UTA,3,246,129,117,2014-10-29,2017-04-12,False,
+lowesi01c|00|02|VANMEM,Sidney Lowe,lowesi01c,VANMEM,3,172,46,126,2000-10-31,2002-11-11,True,resigned
+brownhu99c|02|04|VANMEM,Hubie Brown,brownhu99c,VANMEM,3,168,83,85,2002-11-15,2004-11-24,False,retired
+hollili01c|04|04|VANMEM,Lionel Hollins,hollili01c,VANMEM,1,4,0,4,2004-11-26,2004-12-01,False,interim only
+fratemi99c|04|06|VANMEM,Mike Fratello,fratemi99c,VANMEM,3,178,95,83,2004-12-03,2006-12-27,False,fired
+baronto99c|06|07|VANMEM,Tony Barone,baronto99c,VANMEM,1,52,16,36,2006-12-30,2007-04-18,False,interim only
+iavarma01c|07|09|VANMEM,Marc Iavaroni,iavarma01c,VANMEM,2,123,33,90,2007-10-31,2009-01-21,False,fired
+davisjo01c|09|09|VANMEM,Johnny Davis,davisjo01c,VANMEM,1,2,0,2,2009-01-23,2009-01-24,False,interim only
+hollili01c|09|13|VANMEM,Lionel Hollins,hollili01c,VANMEM,5,351,196,155,2009-01-27,2013-04-17,False,fired
+joergda99c|13|16|VANMEM,Dave Joerger,joergda99c,VANMEM,3,246,147,99,2013-10-30,2016-04-13,False,fired
+fizdada01c|16|17|VANMEM,David Fizdale,fizdada01c,VANMEM,1,82,43,39,2016-10-26,2017-04-12,False,
+hamille99c|00|01|WAS,Leonard Hamilton,hamille99c,WAS,1,82,19,63,2000-10-31,2001-04-18,True,resigned
+collido01c|01|03|WAS,Doug Collins,collido01c,WAS,2,164,74,90,2001-10-30,2003-04-16,False,fired
+jordaed01c|03|08|WAS,Eddie Jordan,jordaed01c,WAS,6,421,197,224,2003-10-29,2008-11-22,False,fired
+tapsced99c|08|09|WAS,Ed Tapscott,tapsced99c,WAS,1,71,18,53,2008-11-25,2009-04-15,False,fired
+saundfl99c|09|12|WAS,Flip Saunders,saundfl99c,WAS,3,181,51,130,2009-10-27,2012-01-23,False,fired
+wittmra01c|12|16|WAS,Randy Wittman,wittmra01c,WAS,5,377,178,199,2012-01-25,2016-04-13,False,fired
+brooksc01c|16|17|WAS,Scott Brooks,brooksc01c,WAS,1,82,49,33,2016-10-27,2017-04-12,False,
