@@ -54,14 +54,15 @@ for tm in tqdm(teams, desc='teams'):
         tbl = gamelogsoup.find("table", id="games").tbody.find_all('tr')
         for t in tbl:
             if not t.get('class'):
-                gamelogres = {}
-                gamelogres['franchise'] = f
-                gamelogres['team'] = s
-                gamelogres['season'] = y
-                gamelogres['game_num'] = t.find(attrs={"data-stat": "g"}).text
-                gamelogres['date'] = t.find(attrs={"data-stat": "date_game"})['csk']
-                gamelogres['result'] = t.find(attrs={"data-stat": "game_result"}).text
-                gamelogs.append(gamelogres)
+                if t.find(attrs={"data-stat": "game_result"}).text != '':
+                    gamelogres = {}
+                    gamelogres['franchise'] = f
+                    gamelogres['team'] = s
+                    gamelogres['season'] = y
+                    gamelogres['game_num'] = t.find(attrs={"data-stat": "g"}).text
+                    gamelogres['date'] = t.find(attrs={"data-stat": "date_game"})['csk']
+                    gamelogres['result'] = t.find(attrs={"data-stat": "game_result"}).text
+                    gamelogs.append(gamelogres)
 
     # scrape all coaches for a team
     

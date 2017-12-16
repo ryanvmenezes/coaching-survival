@@ -56,13 +56,13 @@
     "coach_id": "budenmi99c", 
     "min_date": "2013-10-30", 
     "franchise": "ATL", 
-    "seasons": 4, 
+    "seasons": 5, 
     "slug": "budenmi99c|13|17|ATL", 
-    "wins": 189, 
-    "losses": 139, 
+    "wins": 195, 
+    "losses": 161, 
     "left_truncated": false, 
-    "games": 328, 
-    "max_date": "2017-04-12"
+    "games": 356, 
+    "max_date": "2017-12-14"
   }, 
   {
     "coach": "Rick Pitino", 
@@ -121,13 +121,13 @@
     "coach_id": "stevebr99c", 
     "min_date": "2013-10-30", 
     "franchise": "BOS", 
-    "seasons": 4, 
+    "seasons": 5, 
     "slug": "stevebr99c|13|17|BOS", 
-    "wins": 166, 
-    "losses": 162, 
+    "wins": 190, 
+    "losses": 168, 
     "left_truncated": false, 
-    "games": 328, 
-    "max_date": "2017-04-12"
+    "games": 358, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Bernie Bickerstaff", 
@@ -199,13 +199,13 @@
     "coach_id": "cliffst99c", 
     "min_date": "2013-10-30", 
     "franchise": "CHARBH", 
-    "seasons": 4, 
+    "seasons": 5, 
     "slug": "cliffst99c|13|17|CHARBH", 
-    "wins": 160, 
-    "losses": 168, 
+    "wins": 170, 
+    "losses": 185, 
     "left_truncated": false, 
-    "games": 328, 
-    "max_date": "2017-04-11"
+    "games": 355, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Tim Floyd", 
@@ -329,13 +329,13 @@
     "coach_id": "hoibefr99c", 
     "min_date": "2015-10-27", 
     "franchise": "CHI", 
-    "seasons": 2, 
+    "seasons": 3, 
     "slug": "hoibefr99c|15|17|CHI", 
-    "wins": 83, 
-    "losses": 81, 
+    "wins": 90, 
+    "losses": 101, 
     "left_truncated": false, 
-    "games": 164, 
-    "max_date": "2017-04-12"
+    "games": 191, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Randy Wittman", 
@@ -459,13 +459,13 @@
     "coach_id": "luety01c", 
     "min_date": "2016-01-23", 
     "franchise": "CLE", 
-    "seasons": 2, 
+    "seasons": 3, 
     "slug": "luety01c|16|17|CLE", 
-    "wins": 78, 
-    "losses": 45, 
+    "wins": 99, 
+    "losses": 53, 
     "left_truncated": false, 
-    "games": 123, 
-    "max_date": "2017-04-12"
+    "games": 152, 
+    "max_date": "2017-12-14"
   }, 
   {
     "coach": "Don Nelson", 
@@ -498,13 +498,13 @@
     "coach_id": "carliri01c", 
     "min_date": "2008-10-30", 
     "franchise": "DAL", 
-    "seasons": 9, 
+    "seasons": 10, 
     "slug": "carliri01c|08|17|DAL", 
-    "wins": 413, 
-    "losses": 309, 
+    "wins": 421, 
+    "losses": 330, 
     "left_truncated": false, 
-    "games": 722, 
-    "max_date": "2017-04-12"
+    "games": 751, 
+    "max_date": "2017-12-14"
   }, 
   {
     "coach": "Dan Issel", 
@@ -602,13 +602,13 @@
     "coach_id": "malonmi99c", 
     "min_date": "2015-10-28", 
     "franchise": "DEN", 
-    "seasons": 2, 
+    "seasons": 3, 
     "slug": "malonmi99c|15|17|DEN", 
-    "wins": 73, 
-    "losses": 91, 
+    "wins": 88, 
+    "losses": 104, 
     "left_truncated": false, 
-    "games": 164, 
-    "max_date": "2017-04-12"
+    "games": 192, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "George Irvine", 
@@ -732,13 +732,13 @@
     "coach_id": "vangust99c", 
     "min_date": "2014-10-29", 
     "franchise": "DET", 
-    "seasons": 3, 
+    "seasons": 4, 
     "slug": "vangust99c|14|17|DET", 
-    "wins": 113, 
-    "losses": 133, 
+    "wins": 128, 
+    "losses": 146, 
     "left_truncated": false, 
-    "games": 246, 
-    "max_date": "2017-04-12"
+    "games": 274, 
+    "max_date": "2017-12-14"
   }, 
   {
     "coach": "Dave Cowens", 
@@ -836,13 +836,13 @@
     "coach_id": "kerrst01c", 
     "min_date": "2014-10-29", 
     "franchise": "GSW", 
-    "seasons": 3, 
+    "seasons": 4, 
     "slug": "kerrst01c|14|17|GSW", 
-    "wins": 207, 
-    "losses": 39, 
+    "wins": 230, 
+    "losses": 45, 
     "left_truncated": false, 
-    "games": 246, 
-    "max_date": "2017-04-12"
+    "games": 275, 
+    "max_date": "2017-12-14"
   }, 
   {
     "coach": "Rudy Tomjanovich", 
@@ -914,13 +914,13 @@
     "coach_id": "dantomi01c", 
     "min_date": "2016-10-26", 
     "franchise": "HOU", 
-    "seasons": 1, 
+    "seasons": 2, 
     "slug": "dantomi01c|16|17|HOU", 
-    "wins": 55, 
-    "losses": 27, 
+    "wins": 77, 
+    "losses": 31, 
     "left_truncated": false, 
-    "games": 82, 
-    "max_date": "2017-04-12"
+    "games": 108, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Isiah Thomas", 
@@ -979,13 +979,13 @@
     "coach_id": "mcmilna01c", 
     "min_date": "2016-10-26", 
     "franchise": "IND", 
-    "seasons": 1, 
+    "seasons": 2, 
     "slug": "mcmilna01c|16|17|IND", 
-    "wins": 42, 
-    "losses": 40, 
+    "wins": 58, 
+    "losses": 52, 
     "left_truncated": false, 
-    "games": 82, 
-    "max_date": "2017-04-12"
+    "games": 110, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Alvin Gentry", 
@@ -1057,13 +1057,13 @@
     "coach_id": "riverdo01c", 
     "min_date": "2013-10-29", 
     "franchise": "LAC", 
-    "seasons": 4, 
+    "seasons": 5, 
     "slug": "riverdo01c|13|17|LAC", 
-    "wins": 217, 
-    "losses": 111, 
+    "wins": 228, 
+    "losses": 126, 
     "left_truncated": false, 
-    "games": 328, 
-    "max_date": "2017-04-12"
+    "games": 354, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Phil Jackson", 
@@ -1174,13 +1174,13 @@
     "coach_id": "waltolu01c", 
     "min_date": "2016-10-26", 
     "franchise": "LAL", 
-    "seasons": 1, 
+    "seasons": 2, 
     "slug": "waltolu01c|16|17|LAL", 
-    "wins": 26, 
-    "losses": 56, 
+    "wins": 36, 
+    "losses": 73, 
     "left_truncated": false, 
-    "games": 82, 
-    "max_date": "2017-04-12"
+    "games": 109, 
+    "max_date": "2017-12-14"
   }, 
   {
     "coach": "Pat Riley", 
@@ -1226,13 +1226,13 @@
     "coach_id": "spoeler99c", 
     "min_date": "2008-10-29", 
     "franchise": "MIA", 
-    "seasons": 9, 
+    "seasons": 10, 
     "slug": "spoeler99c|08|17|MIA", 
-    "wins": 440, 
-    "losses": 282, 
+    "wins": 453, 
+    "losses": 296, 
     "left_truncated": false, 
-    "games": 722, 
-    "max_date": "2017-04-12"
+    "games": 749, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "George Karl", 
@@ -1330,13 +1330,13 @@
     "coach_id": "kiddja01c", 
     "min_date": "2014-10-29", 
     "franchise": "MIL", 
-    "seasons": 3, 
+    "seasons": 4, 
     "slug": "kiddja01c|14|17|MIL", 
-    "wins": 116, 
-    "losses": 130, 
+    "wins": 131, 
+    "losses": 141, 
     "left_truncated": false, 
-    "games": 246, 
-    "max_date": "2017-04-12"
+    "games": 272, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Flip Saunders", 
@@ -1460,13 +1460,13 @@
     "coach_id": "thiboto99c", 
     "min_date": "2016-10-26", 
     "franchise": "MIN", 
-    "seasons": 1, 
+    "seasons": 2, 
     "slug": "thiboto99c|16|17|MIN", 
-    "wins": 31, 
-    "losses": 51, 
+    "wins": 48, 
+    "losses": 63, 
     "left_truncated": false, 
-    "games": 82, 
-    "max_date": "2017-04-12"
+    "games": 111, 
+    "max_date": "2017-12-14"
   }, 
   {
     "coach": "Byron Scott", 
@@ -1590,13 +1590,13 @@
     "coach_id": "atkinke01c", 
     "min_date": "2016-10-26", 
     "franchise": "NJNBRK", 
-    "seasons": 1, 
+    "seasons": 2, 
     "slug": "atkinke01c|16|17|NJNBRK", 
-    "wins": 20, 
-    "losses": 62, 
+    "wins": 31, 
+    "losses": 78, 
     "left_truncated": false, 
-    "games": 82, 
-    "max_date": "2017-04-12"
+    "games": 109, 
+    "max_date": "2017-12-14"
   }, 
   {
     "coach": "Paul Silas", 
@@ -1668,13 +1668,13 @@
     "coach_id": "gentral99c", 
     "min_date": "2015-10-27", 
     "franchise": "NORLHP", 
-    "seasons": 2, 
+    "seasons": 3, 
     "slug": "gentral99c|15|17|NORLHP", 
-    "wins": 64, 
-    "losses": 100, 
+    "wins": 79, 
+    "losses": 114, 
     "left_truncated": false, 
-    "games": 164, 
-    "max_date": "2017-04-12"
+    "games": 193, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Jeff Van Gundy", 
@@ -1824,13 +1824,13 @@
     "coach_id": "hornaje01c", 
     "min_date": "2016-10-25", 
     "franchise": "NYK", 
-    "seasons": 1, 
+    "seasons": 2, 
     "slug": "hornaje01c|16|17|NYK", 
-    "wins": 31, 
-    "losses": 51, 
+    "wins": 46, 
+    "losses": 64, 
     "left_truncated": false, 
-    "games": 82, 
-    "max_date": "2017-04-12"
+    "games": 110, 
+    "max_date": "2017-12-14"
   }, 
   {
     "coach": "Doc Rivers", 
@@ -1941,13 +1941,13 @@
     "coach_id": "vogelfr99c", 
     "min_date": "2016-10-26", 
     "franchise": "ORL", 
-    "seasons": 1, 
+    "seasons": 2, 
     "slug": "vogelfr99c|16|17|ORL", 
-    "wins": 29, 
-    "losses": 53, 
+    "wins": 40, 
+    "losses": 71, 
     "left_truncated": false, 
-    "games": 82, 
-    "max_date": "2017-04-12"
+    "games": 111, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Larry Brown", 
@@ -2058,13 +2058,13 @@
     "coach_id": "brownbr99c", 
     "min_date": "2013-10-30", 
     "franchise": "PHI", 
-    "seasons": 4, 
+    "seasons": 5, 
     "slug": "brownbr99c|13|17|PHI", 
-    "wins": 75, 
-    "losses": 253, 
+    "wins": 89, 
+    "losses": 266, 
     "left_truncated": false, 
-    "games": 328, 
-    "max_date": "2017-04-12"
+    "games": 355, 
+    "max_date": "2017-12-12"
   }, 
   {
     "coach": "Scott Skiles", 
@@ -2162,13 +2162,26 @@
     "coach_id": "watsoea01c", 
     "min_date": "2016-02-02", 
     "franchise": "PHO", 
-    "seasons": 2, 
+    "seasons": 3, 
     "slug": "watsoea01c|16|17|PHO", 
     "wins": 33, 
-    "losses": 82, 
+    "losses": 85, 
     "left_truncated": false, 
-    "games": 115, 
-    "max_date": "2017-04-11"
+    "games": 118, 
+    "max_date": "2017-10-21"
+  }, 
+  {
+    "coach": "Jay Triano", 
+    "coach_id": "trianja99c", 
+    "min_date": "2017-10-23", 
+    "franchise": "PHO", 
+    "seasons": 1, 
+    "slug": "trianja99c|17|17|PHO", 
+    "wins": 9, 
+    "losses": 18, 
+    "left_truncated": false, 
+    "games": 27, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Mike Dunleavy", 
@@ -2240,13 +2253,13 @@
     "coach_id": "stottte99c", 
     "min_date": "2012-10-31", 
     "franchise": "POR", 
-    "seasons": 5, 
+    "seasons": 6, 
     "slug": "stottte99c|12|17|POR", 
-    "wins": 223, 
-    "losses": 187, 
+    "wins": 237, 
+    "losses": 200, 
     "left_truncated": false, 
-    "games": 410, 
-    "max_date": "2017-04-12"
+    "games": 437, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Rick Adelman", 
@@ -2370,26 +2383,26 @@
     "coach_id": "joergda99c", 
     "min_date": "2016-10-26", 
     "franchise": "SAC", 
-    "seasons": 1, 
+    "seasons": 2, 
     "slug": "joergda99c|16|17|SAC", 
-    "wins": 32, 
-    "losses": 50, 
+    "wins": 41, 
+    "losses": 69, 
     "left_truncated": false, 
-    "games": 82, 
-    "max_date": "2017-04-12"
+    "games": 110, 
+    "max_date": "2017-12-14"
   }, 
   {
     "coach": "Gregg Popovich", 
     "coach_id": "popovgr99c", 
     "min_date": "2000-10-31", 
     "franchise": "SAS", 
-    "seasons": 17, 
+    "seasons": 18, 
     "slug": "popovgr99c|00|17|SAS", 
-    "wins": 987, 
-    "losses": 391, 
+    "wins": 1006, 
+    "losses": 400, 
     "left_truncated": true, 
-    "games": 1378, 
-    "max_date": "2017-04-12"
+    "games": 1406, 
+    "max_date": "2017-12-12"
   }, 
   {
     "coach": "Paul Westphal", 
@@ -2474,13 +2487,13 @@
     "coach_id": "donovbi99c", 
     "min_date": "2015-10-28", 
     "franchise": "SEAOKC", 
-    "seasons": 2, 
+    "seasons": 3, 
     "slug": "donovbi99c|15|17|SEAOKC", 
-    "wins": 102, 
-    "losses": 62, 
+    "wins": 115, 
+    "losses": 76, 
     "left_truncated": false, 
-    "games": 164, 
-    "max_date": "2017-04-12"
+    "games": 191, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Lenny Wilkens", 
@@ -2539,13 +2552,13 @@
     "coach_id": "caseydw99c", 
     "min_date": "2011-12-26", 
     "franchise": "TOR", 
-    "seasons": 6, 
+    "seasons": 7, 
     "slug": "caseydw99c|11|17|TOR", 
-    "wins": 261, 
-    "losses": 215, 
+    "wins": 279, 
+    "losses": 223, 
     "left_truncated": false, 
-    "games": 476, 
-    "max_date": "2017-04-12"
+    "games": 502, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Jerry Sloan", 
@@ -2578,13 +2591,13 @@
     "coach_id": "snydequ01c", 
     "min_date": "2014-10-29", 
     "franchise": "UTA", 
-    "seasons": 3, 
+    "seasons": 4, 
     "slug": "snydequ01c|14|17|UTA", 
-    "wins": 129, 
-    "losses": 117, 
+    "wins": 142, 
+    "losses": 132, 
     "left_truncated": false, 
-    "games": 246, 
-    "max_date": "2017-04-12"
+    "games": 274, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Sidney Lowe", 
@@ -2708,13 +2721,26 @@
     "coach_id": "fizdada01c", 
     "min_date": "2016-10-26", 
     "franchise": "VANMEM", 
-    "seasons": 1, 
+    "seasons": 2, 
     "slug": "fizdada01c|16|17|VANMEM", 
-    "wins": 43, 
-    "losses": 39, 
+    "wins": 50, 
+    "losses": 51, 
     "left_truncated": false, 
-    "games": 82, 
-    "max_date": "2017-04-12"
+    "games": 101, 
+    "max_date": "2017-11-26"
+  }, 
+  {
+    "coach": "J.B. Bickerstaff", 
+    "coach_id": "bickejb01c", 
+    "min_date": "2017-11-29", 
+    "franchise": "VANMEM", 
+    "seasons": 1, 
+    "slug": "bickejb01c|17|17|VANMEM", 
+    "wins": 1, 
+    "losses": 8, 
+    "left_truncated": false, 
+    "games": 9, 
+    "max_date": "2017-12-13"
   }, 
   {
     "coach": "Leonard Hamilton", 
@@ -2799,12 +2825,12 @@
     "coach_id": "brooksc01c", 
     "min_date": "2016-10-27", 
     "franchise": "WAS", 
-    "seasons": 1, 
+    "seasons": 2, 
     "slug": "brooksc01c|16|17|WAS", 
-    "wins": 49, 
-    "losses": 33, 
+    "wins": 64, 
+    "losses": 46, 
     "left_truncated": false, 
-    "games": 82, 
-    "max_date": "2017-04-12"
+    "games": 110, 
+    "max_date": "2017-12-13"
   }
 ]

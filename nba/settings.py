@@ -1,7 +1,7 @@
 import csv
 
 MIN_YEAR = 2001
-MAX_YEAR = 2017
+MAX_YEAR = 2018
 YEARS_TO_SCRAPE = range(MIN_YEAR, MAX_YEAR+1)
 
 def read_csv(fpath, delimiter=','):

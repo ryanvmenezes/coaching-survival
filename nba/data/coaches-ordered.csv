@@ -1,4 +1,5 @@
 franchise,team,year,coaches_text,coach,coach_id,wins,losses,games,order
+ATL,ATL,2018,M. Budenholzer (6-22),M. Budenholzer,budenmi99c,6,22,28,1
 ATL,ATL,2017,M. Budenholzer (43-39),M. Budenholzer,budenmi99c,43,39,82,1
 ATL,ATL,2016,M. Budenholzer (48-34),M. Budenholzer,budenmi99c,48,34,82,1
 ATL,ATL,2015,M. Budenholzer (60-22),M. Budenholzer,budenmi99c,60,22,82,1
@@ -17,6 +18,7 @@ ATL,ATL,2003,"L. Kruger (11-16), T. Stotts (24-31)",T. Stotts,stottte99c,24,31,5
 ATL,ATL,2003,"L. Kruger (11-16), T. Stotts (24-31)",L. Kruger,krugelo99c,11,16,27,1
 ATL,ATL,2002,L. Kruger (33-49),L. Kruger,krugelo99c,33,49,82,1
 ATL,ATL,2001,L. Kruger (25-57),L. Kruger,krugelo99c,25,57,82,1
+MIL,MIL,2018,J. Kidd (15-11),J. Kidd,kiddja01c,15,11,26,1
 MIL,MIL,2017,J. Kidd (42-40),J. Kidd,kiddja01c,42,40,82,1
 MIL,MIL,2016,J. Kidd (33-49),J. Kidd,kiddja01c,33,49,82,1
 MIL,MIL,2015,J. Kidd (41-41),J. Kidd,kiddja01c,41,41,82,1
@@ -36,6 +38,7 @@ MIL,MIL,2004,T. Porter (41-41),T. Porter,portete01c,41,41,82,1
 MIL,MIL,2003,G. Karl (42-40),G. Karl,karlge01c,42,40,82,1
 MIL,MIL,2002,G. Karl (41-41),G. Karl,karlge01c,41,41,82,1
 MIL,MIL,2001,G. Karl (52-30),G. Karl,karlge01c,52,30,82,1
+MIN,MIN,2018,T. Thibodeau (17-12),T. Thibodeau,thiboto99c,17,12,29,1
 MIN,MIN,2017,T. Thibodeau (31-51),T. Thibodeau,thiboto99c,31,51,82,1
 MIN,MIN,2016,S. Mitchell (29-53),S. Mitchell,mitchsa01c,29,53,82,1
 MIN,MIN,2015,F. Saunders (16-66),F. Saunders,saundfl99c,16,66,82,1
@@ -56,6 +59,7 @@ MIN,MIN,2004,F. Saunders (58-24),F. Saunders,saundfl99c,58,24,82,1
 MIN,MIN,2003,F. Saunders (51-31),F. Saunders,saundfl99c,51,31,82,1
 MIN,MIN,2002,F. Saunders (50-32),F. Saunders,saundfl99c,50,32,82,1
 MIN,MIN,2001,F. Saunders (47-35),F. Saunders,saundfl99c,47,35,82,1
+NORLHP,NOP,2018,A. Gentry (15-14),A. Gentry,gentral99c,15,14,29,1
 NORLHP,NOP,2017,A. Gentry (34-48),A. Gentry,gentral99c,34,48,82,1
 NORLHP,NOP,2016,A. Gentry (30-52),A. Gentry,gentral99c,30,52,82,1
 NORLHP,NOP,2015,M. Williams (45-37),M. Williams,willimo01c,45,37,82,1
@@ -72,6 +76,7 @@ NORLHP,NOK,2006,B. Scott (38-44),B. Scott,scottby01c,38,44,82,1
 NORLHP,NOH,2005,B. Scott (18-64),B. Scott,scottby01c,18,64,82,1
 NORLHP,NOH,2004,T. Floyd (41-41),T. Floyd,floydti99c,41,41,82,1
 NORLHP,NOH,2003,P. Silas (47-35),P. Silas,silaspa01c,47,35,82,1
+NYK,NYK,2018,J. Hornacek (15-13),J. Hornacek,hornaje01c,15,13,28,1
 NYK,NYK,2017,J. Hornacek (31-51),J. Hornacek,hornaje01c,31,51,82,1
 NYK,NYK,2016,"D. Fisher (23-31), K. Rambis (9-19)",K. Rambis,rambiku01c,9,19,28,2
 NYK,NYK,2016,"D. Fisher (23-31), K. Rambis (9-19)",D. Fisher,fishede01c,23,31,54,1
@@ -95,6 +100,7 @@ NYK,NYK,2003,D. Chaney (37-45),D. Chaney,chanedo01c,37,45,82,1
 NYK,NYK,2002,"J. Van Gundy (10-9), D. Chaney (20-43)",D. Chaney,chanedo01c,20,43,63,2
 NYK,NYK,2002,"J. Van Gundy (10-9), D. Chaney (20-43)",J. Van Gundy,vanguje99c,10,9,19,1
 NYK,NYK,2001,J. Van Gundy (48-34),J. Van Gundy,vanguje99c,48,34,82,1
+SEAOKC,OKC,2018,B. Donovan (13-14),B. Donovan,donovbi99c,13,14,27,1
 SEAOKC,OKC,2017,B. Donovan (47-35),B. Donovan,donovbi99c,47,35,82,1
 SEAOKC,OKC,2016,B. Donovan (55-27),B. Donovan,donovbi99c,55,27,82,1
 SEAOKC,OKC,2015,S. Brooks (45-37),S. Brooks,brooksc01c,45,37,82,1
@@ -115,6 +121,7 @@ SEAOKC,SEA,2003,N. McMillan (40-42),N. McMillan,mcmilna01c,40,42,82,1
 SEAOKC,SEA,2002,N. McMillan (45-37),N. McMillan,mcmilna01c,45,37,82,1
 SEAOKC,SEA,2001,"P. Westphal (6-9), N. McMillan (38-29)",N. McMillan,mcmilna01c,38,29,67,2
 SEAOKC,SEA,2001,"P. Westphal (6-9), N. McMillan (38-29)",P. Westphal,westppa01c,6,9,15,1
+ORL,ORL,2018,F. Vogel (11-18),F. Vogel,vogelfr99c,11,18,29,1
 ORL,ORL,2017,F. Vogel (29-53),F. Vogel,vogelfr99c,29,53,82,1
 ORL,ORL,2016,S. Skiles (35-47),S. Skiles,skilesc01c,35,47,82,1
 ORL,ORL,2015,"J. Vaughn (15-37), J. Borrego (10-20)",J. Borrego,borreja99c,10,20,30,2
@@ -135,6 +142,7 @@ ORL,ORL,2004,"D. Rivers (1-10), J. Davis (20-51)",D. Rivers,riverdo01c,1,10,11,1
 ORL,ORL,2003,D. Rivers (42-40),D. Rivers,riverdo01c,42,40,82,1
 ORL,ORL,2002,D. Rivers (44-38),D. Rivers,riverdo01c,44,38,82,1
 ORL,ORL,2001,D. Rivers (43-39),D. Rivers,riverdo01c,43,39,82,1
+PHI,PHI,2018,B. Brown (14-13),B. Brown,brownbr99c,14,13,27,1
 PHI,PHI,2017,B. Brown (28-54),B. Brown,brownbr99c,28,54,82,1
 PHI,PHI,2016,B. Brown (10-72),B. Brown,brownbr99c,10,72,82,1
 PHI,PHI,2015,B. Brown (18-64),B. Brown,brownbr99c,18,64,82,1
@@ -154,6 +162,8 @@ PHI,PHI,2004,"R. Ayers (21-31), C. Ford (12-18)",R. Ayers,ayersra99c,21,31,52,1
 PHI,PHI,2003,L. Brown (48-34),L. Brown,brownla01c,48,34,82,1
 PHI,PHI,2002,L. Brown (43-39),L. Brown,brownla01c,43,39,82,1
 PHI,PHI,2001,L. Brown (56-26),L. Brown,brownla01c,56,26,82,1
+PHO,PHO,2018,"E. Watson (0-3), J. Triano (9-18)",J. Triano,trianja99c,9,18,27,2
+PHO,PHO,2018,"E. Watson (0-3), J. Triano (9-18)",E. Watson,watsoea01c,0,3,3,1
 PHO,PHO,2017,E. Watson (24-58),E. Watson,watsoea01c,24,58,82,1
 PHO,PHO,2016,"J. Hornacek (14-35), E. Watson (9-24)",E. Watson,watsoea01c,9,24,33,2
 PHO,PHO,2016,"J. Hornacek (14-35), E. Watson (9-24)",J. Hornacek,hornaje01c,14,35,49,1
@@ -176,6 +186,7 @@ PHO,PHO,2003,F. Johnson (44-38),F. Johnson,johnsfr01c,44,38,82,1
 PHO,PHO,2002,"S. Skiles (25-26), F. Johnson (11-20)",F. Johnson,johnsfr01c,11,20,31,2
 PHO,PHO,2002,"S. Skiles (25-26), F. Johnson (11-20)",S. Skiles,skilesc01c,25,26,51,1
 PHO,PHO,2001,S. Skiles (51-31),S. Skiles,skilesc01c,51,31,82,1
+POR,POR,2018,T. Stotts (14-13),T. Stotts,stottte99c,14,13,27,1
 POR,POR,2017,T. Stotts (41-41),T. Stotts,stottte99c,41,41,82,1
 POR,POR,2016,T. Stotts (44-38),T. Stotts,stottte99c,44,38,82,1
 POR,POR,2015,T. Stotts (51-31),T. Stotts,stottte99c,51,31,82,1
@@ -195,6 +206,7 @@ POR,POR,2004,M. Cheeks (41-41),M. Cheeks,cheekma01c,41,41,82,1
 POR,POR,2003,M. Cheeks (50-32),M. Cheeks,cheekma01c,50,32,82,1
 POR,POR,2002,M. Cheeks (49-33),M. Cheeks,cheekma01c,49,33,82,1
 POR,POR,2001,M. Dunleavy (50-32),M. Dunleavy,dunlemi01c,50,32,82,1
+SAC,SAC,2018,D. Joerger (9-19),D. Joerger,joergda99c,9,19,28,1
 SAC,SAC,2017,D. Joerger (32-50),D. Joerger,joergda99c,32,50,82,1
 SAC,SAC,2016,G. Karl (33-49),G. Karl,karlge01c,33,49,82,1
 SAC,SAC,2015,"M. Malone (11-13), T. Corbin (7-21), G. Karl (11-19)",G. Karl,karlge01c,11,19,30,3
@@ -216,6 +228,7 @@ SAC,SAC,2004,R. Adelman (55-27),R. Adelman,adelmri01c,55,27,82,1
 SAC,SAC,2003,R. Adelman (59-23),R. Adelman,adelmri01c,59,23,82,1
 SAC,SAC,2002,R. Adelman (61-21),R. Adelman,adelmri01c,61,21,82,1
 SAC,SAC,2001,R. Adelman (55-27),R. Adelman,adelmri01c,55,27,82,1
+SAS,SAS,2018,G. Popovich (19-9),G. Popovich,popovgr99c,19,9,28,1
 SAS,SAS,2017,G. Popovich (61-21),G. Popovich,popovgr99c,61,21,82,1
 SAS,SAS,2016,G. Popovich (67-15),G. Popovich,popovgr99c,67,15,82,1
 SAS,SAS,2015,G. Popovich (55-27),G. Popovich,popovgr99c,55,27,82,1
@@ -233,6 +246,7 @@ SAS,SAS,2004,G. Popovich (57-25),G. Popovich,popovgr99c,57,25,82,1
 SAS,SAS,2003,G. Popovich (60-22),G. Popovich,popovgr99c,60,22,82,1
 SAS,SAS,2002,G. Popovich (58-24),G. Popovich,popovgr99c,58,24,82,1
 SAS,SAS,2001,G. Popovich (58-24),G. Popovich,popovgr99c,58,24,82,1
+TOR,TOR,2018,D. Casey (18-8),D. Casey,caseydw99c,18,8,26,1
 TOR,TOR,2017,D. Casey (51-31),D. Casey,caseydw99c,51,31,82,1
 TOR,TOR,2016,D. Casey (56-26),D. Casey,caseydw99c,56,26,82,1
 TOR,TOR,2015,D. Casey (49-33),D. Casey,caseydw99c,49,33,82,1
@@ -251,6 +265,7 @@ TOR,TOR,2004,K. O'Neill (33-49),K. O'Neill,oneilke99c,33,49,82,1
 TOR,TOR,2003,L. Wilkens (24-58),L. Wilkens,wilkele01c,24,58,82,1
 TOR,TOR,2002,L. Wilkens (42-40),L. Wilkens,wilkele01c,42,40,82,1
 TOR,TOR,2001,L. Wilkens (47-35),L. Wilkens,wilkele01c,47,35,82,1
+UTA,UTA,2018,Q. Snyder (13-15),Q. Snyder,snydequ01c,13,15,28,1
 UTA,UTA,2017,Q. Snyder (51-31),Q. Snyder,snydequ01c,51,31,82,1
 UTA,UTA,2016,Q. Snyder (40-42),Q. Snyder,snydequ01c,40,42,82,1
 UTA,UTA,2015,Q. Snyder (38-44),Q. Snyder,snydequ01c,38,44,82,1
@@ -269,6 +284,7 @@ UTA,UTA,2004,J. Sloan (42-40),J. Sloan,sloanje01c,42,40,82,1
 UTA,UTA,2003,J. Sloan (47-35),J. Sloan,sloanje01c,47,35,82,1
 UTA,UTA,2002,J. Sloan (44-38),J. Sloan,sloanje01c,44,38,82,1
 UTA,UTA,2001,J. Sloan (53-29),J. Sloan,sloanje01c,53,29,82,1
+MIA,MIA,2018,E. Spoelstra (13-14),E. Spoelstra,spoeler99c,13,14,27,1
 MIA,MIA,2017,E. Spoelstra (41-41),E. Spoelstra,spoeler99c,41,41,82,1
 MIA,MIA,2016,E. Spoelstra (48-34),E. Spoelstra,spoeler99c,48,34,82,1
 MIA,MIA,2015,E. Spoelstra (37-45),E. Spoelstra,spoeler99c,37,45,82,1
@@ -287,6 +303,8 @@ MIA,MIA,2004,S. Van Gundy (42-40),S. Van Gundy,vangust99c,42,40,82,1
 MIA,MIA,2003,P. Riley (25-57),P. Riley,rileypa01c,25,57,82,1
 MIA,MIA,2002,P. Riley (36-46),P. Riley,rileypa01c,36,46,82,1
 MIA,MIA,2001,P. Riley (50-32),P. Riley,rileypa01c,50,32,82,1
+VANMEM,MEM,2018,"D. Fizdale (7-12), J. Bickerstaff (1-8)",J. Bickerstaff,bickejb01c,1,8,9,2
+VANMEM,MEM,2018,"D. Fizdale (7-12), J. Bickerstaff (1-8)",D. Fizdale,fizdada01c,7,12,19,1
 VANMEM,MEM,2017,D. Fizdale (43-39),D. Fizdale,fizdada01c,43,39,82,1
 VANMEM,MEM,2016,D. Joerger (42-40),D. Joerger,joergda99c,42,40,82,1
 VANMEM,MEM,2015,D. Joerger (55-27),D. Joerger,joergda99c,55,27,82,1
@@ -310,6 +328,7 @@ VANMEM,MEM,2003,"S. Lowe (0-8), H. Brown (28-46)",H. Brown,brownhu99c,28,46,74,2
 VANMEM,MEM,2003,"S. Lowe (0-8), H. Brown (28-46)",S. Lowe,lowesi01c,0,8,8,1
 VANMEM,MEM,2002,S. Lowe (23-59),S. Lowe,lowesi01c,23,59,82,1
 VANMEM,VAN,2001,S. Lowe (23-59),S. Lowe,lowesi01c,23,59,82,1
+BOS,BOS,2018,B. Stevens (24-6),B. Stevens,stevebr99c,24,6,30,1
 BOS,BOS,2017,B. Stevens (53-29),B. Stevens,stevebr99c,53,29,82,1
 BOS,BOS,2016,B. Stevens (48-34),B. Stevens,stevebr99c,48,34,82,1
 BOS,BOS,2015,B. Stevens (40-42),B. Stevens,stevebr99c,40,42,82,1
@@ -329,6 +348,7 @@ BOS,BOS,2003,J. O'Brien (44-38),J. O'Brien,obrieji99c,44,38,82,1
 BOS,BOS,2002,J. O'Brien (49-33),J. O'Brien,obrieji99c,49,33,82,1
 BOS,BOS,2001,"R. Pitino (12-22), J. O'Brien (24-24)",J. O'Brien,obrieji99c,24,24,48,2
 BOS,BOS,2001,"R. Pitino (12-22), J. O'Brien (24-24)",R. Pitino,pitinri99c,12,22,34,1
+NJNBRK,BRK,2018,K. Atkinson (11-16),K. Atkinson,atkinke01c,11,16,27,1
 NJNBRK,BRK,2017,K. Atkinson (20-62),K. Atkinson,atkinke01c,20,62,82,1
 NJNBRK,BRK,2016,"L. Hollins (10-27), T. Brown (11-34)",T. Brown,brownto01c,11,34,45,2
 NJNBRK,BRK,2016,"L. Hollins (10-27), T. Brown (11-34)",L. Hollins,hollili01c,10,27,37,1
@@ -351,6 +371,7 @@ NJNBRK,NJN,2004,"B. Scott (22-20), L. Frank (25-15)",B. Scott,scottby01c,22,20,4
 NJNBRK,NJN,2003,B. Scott (49-33),B. Scott,scottby01c,49,33,82,1
 NJNBRK,NJN,2002,B. Scott (52-30),B. Scott,scottby01c,52,30,82,1
 NJNBRK,NJN,2001,B. Scott (26-56),B. Scott,scottby01c,26,56,82,1
+CHI,CHI,2018,F. Hoiberg (7-20),F. Hoiberg,hoibefr99c,7,20,27,1
 CHI,CHI,2017,F. Hoiberg (41-41),F. Hoiberg,hoibefr99c,41,41,82,1
 CHI,CHI,2016,F. Hoiberg (42-40),F. Hoiberg,hoibefr99c,42,40,82,1
 CHI,CHI,2015,T. Thibodeau (50-32),T. Thibodeau,thiboto99c,50,32,82,1
@@ -374,6 +395,7 @@ CHI,CHI,2002,"T. Floyd (4-21), B. Berry (0-2), B. Cartwright (17-38)",B. Cartwri
 CHI,CHI,2002,"T. Floyd (4-21), B. Berry (0-2), B. Cartwright (17-38)",B. Berry,berrybi99c,0,2,2,2
 CHI,CHI,2002,"T. Floyd (4-21), B. Berry (0-2), B. Cartwright (17-38)",T. Floyd,floydti99c,4,21,25,1
 CHI,CHI,2001,T. Floyd (15-67),T. Floyd,floydti99c,15,67,82,1
+CHARBH,CHO,2018,S. Clifford (10-17),S. Clifford,cliffst99c,10,17,27,1
 CHARBH,CHO,2017,S. Clifford (36-46),S. Clifford,cliffst99c,36,46,82,1
 CHARBH,CHO,2016,S. Clifford (48-34),S. Clifford,cliffst99c,48,34,82,1
 CHARBH,CHO,2015,S. Clifford (33-49),S. Clifford,cliffst99c,33,49,82,1
@@ -390,6 +412,7 @@ CHARBH,CHA,2006,B. Bickerstaff (26-56),B. Bickerstaff,bickebe99c,26,56,82,1
 CHARBH,CHA,2005,B. Bickerstaff (18-64),B. Bickerstaff,bickebe99c,18,64,82,1
 NORLHP,CHH,2002,P. Silas (44-38),P. Silas,silaspa01c,44,38,82,1
 NORLHP,CHH,2001,P. Silas (46-36),P. Silas,silaspa01c,46,36,82,1
+CLE,CLE,2018,T. Lue (21-8),T. Lue,luety01c,21,8,29,1
 CLE,CLE,2017,T. Lue (51-31),T. Lue,luety01c,51,31,82,1
 CLE,CLE,2016,"D. Blatt (30-11), T. Lue (27-14)",T. Lue,luety01c,27,14,41,2
 CLE,CLE,2016,"D. Blatt (30-11), T. Lue (27-14)",D. Blatt,blattda99c,30,11,41,1
@@ -410,6 +433,7 @@ CLE,CLE,2003,"J. Lucas (8-34), K. Smart (9-31)",K. Smart,smartke01c,9,31,40,2
 CLE,CLE,2003,"J. Lucas (8-34), K. Smart (9-31)",J. Lucas,lucasjo01c,8,34,42,1
 CLE,CLE,2002,J. Lucas (29-53),J. Lucas,lucasjo01c,29,53,82,1
 CLE,CLE,2001,R. Wittman (30-52),R. Wittman,wittmra01c,30,52,82,1
+DAL,DAL,2018,R. Carlisle (8-21),R. Carlisle,carliri01c,8,21,29,1
 DAL,DAL,2017,R. Carlisle (33-49),R. Carlisle,carliri01c,33,49,82,1
 DAL,DAL,2016,R. Carlisle (42-40),R. Carlisle,carliri01c,42,40,82,1
 DAL,DAL,2015,R. Carlisle (50-32),R. Carlisle,carliri01c,50,32,82,1
@@ -428,6 +452,7 @@ DAL,DAL,2004,D. Nelson (52-30),D. Nelson,nelsodo01c,52,30,82,1
 DAL,DAL,2003,D. Nelson (60-22),D. Nelson,nelsodo01c,60,22,82,1
 DAL,DAL,2002,D. Nelson (57-25),D. Nelson,nelsodo01c,57,25,82,1
 DAL,DAL,2001,D. Nelson (53-29),D. Nelson,nelsodo01c,53,29,82,1
+DEN,DEN,2018,M. Malone (15-13),M. Malone,malonmi99c,15,13,28,1
 DEN,DEN,2017,M. Malone (40-42),M. Malone,malonmi99c,40,42,82,1
 DEN,DEN,2016,M. Malone (33-49),M. Malone,malonmi99c,33,49,82,1
 DEN,DEN,2015,"B. Shaw (20-39), M. Hunt (10-13)",M. Hunt,huntme01c,10,13,23,2
@@ -449,6 +474,7 @@ DEN,DEN,2003,J. Bzdelik (17-65),J. Bzdelik,bzdelje99c,17,65,82,1
 DEN,DEN,2002,"D. Issel (9-17), M. Evans (18-38)",M. Evans,evansmi01c,18,38,56,2
 DEN,DEN,2002,"D. Issel (9-17), M. Evans (18-38)",D. Issel,isselda01c,9,17,26,1
 DEN,DEN,2001,D. Issel (40-42),D. Issel,isselda01c,40,42,82,1
+DET,DET,2018,S. Van Gundy (15-13),S. Van Gundy,vangust99c,15,13,28,1
 DET,DET,2017,S. Van Gundy (37-45),S. Van Gundy,vangust99c,37,45,82,1
 DET,DET,2016,S. Van Gundy (44-38),S. Van Gundy,vangust99c,44,38,82,1
 DET,DET,2015,S. Van Gundy (32-50),S. Van Gundy,vangust99c,32,50,82,1
@@ -467,6 +493,7 @@ DET,DET,2004,L. Brown (54-28),L. Brown,brownla01c,54,28,82,1
 DET,DET,2003,R. Carlisle (50-32),R. Carlisle,carliri01c,50,32,82,1
 DET,DET,2002,R. Carlisle (50-32),R. Carlisle,carliri01c,50,32,82,1
 DET,DET,2001,G. Irvine (32-50),G. Irvine,irvinge01c,32,50,82,1
+GSW,GSW,2018,S. Kerr (23-6),S. Kerr,kerrst01c,23,6,29,1
 GSW,GSW,2017,S. Kerr (67-15),S. Kerr,kerrst01c,67,15,82,1
 GSW,GSW,2016,S. Kerr (73-9),S. Kerr,kerrst01c,73,9,82,1
 GSW,GSW,2015,S. Kerr (67-15),S. Kerr,kerrst01c,67,15,82,1
@@ -485,6 +512,7 @@ GSW,GSW,2003,E. Musselman (38-44),E. Musselman,musseer99c,38,44,82,1
 GSW,GSW,2002,"D. Cowens (8-15), B. Winters (13-46)",B. Winters,wintebr01c,13,46,59,2
 GSW,GSW,2002,"D. Cowens (8-15), B. Winters (13-46)",D. Cowens,cowenda01c,8,15,23,1
 GSW,GSW,2001,D. Cowens (17-65),D. Cowens,cowenda01c,17,65,82,1
+HOU,HOU,2018,M. D'Antoni (22-4),M. D'Antoni,dantomi01c,22,4,26,1
 HOU,HOU,2017,M. D'Antoni (55-27),M. D'Antoni,dantomi01c,55,27,82,1
 HOU,HOU,2016,"K. McHale (4-7), J. Bickerstaff (37-34)",J. Bickerstaff,bickejb01c,37,34,71,2
 HOU,HOU,2016,"K. McHale (4-7), J. Bickerstaff (37-34)",K. McHale,mchalke01c,4,7,11,1
@@ -503,6 +531,7 @@ HOU,HOU,2004,J. Van Gundy (45-37),J. Van Gundy,vanguje99c,45,37,82,1
 HOU,HOU,2003,R. Tomjanovich (43-39),R. Tomjanovich,tomjaru01c,43,39,82,1
 HOU,HOU,2002,R. Tomjanovich (28-54),R. Tomjanovich,tomjaru01c,28,54,82,1
 HOU,HOU,2001,R. Tomjanovich (45-37),R. Tomjanovich,tomjaru01c,45,37,82,1
+IND,IND,2018,N. McMillan (16-12),N. McMillan,mcmilna01c,16,12,28,1
 IND,IND,2017,N. McMillan (42-40),N. McMillan,mcmilna01c,42,40,82,1
 IND,IND,2016,F. Vogel (45-37),F. Vogel,vogelfr99c,45,37,82,1
 IND,IND,2015,F. Vogel (38-44),F. Vogel,vogelfr99c,38,44,82,1
@@ -521,6 +550,7 @@ IND,IND,2004,R. Carlisle (61-21),R. Carlisle,carliri01c,61,21,82,1
 IND,IND,2003,I. Thomas (48-34),I. Thomas,thomais01c,48,34,82,1
 IND,IND,2002,I. Thomas (42-40),I. Thomas,thomais01c,42,40,82,1
 IND,IND,2001,I. Thomas (41-41),I. Thomas,thomais01c,41,41,82,1
+LAC,LAC,2018,D. Rivers (11-15),D. Rivers,riverdo01c,11,15,26,1
 LAC,LAC,2017,D. Rivers (51-31),D. Rivers,riverdo01c,51,31,82,1
 LAC,LAC,2016,D. Rivers (53-29),D. Rivers,riverdo01c,53,29,82,1
 LAC,LAC,2015,D. Rivers (56-26),D. Rivers,riverdo01c,56,26,82,1
@@ -540,6 +570,7 @@ LAC,LAC,2003,"A. Gentry (19-39), D. Johnson (8-16)",D. Johnson,johnsde01c,8,16,2
 LAC,LAC,2003,"A. Gentry (19-39), D. Johnson (8-16)",A. Gentry,gentral99c,19,39,58,1
 LAC,LAC,2002,A. Gentry (39-43),A. Gentry,gentral99c,39,43,82,1
 LAC,LAC,2001,A. Gentry (31-51),A. Gentry,gentral99c,31,51,82,1
+LAL,LAL,2018,L. Walton (10-17),L. Walton,waltolu01c,10,17,27,1
 LAL,LAL,2017,L. Walton (26-56),L. Walton,waltolu01c,26,56,82,1
 LAL,LAL,2016,B. Scott (17-65),B. Scott,scottby01c,17,65,82,1
 LAL,LAL,2015,B. Scott (21-61),B. Scott,scottby01c,21,61,82,1
@@ -560,6 +591,7 @@ LAL,LAL,2004,P. Jackson (56-26),P. Jackson,jacksph01c,56,26,82,1
 LAL,LAL,2003,P. Jackson (50-32),P. Jackson,jacksph01c,50,32,82,1
 LAL,LAL,2002,P. Jackson (58-24),P. Jackson,jacksph01c,58,24,82,1
 LAL,LAL,2001,P. Jackson (56-26),P. Jackson,jacksph01c,56,26,82,1
+WAS,WAS,2018,S. Brooks (15-13),S. Brooks,brooksc01c,15,13,28,1
 WAS,WAS,2017,S. Brooks (49-33),S. Brooks,brooksc01c,49,33,82,1
 WAS,WAS,2016,R. Wittman (41-41),R. Wittman,wittmra01c,41,41,82,1
 WAS,WAS,2015,R. Wittman (46-36),R. Wittman,wittmra01c,46,36,82,1

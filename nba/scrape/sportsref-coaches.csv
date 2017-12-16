@@ -1,5 +1,5 @@
 franchise,team,year,coaches_text,coaches_id
-ATL,ATL,2018,M. Budenholzer (6-21),budenmi99c
+ATL,ATL,2018,M. Budenholzer (6-22),budenmi99c
 ATL,ATL,2017,M. Budenholzer (43-39),budenmi99c
 ATL,ATL,2016,M. Budenholzer (48-34),budenmi99c
 ATL,ATL,2015,M. Budenholzer (60-22),budenmi99c
@@ -118,7 +118,7 @@ MIL,MIL,1972,L. Costello (63-19),costela01c
 MIL,MIL,1971,L. Costello (66-16),costela01c
 MIL,MIL,1970,L. Costello (56-26),costela01c
 MIL,MIL,1969,L. Costello (27-55),costela01c
-MIN,MIN,2018,T. Thibodeau (16-12),thiboto99c
+MIN,MIN,2018,T. Thibodeau (17-12),thiboto99c
 MIN,MIN,2017,T. Thibodeau (31-51),thiboto99c
 MIN,MIN,2016,S. Mitchell (29-53),mitchsa01c
 MIN,MIN,2015,F. Saunders (16-66),saundfl99c
@@ -163,7 +163,7 @@ NORLHP,NOK,2006,B. Scott (38-44),scottby01c
 NORLHP,NOH,2005,B. Scott (18-64),scottby01c
 NORLHP,NOH,2004,T. Floyd (41-41),floydti99c
 NORLHP,NOH,2003,P. Silas (47-35),silaspa01c
-NYK,NYK,2018,J. Hornacek (14-13),hornaje01c
+NYK,NYK,2018,J. Hornacek (15-13),hornaje01c
 NYK,NYK,2017,J. Hornacek (31-51),hornaje01c
 NYK,NYK,2016,"D. Fisher (23-31), K. Rambis (9-19)",fishede01c|rambiku01c
 NYK,NYK,2015,D. Fisher (17-65),fishede01c
@@ -482,7 +482,7 @@ POR,POR,1974,J. McCloskey (27-55),mccloja01d
 POR,POR,1973,J. McCloskey (21-61),mccloja01d
 POR,POR,1972,"R. Todd (12-44), S. Inman (6-20)",toddro99c|inmanst99c
 POR,POR,1971,R. Todd (29-53),toddro99c
-SAC,SAC,2018,D. Joerger (9-18),joergda99c
+SAC,SAC,2018,D. Joerger (9-19),joergda99c
 SAC,SAC,2017,D. Joerger (32-50),joergda99c
 SAC,SAC,2016,G. Karl (33-49),karlge01c
 SAC,SAC,2015,"M. Malone (11-13), T. Corbin (7-21), G. Karl (11-19)",malonmi99c|corbity01c|karlge01c
@@ -795,7 +795,7 @@ BOS,BOS,1950,A. Julian (22-46),juliaal99c
 BOS,BOS,1949,A. Julian (25-35),juliaal99c
 BOS,BOS,1948,J. Russell (20-28),russejo99c
 BOS,BOS,1947,J. Russell (22-38),russejo99c
-NJNBRK,BRK,2018,K. Atkinson (11-15),atkinke01c
+NJNBRK,BRK,2018,K. Atkinson (11-16),atkinke01c
 NJNBRK,BRK,2017,K. Atkinson (20-62),atkinke01c
 NJNBRK,BRK,2016,"L. Hollins (10-27), T. Brown (11-34)",hollili01c|brownto01c
 NJNBRK,BRK,2015,L. Hollins (38-44),hollili01c
@@ -926,7 +926,7 @@ NORLHP,CHH,1992,A. Bristow (31-51),bristal01c
 NORLHP,CHH,1991,G. Littles (26-56),littlge01c
 NORLHP,CHH,1990,"D. Harter (8-32), G. Littles (11-31)",hartedi99c|littlge01c
 NORLHP,CHH,1989,D. Harter (20-62),hartedi99c
-CLE,CLE,2018,T. Lue (20-8),luety01c
+CLE,CLE,2018,T. Lue (21-8),luety01c
 CLE,CLE,2017,T. Lue (51-31),luety01c
 CLE,CLE,2016,"D. Blatt (30-11), T. Lue (27-14)",blattda99c|luety01c
 CLE,CLE,2015,D. Blatt (53-29),blattda99c
@@ -974,7 +974,7 @@ CLE,CLE,1974,B. Fitch (29-53),fitchbi99c
 CLE,CLE,1973,B. Fitch (32-50),fitchbi99c
 CLE,CLE,1972,B. Fitch (23-59),fitchbi99c
 CLE,CLE,1971,B. Fitch (15-67),fitchbi99c
-DAL,DAL,2018,R. Carlisle (8-20),carliri01c
+DAL,DAL,2018,R. Carlisle (8-21),carliri01c
 DAL,DAL,2017,R. Carlisle (33-49),carliri01c
 DAL,DAL,2016,R. Carlisle (42-40),carliri01c
 DAL,DAL,2015,R. Carlisle (50-32),carliri01c
@@ -1063,7 +1063,7 @@ DEN,DEN,1971,"J. Belmont (3-10), S. Albeck (27-44)",belmojo99c|albecst99c
 DEN,DEN,1970,"J. McLendon (9-19), J. Belmont (42-14)",mclenjo99c|belmojo99c
 DEN,DEN,1969,B. Bass (44-34),bassbo99c
 DEN,DEN,1968,B. Bass (45-33),bassbo99c
-DET,DET,2018,S. Van Gundy (14-13),vangust99c
+DET,DET,2018,S. Van Gundy (15-13),vangust99c
 DET,DET,2017,S. Van Gundy (37-45),vangust99c
 DET,DET,2016,S. Van Gundy (44-38),vangust99c
 DET,DET,2015,S. Van Gundy (32-50),vangust99c
@@ -1133,7 +1133,7 @@ DET,DET,1952,P. Birch (29-37),birchpa99c
 DET,DET,1951,M. Mendenhall (32-36),mendemu99c
 DET,DET,1950,M. Mendenhall (40-28),mendemu99c
 DET,DET,1949,"C. Bennett (0-6), C. Armstrong (22-32)",benneca99c|armstcu01c
-GSW,GSW,2018,S. Kerr (22-6),kerrst01c
+GSW,GSW,2018,S. Kerr (23-6),kerrst01c
 GSW,GSW,2017,S. Kerr (67-15),kerrst01c
 GSW,GSW,2016,S. Kerr (73-9),kerrst01c
 GSW,GSW,2015,S. Kerr (67-15),kerrst01c
@@ -1355,7 +1355,7 @@ LAC,LAC,1974,J. Ramsay (42-40),ramsaja99c
 LAC,LAC,1973,J. Ramsay (21-61),ramsaja99c
 LAC,LAC,1972,"D. Schayes (0-1), J. McCarthy (22-59)",schaydo01c|mccarjo01c
 LAC,LAC,1971,D. Schayes (22-60),schaydo01c
-LAL,LAL,2018,L. Walton (10-16),waltolu01c
+LAL,LAL,2018,L. Walton (10-17),waltolu01c
 LAL,LAL,2017,L. Walton (26-56),waltolu01c
 LAL,LAL,2016,B. Scott (17-65),scottby01c
 LAL,LAL,2015,B. Scott (21-61),scottby01c
