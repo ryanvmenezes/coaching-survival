@@ -70,5 +70,5 @@ rawtenures = sorted(rawtenures, key=lambda x: (x['franchise'], x['min_date']))
 settings.write_csv(
     rawtenures,
     'categorized/tenures-summarized-categorized.csv',
-    ['slug','coach','coach_id','franchise','seasons','games','wins','losses','min_date','max_date','left_truncated','ending'],
+    ['slug','coach','coach_id','franchise','min_date','max_date','left_truncated','ending'],
 )
