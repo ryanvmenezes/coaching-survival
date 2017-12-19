@@ -100,21 +100,6 @@ settings.write_csv(
     ['slug','coach','coach_id','franchise','seasons','games','wins','losses','min_date','max_date','left_truncated'],
 )
 
-# summaries of coaches' records up a specfic game (for possible regression)
-
-cumulative_calcs = []
-for t in tenures:
-    for i in range(1, 3000):
-        if len(t.results) < i:
-            break
-        cumulative_calcs.append(t.cumulative_record(i))
-
-settings.write_csv(
-    cumulative_calcs,
-    'data/tenures-cumulative-calcs.csv',
-    ['slug','games','wins','pct','last_game'],
-)
-
 # unique coach names and franchises they coached for
 
 coach_names = set([(t.coach, t.coach_id) for t in tenures])
