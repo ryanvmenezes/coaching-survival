@@ -1,0 +1,1778 @@
+team.name,team.id,season,coach.order,coach.name,coach.id,coach.wins,coach.losses,coach.games,tenure.chg,tenure.id,tenure.slug
+Atlanta Hawks,ATL,1950,1,R. Potter,pottero99c,1,6,7,TRUE,1,pottero99c_ATL_1950_1950
+Atlanta Hawks,ATL,1950,2,R. Auerbach,auerbre99c,28,29,57,TRUE,2,auerbre99c_ATL_1950_1950
+Atlanta Hawks,ATL,1951,1,D. McMillan,mcmilda99c,9,14,23,TRUE,3,mcmilda99c_ATL_1951_1951
+Atlanta Hawks,ATL,1951,2,J. Logan,loganjo01c,2,1,3,TRUE,4,loganjo01c_ATL_1951_1951
+Atlanta Hawks,ATL,1951,3,M. Todorovich,todormi01c,14,28,42,TRUE,5,todormi01c_ATL_1951_1951
+Atlanta Hawks,ATL,1952,1,D. Moore,mooredo99c,17,49,66,TRUE,6,mooredo99c_ATL_1952_1952
+Atlanta Hawks,ATL,1953,1,A. Levane,levanan01c,27,44,71,TRUE,7,levanan01c_ATL_1953_1954
+Atlanta Hawks,ATL,1954,1,A. Levane,levanan01c,11,35,46,FALSE,7,levanan01c_ATL_1953_1954
+Atlanta Hawks,ATL,1954,2,R. Holzman,holzmre01c,10,16,26,TRUE,8,holzmre01c_ATL_1954_1957
+Atlanta Hawks,ATL,1955,1,R. Holzman,holzmre01c,26,46,72,FALSE,8,holzmre01c_ATL_1954_1957
+Atlanta Hawks,ATL,1956,1,R. Holzman,holzmre01c,33,39,72,FALSE,8,holzmre01c_ATL_1954_1957
+Atlanta Hawks,ATL,1957,1,R. Holzman,holzmre01c,14,19,33,FALSE,8,holzmre01c_ATL_1954_1957
+Atlanta Hawks,ATL,1957,2,S. Martin,martisl01c,5,3,8,TRUE,9,martisl01c_ATL_1957_1957
+Atlanta Hawks,ATL,1957,3,A. Hannum,hannual01c,15,16,31,TRUE,10,hannual01c_ATL_1957_1958
+Atlanta Hawks,ATL,1958,1,A. Hannum,hannual01c,41,31,72,FALSE,10,hannual01c_ATL_1957_1958
+Atlanta Hawks,ATL,1959,1,A. Phillip,phillan01c,6,4,10,TRUE,11,phillan01c_ATL_1959_1959
+Atlanta Hawks,ATL,1959,2,E. Macauley,macaued01c,43,19,62,TRUE,12,macaued01c_ATL_1959_1960
+Atlanta Hawks,ATL,1960,1,E. Macauley,macaued01c,46,29,75,FALSE,12,macaued01c_ATL_1959_1960
+Atlanta Hawks,ATL,1961,1,P. Seymour,seymopa01c,51,28,79,TRUE,13,seymopa01c_ATL_1961_1962
+Atlanta Hawks,ATL,1962,1,P. Seymour,seymopa01c,5,9,14,FALSE,13,seymopa01c_ATL_1961_1962
+Atlanta Hawks,ATL,1962,2,A. Levane,levanan01c,20,40,60,TRUE,14,levanan01c_ATL_1962_1962
+Atlanta Hawks,ATL,1962,3,B. Pettit,pettibo01c,4,2,6,TRUE,15,pettibo01c_ATL_1962_1962
+Atlanta Hawks,ATL,1963,1,H. Gallatin,gallaha01c,48,32,80,TRUE,16,gallaha01c_ATL_1963_1965
+Atlanta Hawks,ATL,1964,1,H. Gallatin,gallaha01c,46,34,80,FALSE,16,gallaha01c_ATL_1963_1965
+Atlanta Hawks,ATL,1965,1,H. Gallatin,gallaha01c,17,16,33,FALSE,16,gallaha01c_ATL_1963_1965
+Atlanta Hawks,ATL,1965,2,R. Guerin,gueriri01c,28,19,47,TRUE,17,gueriri01c_ATL_1965_1972
+Atlanta Hawks,ATL,1966,1,R. Guerin,gueriri01c,36,44,80,FALSE,17,gueriri01c_ATL_1965_1972
+Atlanta Hawks,ATL,1967,1,R. Guerin,gueriri01c,39,42,81,FALSE,17,gueriri01c_ATL_1965_1972
+Atlanta Hawks,ATL,1968,1,R. Guerin,gueriri01c,56,26,82,FALSE,17,gueriri01c_ATL_1965_1972
+Atlanta Hawks,ATL,1969,1,R. Guerin,gueriri01c,48,34,82,FALSE,17,gueriri01c_ATL_1965_1972
+Atlanta Hawks,ATL,1970,1,R. Guerin,gueriri01c,48,34,82,FALSE,17,gueriri01c_ATL_1965_1972
+Atlanta Hawks,ATL,1971,1,R. Guerin,gueriri01c,36,46,82,FALSE,17,gueriri01c_ATL_1965_1972
+Atlanta Hawks,ATL,1972,1,R. Guerin,gueriri01c,36,46,82,FALSE,17,gueriri01c_ATL_1965_1972
+Atlanta Hawks,ATL,1973,1,C. Fitzsimmons,fitzsco99c,46,36,82,TRUE,18,fitzsco99c_ATL_1973_1976
+Atlanta Hawks,ATL,1974,1,C. Fitzsimmons,fitzsco99c,35,47,82,FALSE,18,fitzsco99c_ATL_1973_1976
+Atlanta Hawks,ATL,1975,1,C. Fitzsimmons,fitzsco99c,31,51,82,FALSE,18,fitzsco99c_ATL_1973_1976
+Atlanta Hawks,ATL,1976,1,C. Fitzsimmons,fitzsco99c,28,46,74,FALSE,18,fitzsco99c_ATL_1973_1976
+Atlanta Hawks,ATL,1976,2,G. Tormohlen,tormobu01c,1,7,8,TRUE,19,tormobu01c_ATL_1976_1976
+Atlanta Hawks,ATL,1977,1,H. Brown,brownhu99c,31,51,82,TRUE,20,brownhu99c_ATL_1977_1981
+Atlanta Hawks,ATL,1978,1,H. Brown,brownhu99c,41,41,82,FALSE,20,brownhu99c_ATL_1977_1981
+Atlanta Hawks,ATL,1979,1,H. Brown,brownhu99c,46,36,82,FALSE,20,brownhu99c_ATL_1977_1981
+Atlanta Hawks,ATL,1980,1,H. Brown,brownhu99c,50,32,82,FALSE,20,brownhu99c_ATL_1977_1981
+Atlanta Hawks,ATL,1981,1,H. Brown,brownhu99c,31,48,79,FALSE,20,brownhu99c_ATL_1977_1981
+Atlanta Hawks,ATL,1981,2,M. Fratello,fratemi99c,0,3,3,TRUE,21,fratemi99c_ATL_1981_1981
+Atlanta Hawks,ATL,1982,1,K. Loughery,loughke01c,42,40,82,TRUE,22,loughke01c_ATL_1982_1983
+Atlanta Hawks,ATL,1983,1,K. Loughery,loughke01c,43,39,82,FALSE,22,loughke01c_ATL_1982_1983
+Atlanta Hawks,ATL,1984,1,M. Fratello,fratemi99c,40,42,82,TRUE,23,fratemi99c_ATL_1984_1990
+Atlanta Hawks,ATL,1985,1,M. Fratello,fratemi99c,34,48,82,FALSE,23,fratemi99c_ATL_1984_1990
+Atlanta Hawks,ATL,1986,1,M. Fratello,fratemi99c,50,32,82,FALSE,23,fratemi99c_ATL_1984_1990
+Atlanta Hawks,ATL,1987,1,M. Fratello,fratemi99c,57,25,82,FALSE,23,fratemi99c_ATL_1984_1990
+Atlanta Hawks,ATL,1988,1,M. Fratello,fratemi99c,50,32,82,FALSE,23,fratemi99c_ATL_1984_1990
+Atlanta Hawks,ATL,1989,1,M. Fratello,fratemi99c,52,30,82,FALSE,23,fratemi99c_ATL_1984_1990
+Atlanta Hawks,ATL,1990,1,M. Fratello,fratemi99c,41,41,82,FALSE,23,fratemi99c_ATL_1984_1990
+Atlanta Hawks,ATL,1991,1,B. Weiss,weissbo01c,43,39,82,TRUE,24,weissbo01c_ATL_1991_1993
+Atlanta Hawks,ATL,1992,1,B. Weiss,weissbo01c,38,44,82,FALSE,24,weissbo01c_ATL_1991_1993
+Atlanta Hawks,ATL,1993,1,B. Weiss,weissbo01c,43,39,82,FALSE,24,weissbo01c_ATL_1991_1993
+Atlanta Hawks,ATL,1994,1,L. Wilkens,wilkele01c,57,25,82,TRUE,25,wilkele01c_ATL_1994_2000
+Atlanta Hawks,ATL,1995,1,L. Wilkens,wilkele01c,42,40,82,FALSE,25,wilkele01c_ATL_1994_2000
+Atlanta Hawks,ATL,1996,1,L. Wilkens,wilkele01c,46,36,82,FALSE,25,wilkele01c_ATL_1994_2000
+Atlanta Hawks,ATL,1997,1,L. Wilkens,wilkele01c,56,26,82,FALSE,25,wilkele01c_ATL_1994_2000
+Atlanta Hawks,ATL,1998,1,L. Wilkens,wilkele01c,50,32,82,FALSE,25,wilkele01c_ATL_1994_2000
+Atlanta Hawks,ATL,1999,1,L. Wilkens,wilkele01c,31,19,50,FALSE,25,wilkele01c_ATL_1994_2000
+Atlanta Hawks,ATL,2000,1,L. Wilkens,wilkele01c,28,54,82,FALSE,25,wilkele01c_ATL_1994_2000
+Atlanta Hawks,ATL,2001,1,L. Kruger,krugelo99c,25,57,82,TRUE,26,krugelo99c_ATL_2001_2003
+Atlanta Hawks,ATL,2002,1,L. Kruger,krugelo99c,33,49,82,FALSE,26,krugelo99c_ATL_2001_2003
+Atlanta Hawks,ATL,2003,1,L. Kruger,krugelo99c,11,16,27,FALSE,26,krugelo99c_ATL_2001_2003
+Atlanta Hawks,ATL,2003,2,T. Stotts,stottte99c,24,31,55,TRUE,27,stottte99c_ATL_2003_2004
+Atlanta Hawks,ATL,2004,1,T. Stotts,stottte99c,28,54,82,FALSE,27,stottte99c_ATL_2003_2004
+Atlanta Hawks,ATL,2005,1,M. Woodson,woodsmi01c,13,69,82,TRUE,28,woodsmi01c_ATL_2005_2010
+Atlanta Hawks,ATL,2006,1,M. Woodson,woodsmi01c,26,56,82,FALSE,28,woodsmi01c_ATL_2005_2010
+Atlanta Hawks,ATL,2007,1,M. Woodson,woodsmi01c,30,52,82,FALSE,28,woodsmi01c_ATL_2005_2010
+Atlanta Hawks,ATL,2008,1,M. Woodson,woodsmi01c,37,45,82,FALSE,28,woodsmi01c_ATL_2005_2010
+Atlanta Hawks,ATL,2009,1,M. Woodson,woodsmi01c,47,35,82,FALSE,28,woodsmi01c_ATL_2005_2010
+Atlanta Hawks,ATL,2010,1,M. Woodson,woodsmi01c,53,29,82,FALSE,28,woodsmi01c_ATL_2005_2010
+Atlanta Hawks,ATL,2011,1,L. Drew,drewla01c,44,38,82,TRUE,29,drewla01c_ATL_2011_2013
+Atlanta Hawks,ATL,2012,1,L. Drew,drewla01c,40,26,66,FALSE,29,drewla01c_ATL_2011_2013
+Atlanta Hawks,ATL,2013,1,L. Drew,drewla01c,44,38,82,FALSE,29,drewla01c_ATL_2011_2013
+Atlanta Hawks,ATL,2014,1,M. Budenholzer,budenmi99c,38,44,82,TRUE,30,budenmi99c_ATL_2014_2018
+Atlanta Hawks,ATL,2015,1,M. Budenholzer,budenmi99c,60,22,82,FALSE,30,budenmi99c_ATL_2014_2018
+Atlanta Hawks,ATL,2016,1,M. Budenholzer,budenmi99c,48,34,82,FALSE,30,budenmi99c_ATL_2014_2018
+Atlanta Hawks,ATL,2017,1,M. Budenholzer,budenmi99c,43,39,82,FALSE,30,budenmi99c_ATL_2014_2018
+Atlanta Hawks,ATL,2018,1,M. Budenholzer,budenmi99c,24,58,82,FALSE,30,budenmi99c_ATL_2014_2018
+Atlanta Hawks,ATL,2019,1,L. Pierce,piercll01c,29,53,82,TRUE,31,piercll01c_ATL_2019_2020
+Atlanta Hawks,ATL,2020,1,L. Pierce,piercll01c,20,47,67,FALSE,31,piercll01c_ATL_2019_2020
+Boston Celtics,BOS,1947,1,J. Russell,russejo99c,22,38,60,TRUE,32,russejo99c_BOS_1947_1948
+Boston Celtics,BOS,1948,1,J. Russell,russejo99c,20,28,48,FALSE,32,russejo99c_BOS_1947_1948
+Boston Celtics,BOS,1949,1,A. Julian,juliaal99c,25,35,60,TRUE,33,juliaal99c_BOS_1949_1950
+Boston Celtics,BOS,1950,1,A. Julian,juliaal99c,22,46,68,FALSE,33,juliaal99c_BOS_1949_1950
+Boston Celtics,BOS,1951,1,R. Auerbach,auerbre99c,39,30,69,TRUE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1952,1,R. Auerbach,auerbre99c,39,27,66,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1953,1,R. Auerbach,auerbre99c,46,25,71,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1954,1,R. Auerbach,auerbre99c,42,30,72,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1955,1,R. Auerbach,auerbre99c,36,36,72,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1956,1,R. Auerbach,auerbre99c,39,33,72,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1957,1,R. Auerbach,auerbre99c,44,28,72,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1958,1,R. Auerbach,auerbre99c,49,23,72,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1959,1,R. Auerbach,auerbre99c,52,20,72,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1960,1,R. Auerbach,auerbre99c,59,16,75,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1961,1,R. Auerbach,auerbre99c,57,22,79,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1962,1,R. Auerbach,auerbre99c,60,20,80,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1963,1,R. Auerbach,auerbre99c,58,22,80,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1964,1,R. Auerbach,auerbre99c,59,21,80,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1965,1,R. Auerbach,auerbre99c,62,18,80,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1966,1,R. Auerbach,auerbre99c,54,26,80,FALSE,34,auerbre99c_BOS_1951_1966
+Boston Celtics,BOS,1967,1,B. Russell,russebi01c,60,21,81,TRUE,35,russebi01c_BOS_1967_1969
+Boston Celtics,BOS,1968,1,B. Russell,russebi01c,54,28,82,FALSE,35,russebi01c_BOS_1967_1969
+Boston Celtics,BOS,1969,1,B. Russell,russebi01c,48,34,82,FALSE,35,russebi01c_BOS_1967_1969
+Boston Celtics,BOS,1970,1,T. Heinsohn,heinsto01c,34,48,82,TRUE,36,heinsto01c_BOS_1970_1978
+Boston Celtics,BOS,1971,1,T. Heinsohn,heinsto01c,44,38,82,FALSE,36,heinsto01c_BOS_1970_1978
+Boston Celtics,BOS,1972,1,T. Heinsohn,heinsto01c,56,26,82,FALSE,36,heinsto01c_BOS_1970_1978
+Boston Celtics,BOS,1973,1,T. Heinsohn,heinsto01c,68,14,82,FALSE,36,heinsto01c_BOS_1970_1978
+Boston Celtics,BOS,1974,1,T. Heinsohn,heinsto01c,56,26,82,FALSE,36,heinsto01c_BOS_1970_1978
+Boston Celtics,BOS,1975,1,T. Heinsohn,heinsto01c,60,22,82,FALSE,36,heinsto01c_BOS_1970_1978
+Boston Celtics,BOS,1976,1,T. Heinsohn,heinsto01c,54,28,82,FALSE,36,heinsto01c_BOS_1970_1978
+Boston Celtics,BOS,1977,1,T. Heinsohn,heinsto01c,44,38,82,FALSE,36,heinsto01c_BOS_1970_1978
+Boston Celtics,BOS,1978,1,T. Heinsohn,heinsto01c,11,23,34,FALSE,36,heinsto01c_BOS_1970_1978
+Boston Celtics,BOS,1978,2,T. Sanders,sandeto01c,21,27,48,TRUE,37,sandeto01c_BOS_1978_1979
+Boston Celtics,BOS,1979,1,T. Sanders,sandeto01c,2,12,14,FALSE,37,sandeto01c_BOS_1978_1979
+Boston Celtics,BOS,1979,2,D. Cowens,cowenda01c,27,41,68,TRUE,38,cowenda01c_BOS_1979_1979
+Boston Celtics,BOS,1980,1,B. Fitch,fitchbi99c,61,21,82,TRUE,39,fitchbi99c_BOS_1980_1983
+Boston Celtics,BOS,1981,1,B. Fitch,fitchbi99c,62,20,82,FALSE,39,fitchbi99c_BOS_1980_1983
+Boston Celtics,BOS,1982,1,B. Fitch,fitchbi99c,63,19,82,FALSE,39,fitchbi99c_BOS_1980_1983
+Boston Celtics,BOS,1983,1,B. Fitch,fitchbi99c,56,26,82,FALSE,39,fitchbi99c_BOS_1980_1983
+Boston Celtics,BOS,1984,1,K. Jones,joneskc01c,62,20,82,TRUE,40,joneskc01c_BOS_1984_1988
+Boston Celtics,BOS,1985,1,K. Jones,joneskc01c,63,19,82,FALSE,40,joneskc01c_BOS_1984_1988
+Boston Celtics,BOS,1986,1,K. Jones,joneskc01c,67,15,82,FALSE,40,joneskc01c_BOS_1984_1988
+Boston Celtics,BOS,1987,1,K. Jones,joneskc01c,59,23,82,FALSE,40,joneskc01c_BOS_1984_1988
+Boston Celtics,BOS,1988,1,K. Jones,joneskc01c,57,25,82,FALSE,40,joneskc01c_BOS_1984_1988
+Boston Celtics,BOS,1989,1,J. Rodgers,rodgeji99c,42,40,82,TRUE,41,rodgeji99c_BOS_1989_1990
+Boston Celtics,BOS,1990,1,J. Rodgers,rodgeji99c,52,30,82,FALSE,41,rodgeji99c_BOS_1989_1990
+Boston Celtics,BOS,1991,1,C. Ford,fordch01c,56,26,82,TRUE,42,fordch01c_BOS_1991_1995
+Boston Celtics,BOS,1992,1,C. Ford,fordch01c,51,31,82,FALSE,42,fordch01c_BOS_1991_1995
+Boston Celtics,BOS,1993,1,C. Ford,fordch01c,48,34,82,FALSE,42,fordch01c_BOS_1991_1995
+Boston Celtics,BOS,1994,1,C. Ford,fordch01c,32,50,82,FALSE,42,fordch01c_BOS_1991_1995
+Boston Celtics,BOS,1995,1,C. Ford,fordch01c,35,47,82,FALSE,42,fordch01c_BOS_1991_1995
+Boston Celtics,BOS,1996,1,M. Carr,carrml01c,33,49,82,TRUE,43,carrml01c_BOS_1996_1997
+Boston Celtics,BOS,1997,1,M. Carr,carrml01c,15,67,82,FALSE,43,carrml01c_BOS_1996_1997
+Boston Celtics,BOS,1998,1,R. Pitino,pitinri99c,36,46,82,TRUE,44,pitinri99c_BOS_1998_2001
+Boston Celtics,BOS,1999,1,R. Pitino,pitinri99c,19,31,50,FALSE,44,pitinri99c_BOS_1998_2001
+Boston Celtics,BOS,2000,1,R. Pitino,pitinri99c,35,47,82,FALSE,44,pitinri99c_BOS_1998_2001
+Boston Celtics,BOS,2001,1,R. Pitino,pitinri99c,12,22,34,FALSE,44,pitinri99c_BOS_1998_2001
+Boston Celtics,BOS,2001,2,J. O'Brien,obrieji99c,24,24,48,TRUE,45,obrieji99c_BOS_2001_2004
+Boston Celtics,BOS,2002,1,J. O'Brien,obrieji99c,49,33,82,FALSE,45,obrieji99c_BOS_2001_2004
+Boston Celtics,BOS,2003,1,J. O'Brien,obrieji99c,44,38,82,FALSE,45,obrieji99c_BOS_2001_2004
+Boston Celtics,BOS,2004,1,J. O'Brien,obrieji99c,22,24,46,FALSE,45,obrieji99c_BOS_2001_2004
+Boston Celtics,BOS,2004,2,J. Carroll,carrojo99c,14,22,36,TRUE,46,carrojo99c_BOS_2004_2004
+Boston Celtics,BOS,2005,1,D. Rivers,riverdo01c,45,37,82,TRUE,47,riverdo01c_BOS_2005_2013
+Boston Celtics,BOS,2006,1,D. Rivers,riverdo01c,33,49,82,FALSE,47,riverdo01c_BOS_2005_2013
+Boston Celtics,BOS,2007,1,D. Rivers,riverdo01c,24,58,82,FALSE,47,riverdo01c_BOS_2005_2013
+Boston Celtics,BOS,2008,1,D. Rivers,riverdo01c,66,16,82,FALSE,47,riverdo01c_BOS_2005_2013
+Boston Celtics,BOS,2009,1,D. Rivers,riverdo01c,62,20,82,FALSE,47,riverdo01c_BOS_2005_2013
+Boston Celtics,BOS,2010,1,D. Rivers,riverdo01c,50,32,82,FALSE,47,riverdo01c_BOS_2005_2013
+Boston Celtics,BOS,2011,1,D. Rivers,riverdo01c,56,26,82,FALSE,47,riverdo01c_BOS_2005_2013
+Boston Celtics,BOS,2012,1,D. Rivers,riverdo01c,39,27,66,FALSE,47,riverdo01c_BOS_2005_2013
+Boston Celtics,BOS,2013,1,D. Rivers,riverdo01c,41,40,81,FALSE,47,riverdo01c_BOS_2005_2013
+Boston Celtics,BOS,2014,1,B. Stevens,stevebr99c,25,57,82,TRUE,48,stevebr99c_BOS_2014_2020
+Boston Celtics,BOS,2015,1,B. Stevens,stevebr99c,40,42,82,FALSE,48,stevebr99c_BOS_2014_2020
+Boston Celtics,BOS,2016,1,B. Stevens,stevebr99c,48,34,82,FALSE,48,stevebr99c_BOS_2014_2020
+Boston Celtics,BOS,2017,1,B. Stevens,stevebr99c,53,29,82,FALSE,48,stevebr99c_BOS_2014_2020
+Boston Celtics,BOS,2018,1,B. Stevens,stevebr99c,55,27,82,FALSE,48,stevebr99c_BOS_2014_2020
+Boston Celtics,BOS,2019,1,B. Stevens,stevebr99c,49,33,82,FALSE,48,stevebr99c_BOS_2014_2020
+Boston Celtics,BOS,2020,1,B. Stevens,stevebr99c,43,21,64,FALSE,48,stevebr99c_BOS_2014_2020
+Brooklyn Nets,NJN,1968,1,M. Zaslofsky,zasloma01c,36,42,78,TRUE,49,zasloma01c_NJN_1968_1969
+Brooklyn Nets,NJN,1969,1,M. Zaslofsky,zasloma01c,17,61,78,FALSE,49,zasloma01c_NJN_1968_1969
+Brooklyn Nets,NJN,1970,1,Y. Larese,laresyo01c,39,45,84,TRUE,50,laresyo01c_NJN_1970_1970
+Brooklyn Nets,NJN,1971,1,L. Carnesecca,carnelo99c,40,44,84,TRUE,51,carnelo99c_NJN_1971_1973
+Brooklyn Nets,NJN,1972,1,L. Carnesecca,carnelo99c,44,40,84,FALSE,51,carnelo99c_NJN_1971_1973
+Brooklyn Nets,NJN,1973,1,L. Carnesecca,carnelo99c,30,54,84,FALSE,51,carnelo99c_NJN_1971_1973
+Brooklyn Nets,NJN,1974,1,K. Loughery,loughke01c,55,29,84,TRUE,52,loughke01c_NJN_1974_1981
+Brooklyn Nets,NJN,1975,1,K. Loughery,loughke01c,58,26,84,FALSE,52,loughke01c_NJN_1974_1981
+Brooklyn Nets,NJN,1976,1,K. Loughery,loughke01c,55,29,84,FALSE,52,loughke01c_NJN_1974_1981
+Brooklyn Nets,NJN,1977,1,K. Loughery,loughke01c,22,60,82,FALSE,52,loughke01c_NJN_1974_1981
+Brooklyn Nets,NJN,1978,1,K. Loughery,loughke01c,24,58,82,FALSE,52,loughke01c_NJN_1974_1981
+Brooklyn Nets,NJN,1979,1,K. Loughery,loughke01c,37,45,82,FALSE,52,loughke01c_NJN_1974_1981
+Brooklyn Nets,NJN,1980,1,K. Loughery,loughke01c,34,48,82,FALSE,52,loughke01c_NJN_1974_1981
+Brooklyn Nets,NJN,1981,1,K. Loughery,loughke01c,12,23,35,FALSE,52,loughke01c_NJN_1974_1981
+Brooklyn Nets,NJN,1981,2,B. MacKinnon,mackibo99c,12,35,47,TRUE,53,mackibo99c_NJN_1981_1981
+Brooklyn Nets,NJN,1982,1,L. Brown,brownla01c,44,38,82,TRUE,54,brownla01c_NJN_1982_1983
+Brooklyn Nets,NJN,1983,1,L. Brown,brownla01c,47,29,76,FALSE,54,brownla01c_NJN_1982_1983
+Brooklyn Nets,NJN,1983,2,B. Blair,blairbi99c,2,4,6,TRUE,55,blairbi99c_NJN_1983_1983
+Brooklyn Nets,NJN,1984,1,S. Albeck,albecst99c,45,37,82,TRUE,56,albecst99c_NJN_1984_1985
+Brooklyn Nets,NJN,1985,1,S. Albeck,albecst99c,42,40,82,FALSE,56,albecst99c_NJN_1984_1985
+Brooklyn Nets,NJN,1986,1,D. Wohl,wohlda01c,39,43,82,TRUE,57,wohlda01c_NJN_1986_1988
+Brooklyn Nets,NJN,1987,1,D. Wohl,wohlda01c,24,58,82,FALSE,57,wohlda01c_NJN_1986_1988
+Brooklyn Nets,NJN,1988,1,D. Wohl,wohlda01c,2,13,15,FALSE,57,wohlda01c_NJN_1986_1988
+Brooklyn Nets,NJN,1988,2,B. MacKinnon,mackibo99c,10,29,39,TRUE,58,mackibo99c_NJN_1988_1988
+Brooklyn Nets,NJN,1988,3,W. Reed,reedwi01c,7,21,28,TRUE,59,reedwi01c_NJN_1988_1989
+Brooklyn Nets,NJN,1989,1,W. Reed,reedwi01c,26,56,82,FALSE,59,reedwi01c_NJN_1988_1989
+Brooklyn Nets,NJN,1990,1,B. Fitch,fitchbi99c,17,65,82,TRUE,60,fitchbi99c_NJN_1990_1992
+Brooklyn Nets,NJN,1991,1,B. Fitch,fitchbi99c,26,56,82,FALSE,60,fitchbi99c_NJN_1990_1992
+Brooklyn Nets,NJN,1992,1,B. Fitch,fitchbi99c,40,42,82,FALSE,60,fitchbi99c_NJN_1990_1992
+Brooklyn Nets,NJN,1993,1,C. Daly,dalych99c,43,39,82,TRUE,61,dalych99c_NJN_1993_1994
+Brooklyn Nets,NJN,1994,1,C. Daly,dalych99c,45,37,82,FALSE,61,dalych99c_NJN_1993_1994
+Brooklyn Nets,NJN,1995,1,B. Beard,beardbu01c,30,52,82,TRUE,62,beardbu01c_NJN_1995_1996
+Brooklyn Nets,NJN,1996,1,B. Beard,beardbu01c,30,52,82,FALSE,62,beardbu01c_NJN_1995_1996
+Brooklyn Nets,NJN,1997,1,J. Calipari,calipjo99c,26,56,82,TRUE,63,calipjo99c_NJN_1997_1999
+Brooklyn Nets,NJN,1998,1,J. Calipari,calipjo99c,43,39,82,FALSE,63,calipjo99c_NJN_1997_1999
+Brooklyn Nets,NJN,1999,1,J. Calipari,calipjo99c,3,17,20,FALSE,63,calipjo99c_NJN_1997_1999
+Brooklyn Nets,NJN,1999,2,D. Casey,caseybo99c,13,17,30,TRUE,64,caseybo99c_NJN_1999_2000
+Brooklyn Nets,NJN,2000,1,D. Casey,caseybo99c,31,51,82,FALSE,64,caseybo99c_NJN_1999_2000
+Brooklyn Nets,NJN,2001,1,B. Scott,scottby01c,26,56,82,TRUE,65,scottby01c_NJN_2001_2004
+Brooklyn Nets,NJN,2002,1,B. Scott,scottby01c,52,30,82,FALSE,65,scottby01c_NJN_2001_2004
+Brooklyn Nets,NJN,2003,1,B. Scott,scottby01c,49,33,82,FALSE,65,scottby01c_NJN_2001_2004
+Brooklyn Nets,NJN,2004,1,B. Scott,scottby01c,22,20,42,FALSE,65,scottby01c_NJN_2001_2004
+Brooklyn Nets,NJN,2004,2,L. Frank,frankla99c,25,15,40,TRUE,66,frankla99c_NJN_2004_2010
+Brooklyn Nets,NJN,2005,1,L. Frank,frankla99c,42,40,82,FALSE,66,frankla99c_NJN_2004_2010
+Brooklyn Nets,NJN,2006,1,L. Frank,frankla99c,49,33,82,FALSE,66,frankla99c_NJN_2004_2010
+Brooklyn Nets,NJN,2007,1,L. Frank,frankla99c,41,41,82,FALSE,66,frankla99c_NJN_2004_2010
+Brooklyn Nets,NJN,2008,1,L. Frank,frankla99c,34,48,82,FALSE,66,frankla99c_NJN_2004_2010
+Brooklyn Nets,NJN,2009,1,L. Frank,frankla99c,34,48,82,FALSE,66,frankla99c_NJN_2004_2010
+Brooklyn Nets,NJN,2010,1,L. Frank,frankla99c,0,16,16,FALSE,66,frankla99c_NJN_2004_2010
+Brooklyn Nets,NJN,2010,2,T. Barrise,barrito99c,0,2,2,TRUE,67,barrito99c_NJN_2010_2010
+Brooklyn Nets,NJN,2010,3,K. Vandeweghe,vandeki01c,12,52,64,TRUE,68,vandeki01c_NJN_2010_2010
+Brooklyn Nets,NJN,2011,1,A. Johnson,johnsav01c,24,58,82,TRUE,69,johnsav01c_NJN_2011_2013
+Brooklyn Nets,NJN,2012,1,A. Johnson,johnsav01c,22,44,66,FALSE,69,johnsav01c_NJN_2011_2013
+Brooklyn Nets,NJN,2013,1,A. Johnson,johnsav01c,14,14,28,FALSE,69,johnsav01c_NJN_2011_2013
+Brooklyn Nets,NJN,2013,2,P. Carlesimo,carlepj99c,35,19,54,TRUE,70,carlepj99c_NJN_2013_2013
+Brooklyn Nets,NJN,2014,1,J. Kidd,kiddja01c,44,38,82,TRUE,71,kiddja01c_NJN_2014_2014
+Brooklyn Nets,NJN,2015,1,L. Hollins,hollili01c,38,44,82,TRUE,72,hollili01c_NJN_2015_2016
+Brooklyn Nets,NJN,2016,1,L. Hollins,hollili01c,10,27,37,FALSE,72,hollili01c_NJN_2015_2016
+Brooklyn Nets,NJN,2016,2,T. Brown,brownto01c,11,34,45,TRUE,73,brownto01c_NJN_2016_2016
+Brooklyn Nets,NJN,2017,1,K. Atkinson,atkinke01c,20,62,82,TRUE,74,atkinke01c_NJN_2017_2020
+Brooklyn Nets,NJN,2018,1,K. Atkinson,atkinke01c,28,54,82,FALSE,74,atkinke01c_NJN_2017_2020
+Brooklyn Nets,NJN,2019,1,K. Atkinson,atkinke01c,42,40,82,FALSE,74,atkinke01c_NJN_2017_2020
+Brooklyn Nets,NJN,2020,1,K. Atkinson,atkinke01c,28,34,62,FALSE,74,atkinke01c_NJN_2017_2020
+Brooklyn Nets,NJN,2020,2,J. Vaughn,vaughja01c,2,0,2,TRUE,75,vaughja01c_NJN_2020_2020
+Charlotte Hornets,CHA,1989,1,D. Harter,hartedi99c,20,62,82,TRUE,76,hartedi99c_CHA_1989_1990
+Charlotte Hornets,CHA,1990,1,D. Harter,hartedi99c,8,32,40,FALSE,76,hartedi99c_CHA_1989_1990
+Charlotte Hornets,CHA,1990,2,G. Littles,littlge01c,11,31,42,TRUE,77,littlge01c_CHA_1990_1991
+Charlotte Hornets,CHA,1991,1,G. Littles,littlge01c,26,56,82,FALSE,77,littlge01c_CHA_1990_1991
+Charlotte Hornets,CHA,1992,1,A. Bristow,bristal01c,31,51,82,TRUE,78,bristal01c_CHA_1992_1996
+Charlotte Hornets,CHA,1993,1,A. Bristow,bristal01c,44,38,82,FALSE,78,bristal01c_CHA_1992_1996
+Charlotte Hornets,CHA,1994,1,A. Bristow,bristal01c,41,41,82,FALSE,78,bristal01c_CHA_1992_1996
+Charlotte Hornets,CHA,1995,1,A. Bristow,bristal01c,50,32,82,FALSE,78,bristal01c_CHA_1992_1996
+Charlotte Hornets,CHA,1996,1,A. Bristow,bristal01c,41,41,82,FALSE,78,bristal01c_CHA_1992_1996
+Charlotte Hornets,CHA,1997,1,D. Cowens,cowenda01c,54,28,82,TRUE,79,cowenda01c_CHA_1997_1999
+Charlotte Hornets,CHA,1998,1,D. Cowens,cowenda01c,51,31,82,FALSE,79,cowenda01c_CHA_1997_1999
+Charlotte Hornets,CHA,1999,1,D. Cowens,cowenda01c,4,11,15,FALSE,79,cowenda01c_CHA_1997_1999
+Charlotte Hornets,CHA,1999,2,P. Silas,silaspa01c,22,13,35,TRUE,80,silaspa01c_CHA_1999_2002
+Charlotte Hornets,CHA,2000,1,P. Silas,silaspa01c,49,33,82,FALSE,80,silaspa01c_CHA_1999_2002
+Charlotte Hornets,CHA,2001,1,P. Silas,silaspa01c,46,36,82,FALSE,80,silaspa01c_CHA_1999_2002
+Charlotte Hornets,CHA,2002,1,P. Silas,silaspa01c,44,38,82,FALSE,80,silaspa01c_CHA_1999_2002
+Charlotte Hornets,CHA,2005,1,B. Bickerstaff,bickebe99c,18,64,82,TRUE,81,bickebe99c_CHA_2005_2007
+Charlotte Hornets,CHA,2006,1,B. Bickerstaff,bickebe99c,26,56,82,FALSE,81,bickebe99c_CHA_2005_2007
+Charlotte Hornets,CHA,2007,1,B. Bickerstaff,bickebe99c,33,49,82,FALSE,81,bickebe99c_CHA_2005_2007
+Charlotte Hornets,CHA,2008,1,S. Vincent,vincesa01c,32,50,82,TRUE,82,vincesa01c_CHA_2008_2008
+Charlotte Hornets,CHA,2009,1,L. Brown,brownla01c,35,47,82,TRUE,83,brownla01c_CHA_2009_2011
+Charlotte Hornets,CHA,2010,1,L. Brown,brownla01c,44,38,82,FALSE,83,brownla01c_CHA_2009_2011
+Charlotte Hornets,CHA,2011,1,L. Brown,brownla01c,9,19,28,FALSE,83,brownla01c_CHA_2009_2011
+Charlotte Hornets,CHA,2011,2,P. Silas,silaspa01c,25,29,54,TRUE,84,silaspa01c_CHA_2011_2012
+Charlotte Hornets,CHA,2012,1,P. Silas,silaspa01c,7,59,66,FALSE,84,silaspa01c_CHA_2011_2012
+Charlotte Hornets,CHA,2013,1,M. Dunlap,dunlami99c,21,61,82,TRUE,85,dunlami99c_CHA_2013_2013
+Charlotte Hornets,CHA,2014,1,S. Clifford,cliffst99c,43,39,82,TRUE,86,cliffst99c_CHA_2014_2018
+Charlotte Hornets,CHA,2015,1,S. Clifford,cliffst99c,33,49,82,FALSE,86,cliffst99c_CHA_2014_2018
+Charlotte Hornets,CHA,2016,1,S. Clifford,cliffst99c,48,34,82,FALSE,86,cliffst99c_CHA_2014_2018
+Charlotte Hornets,CHA,2017,1,S. Clifford,cliffst99c,36,46,82,FALSE,86,cliffst99c_CHA_2014_2018
+Charlotte Hornets,CHA,2018,1,S. Clifford,cliffst99c,36,46,82,FALSE,86,cliffst99c_CHA_2014_2018
+Charlotte Hornets,CHA,2019,1,J. Borrego,borreja99c,39,43,82,TRUE,87,borreja99c_CHA_2019_2020
+Charlotte Hornets,CHA,2020,1,J. Borrego,borreja99c,23,42,65,FALSE,87,borreja99c_CHA_2019_2020
+Chicago Bulls,CHI,1967,1,R. Kerr,kerrre01c,33,48,81,TRUE,88,kerrre01c_CHI_1967_1968
+Chicago Bulls,CHI,1968,1,R. Kerr,kerrre01c,29,53,82,FALSE,88,kerrre01c_CHI_1967_1968
+Chicago Bulls,CHI,1969,1,D. Motta,mottadi99c,33,49,82,TRUE,89,mottadi99c_CHI_1969_1976
+Chicago Bulls,CHI,1970,1,D. Motta,mottadi99c,39,43,82,FALSE,89,mottadi99c_CHI_1969_1976
+Chicago Bulls,CHI,1971,1,D. Motta,mottadi99c,51,31,82,FALSE,89,mottadi99c_CHI_1969_1976
+Chicago Bulls,CHI,1972,1,D. Motta,mottadi99c,57,25,82,FALSE,89,mottadi99c_CHI_1969_1976
+Chicago Bulls,CHI,1973,1,D. Motta,mottadi99c,51,31,82,FALSE,89,mottadi99c_CHI_1969_1976
+Chicago Bulls,CHI,1974,1,D. Motta,mottadi99c,54,28,82,FALSE,89,mottadi99c_CHI_1969_1976
+Chicago Bulls,CHI,1975,1,D. Motta,mottadi99c,47,35,82,FALSE,89,mottadi99c_CHI_1969_1976
+Chicago Bulls,CHI,1976,1,D. Motta,mottadi99c,24,58,82,FALSE,89,mottadi99c_CHI_1969_1976
+Chicago Bulls,CHI,1977,1,E. Badger,badgeed99c,44,38,82,TRUE,90,badgeed99c_CHI_1977_1978
+Chicago Bulls,CHI,1978,1,E. Badger,badgeed99c,40,42,82,FALSE,90,badgeed99c_CHI_1977_1978
+Chicago Bulls,CHI,1979,1,L. Costello,costela01c,20,36,56,TRUE,91,costela01c_CHI_1979_1979
+Chicago Bulls,CHI,1979,2,S. Robertson,robersc99c,11,15,26,TRUE,92,robersc99c_CHI_1979_1979
+Chicago Bulls,CHI,1980,1,J. Sloan,sloanje01c,30,52,82,TRUE,93,sloanje01c_CHI_1980_1982
+Chicago Bulls,CHI,1981,1,J. Sloan,sloanje01c,45,37,82,FALSE,93,sloanje01c_CHI_1980_1982
+Chicago Bulls,CHI,1982,1,J. Sloan,sloanje01c,19,32,51,FALSE,93,sloanje01c_CHI_1980_1982
+Chicago Bulls,CHI,1982,2,P. Johnson,johnsph99c,0,1,1,TRUE,94,johnsph99c_CHI_1982_1982
+Chicago Bulls,CHI,1982,3,R. Thorn,thornro01c,15,15,30,TRUE,95,thornro01c_CHI_1982_1982
+Chicago Bulls,CHI,1983,1,P. Westhead,westhpa99c,28,54,82,TRUE,96,westhpa99c_CHI_1983_1983
+Chicago Bulls,CHI,1984,1,K. Loughery,loughke01c,27,55,82,TRUE,97,loughke01c_CHI_1984_1985
+Chicago Bulls,CHI,1985,1,K. Loughery,loughke01c,38,44,82,FALSE,97,loughke01c_CHI_1984_1985
+Chicago Bulls,CHI,1986,1,S. Albeck,albecst99c,30,52,82,TRUE,98,albecst99c_CHI_1986_1986
+Chicago Bulls,CHI,1987,1,D. Collins,collido01c,40,42,82,TRUE,99,collido01c_CHI_1987_1989
+Chicago Bulls,CHI,1988,1,D. Collins,collido01c,50,32,82,FALSE,99,collido01c_CHI_1987_1989
+Chicago Bulls,CHI,1989,1,D. Collins,collido01c,47,35,82,FALSE,99,collido01c_CHI_1987_1989
+Chicago Bulls,CHI,1990,1,P. Jackson,jacksph01c,55,27,82,TRUE,100,jacksph01c_CHI_1990_1998
+Chicago Bulls,CHI,1991,1,P. Jackson,jacksph01c,61,21,82,FALSE,100,jacksph01c_CHI_1990_1998
+Chicago Bulls,CHI,1992,1,P. Jackson,jacksph01c,67,15,82,FALSE,100,jacksph01c_CHI_1990_1998
+Chicago Bulls,CHI,1993,1,P. Jackson,jacksph01c,57,25,82,FALSE,100,jacksph01c_CHI_1990_1998
+Chicago Bulls,CHI,1994,1,P. Jackson,jacksph01c,55,27,82,FALSE,100,jacksph01c_CHI_1990_1998
+Chicago Bulls,CHI,1995,1,P. Jackson,jacksph01c,47,35,82,FALSE,100,jacksph01c_CHI_1990_1998
+Chicago Bulls,CHI,1996,1,P. Jackson,jacksph01c,72,10,82,FALSE,100,jacksph01c_CHI_1990_1998
+Chicago Bulls,CHI,1997,1,P. Jackson,jacksph01c,69,13,82,FALSE,100,jacksph01c_CHI_1990_1998
+Chicago Bulls,CHI,1998,1,P. Jackson,jacksph01c,62,20,82,FALSE,100,jacksph01c_CHI_1990_1998
+Chicago Bulls,CHI,1999,1,T. Floyd,floydti99c,13,37,50,TRUE,101,floydti99c_CHI_1999_2002
+Chicago Bulls,CHI,2000,1,T. Floyd,floydti99c,17,65,82,FALSE,101,floydti99c_CHI_1999_2002
+Chicago Bulls,CHI,2001,1,T. Floyd,floydti99c,15,67,82,FALSE,101,floydti99c_CHI_1999_2002
+Chicago Bulls,CHI,2002,1,T. Floyd,floydti99c,4,21,25,FALSE,101,floydti99c_CHI_1999_2002
+Chicago Bulls,CHI,2002,2,B. Berry,berrybi99c,0,2,2,TRUE,102,berrybi99c_CHI_2002_2002
+Chicago Bulls,CHI,2002,3,B. Cartwright,cartwbi01c,17,38,55,TRUE,103,cartwbi01c_CHI_2002_2004
+Chicago Bulls,CHI,2003,1,B. Cartwright,cartwbi01c,30,52,82,FALSE,103,cartwbi01c_CHI_2002_2004
+Chicago Bulls,CHI,2004,1,B. Cartwright,cartwbi01c,4,10,14,FALSE,103,cartwbi01c_CHI_2002_2004
+Chicago Bulls,CHI,2004,2,P. Myers,myerspe01c,0,2,2,TRUE,104,myerspe01c_CHI_2004_2004
+Chicago Bulls,CHI,2004,3,S. Skiles,skilesc01c,19,47,66,TRUE,105,skilesc01c_CHI_2004_2008
+Chicago Bulls,CHI,2005,1,S. Skiles,skilesc01c,47,35,82,FALSE,105,skilesc01c_CHI_2004_2008
+Chicago Bulls,CHI,2006,1,S. Skiles,skilesc01c,41,41,82,FALSE,105,skilesc01c_CHI_2004_2008
+Chicago Bulls,CHI,2007,1,S. Skiles,skilesc01c,49,33,82,FALSE,105,skilesc01c_CHI_2004_2008
+Chicago Bulls,CHI,2008,1,S. Skiles,skilesc01c,9,16,25,FALSE,105,skilesc01c_CHI_2004_2008
+Chicago Bulls,CHI,2008,2,P. Myers,myerspe01c,0,1,1,TRUE,106,myerspe01c_CHI_2008_2008
+Chicago Bulls,CHI,2008,3,J. Boylan,boylaji99c,24,32,56,TRUE,107,boylaji99c_CHI_2008_2008
+Chicago Bulls,CHI,2009,1,V. Del Negro,delnevi01c,41,41,82,TRUE,108,delnevi01c_CHI_2009_2010
+Chicago Bulls,CHI,2010,1,V. Del Negro,delnevi01c,41,41,82,FALSE,108,delnevi01c_CHI_2009_2010
+Chicago Bulls,CHI,2011,1,T. Thibodeau,thiboto99c,62,20,82,TRUE,109,thiboto99c_CHI_2011_2015
+Chicago Bulls,CHI,2012,1,T. Thibodeau,thiboto99c,50,16,66,FALSE,109,thiboto99c_CHI_2011_2015
+Chicago Bulls,CHI,2013,1,T. Thibodeau,thiboto99c,45,37,82,FALSE,109,thiboto99c_CHI_2011_2015
+Chicago Bulls,CHI,2014,1,T. Thibodeau,thiboto99c,48,34,82,FALSE,109,thiboto99c_CHI_2011_2015
+Chicago Bulls,CHI,2015,1,T. Thibodeau,thiboto99c,50,32,82,FALSE,109,thiboto99c_CHI_2011_2015
+Chicago Bulls,CHI,2016,1,F. Hoiberg,hoibefr99c,42,40,82,TRUE,110,hoibefr99c_CHI_2016_2019
+Chicago Bulls,CHI,2017,1,F. Hoiberg,hoibefr99c,41,41,82,FALSE,110,hoibefr99c_CHI_2016_2019
+Chicago Bulls,CHI,2018,1,F. Hoiberg,hoibefr99c,27,55,82,FALSE,110,hoibefr99c_CHI_2016_2019
+Chicago Bulls,CHI,2019,1,F. Hoiberg,hoibefr99c,5,19,24,FALSE,110,hoibefr99c_CHI_2016_2019
+Chicago Bulls,CHI,2019,2,J. Boylen,boyleji02c,17,41,58,TRUE,111,boyleji02c_CHI_2019_2020
+Chicago Bulls,CHI,2020,1,J. Boylen,boyleji02c,22,43,65,FALSE,111,boyleji02c_CHI_2019_2020
+Cleveland Cavaliers,CLE,1971,1,B. Fitch,fitchbi99c,15,67,82,TRUE,112,fitchbi99c_CLE_1971_1979
+Cleveland Cavaliers,CLE,1972,1,B. Fitch,fitchbi99c,23,59,82,FALSE,112,fitchbi99c_CLE_1971_1979
+Cleveland Cavaliers,CLE,1973,1,B. Fitch,fitchbi99c,32,50,82,FALSE,112,fitchbi99c_CLE_1971_1979
+Cleveland Cavaliers,CLE,1974,1,B. Fitch,fitchbi99c,29,53,82,FALSE,112,fitchbi99c_CLE_1971_1979
+Cleveland Cavaliers,CLE,1975,1,B. Fitch,fitchbi99c,40,42,82,FALSE,112,fitchbi99c_CLE_1971_1979
+Cleveland Cavaliers,CLE,1976,1,B. Fitch,fitchbi99c,49,33,82,FALSE,112,fitchbi99c_CLE_1971_1979
+Cleveland Cavaliers,CLE,1977,1,B. Fitch,fitchbi99c,43,39,82,FALSE,112,fitchbi99c_CLE_1971_1979
+Cleveland Cavaliers,CLE,1978,1,B. Fitch,fitchbi99c,43,39,82,FALSE,112,fitchbi99c_CLE_1971_1979
+Cleveland Cavaliers,CLE,1979,1,B. Fitch,fitchbi99c,30,52,82,FALSE,112,fitchbi99c_CLE_1971_1979
+Cleveland Cavaliers,CLE,1980,1,S. Albeck,albecst99c,37,45,82,TRUE,113,albecst99c_CLE_1980_1980
+Cleveland Cavaliers,CLE,1981,1,B. Musselman,mussebi99c,25,46,71,TRUE,114,mussebi99c_CLE_1981_1981
+Cleveland Cavaliers,CLE,1981,2,D. Delaney,delando99c,3,8,11,TRUE,115,delando99c_CLE_1981_1982
+Cleveland Cavaliers,CLE,1982,1,D. Delaney,delando99c,4,11,15,FALSE,115,delando99c_CLE_1981_1982
+Cleveland Cavaliers,CLE,1982,2,B. Kloppenburg,kloppbo99c,0,3,3,TRUE,116,kloppbo99c_CLE_1982_1982
+Cleveland Cavaliers,CLE,1982,3,C. Daly,dalych99c,9,32,41,TRUE,117,dalych99c_CLE_1982_1982
+Cleveland Cavaliers,CLE,1982,4,B. Musselman,mussebi99c,2,21,23,TRUE,118,mussebi99c_CLE_1982_1982
+Cleveland Cavaliers,CLE,1983,1,T. Nissalke,nissato99c,23,59,82,TRUE,119,nissato99c_CLE_1983_1984
+Cleveland Cavaliers,CLE,1984,1,T. Nissalke,nissato99c,28,54,82,FALSE,119,nissato99c_CLE_1983_1984
+Cleveland Cavaliers,CLE,1985,1,G. Karl,karlge01c,36,46,82,TRUE,120,karlge01c_CLE_1985_1986
+Cleveland Cavaliers,CLE,1986,1,G. Karl,karlge01c,25,42,67,FALSE,120,karlge01c_CLE_1985_1986
+Cleveland Cavaliers,CLE,1986,2,G. Littles,littlge01c,4,11,15,TRUE,121,littlge01c_CLE_1986_1986
+Cleveland Cavaliers,CLE,1987,1,L. Wilkens,wilkele01c,31,51,82,TRUE,122,wilkele01c_CLE_1987_1993
+Cleveland Cavaliers,CLE,1988,1,L. Wilkens,wilkele01c,42,40,82,FALSE,122,wilkele01c_CLE_1987_1993
+Cleveland Cavaliers,CLE,1989,1,L. Wilkens,wilkele01c,57,25,82,FALSE,122,wilkele01c_CLE_1987_1993
+Cleveland Cavaliers,CLE,1990,1,L. Wilkens,wilkele01c,42,40,82,FALSE,122,wilkele01c_CLE_1987_1993
+Cleveland Cavaliers,CLE,1991,1,L. Wilkens,wilkele01c,33,49,82,FALSE,122,wilkele01c_CLE_1987_1993
+Cleveland Cavaliers,CLE,1992,1,L. Wilkens,wilkele01c,57,25,82,FALSE,122,wilkele01c_CLE_1987_1993
+Cleveland Cavaliers,CLE,1993,1,L. Wilkens,wilkele01c,54,28,82,FALSE,122,wilkele01c_CLE_1987_1993
+Cleveland Cavaliers,CLE,1994,1,M. Fratello,fratemi99c,47,35,82,TRUE,123,fratemi99c_CLE_1994_1999
+Cleveland Cavaliers,CLE,1995,1,M. Fratello,fratemi99c,43,39,82,FALSE,123,fratemi99c_CLE_1994_1999
+Cleveland Cavaliers,CLE,1996,1,M. Fratello,fratemi99c,47,35,82,FALSE,123,fratemi99c_CLE_1994_1999
+Cleveland Cavaliers,CLE,1997,1,M. Fratello,fratemi99c,42,40,82,FALSE,123,fratemi99c_CLE_1994_1999
+Cleveland Cavaliers,CLE,1998,1,M. Fratello,fratemi99c,47,35,82,FALSE,123,fratemi99c_CLE_1994_1999
+Cleveland Cavaliers,CLE,1999,1,M. Fratello,fratemi99c,22,28,50,FALSE,123,fratemi99c_CLE_1994_1999
+Cleveland Cavaliers,CLE,2000,1,R. Wittman,wittmra01c,32,50,82,TRUE,124,wittmra01c_CLE_2000_2001
+Cleveland Cavaliers,CLE,2001,1,R. Wittman,wittmra01c,30,52,82,FALSE,124,wittmra01c_CLE_2000_2001
+Cleveland Cavaliers,CLE,2002,1,J. Lucas,lucasjo01c,29,53,82,TRUE,125,lucasjo01c_CLE_2002_2003
+Cleveland Cavaliers,CLE,2003,1,J. Lucas,lucasjo01c,8,34,42,FALSE,125,lucasjo01c_CLE_2002_2003
+Cleveland Cavaliers,CLE,2003,2,K. Smart,smartke01c,9,31,40,TRUE,126,smartke01c_CLE_2003_2003
+Cleveland Cavaliers,CLE,2004,1,P. Silas,silaspa01c,35,47,82,TRUE,127,silaspa01c_CLE_2004_2005
+Cleveland Cavaliers,CLE,2005,1,P. Silas,silaspa01c,34,30,64,FALSE,127,silaspa01c_CLE_2004_2005
+Cleveland Cavaliers,CLE,2005,2,B. Malone,malonbr99c,8,10,18,TRUE,128,malonbr99c_CLE_2005_2005
+Cleveland Cavaliers,CLE,2006,1,M. Brown,brownmi99c,50,32,82,TRUE,129,brownmi99c_CLE_2006_2010
+Cleveland Cavaliers,CLE,2007,1,M. Brown,brownmi99c,50,32,82,FALSE,129,brownmi99c_CLE_2006_2010
+Cleveland Cavaliers,CLE,2008,1,M. Brown,brownmi99c,45,37,82,FALSE,129,brownmi99c_CLE_2006_2010
+Cleveland Cavaliers,CLE,2009,1,M. Brown,brownmi99c,66,16,82,FALSE,129,brownmi99c_CLE_2006_2010
+Cleveland Cavaliers,CLE,2010,1,M. Brown,brownmi99c,61,21,82,FALSE,129,brownmi99c_CLE_2006_2010
+Cleveland Cavaliers,CLE,2011,1,B. Scott,scottby01c,19,63,82,TRUE,130,scottby01c_CLE_2011_2013
+Cleveland Cavaliers,CLE,2012,1,B. Scott,scottby01c,21,45,66,FALSE,130,scottby01c_CLE_2011_2013
+Cleveland Cavaliers,CLE,2013,1,B. Scott,scottby01c,24,58,82,FALSE,130,scottby01c_CLE_2011_2013
+Cleveland Cavaliers,CLE,2014,1,M. Brown,brownmi99c,33,49,82,TRUE,131,brownmi99c_CLE_2014_2014
+Cleveland Cavaliers,CLE,2015,1,D. Blatt,blattda99c,53,29,82,TRUE,132,blattda99c_CLE_2015_2016
+Cleveland Cavaliers,CLE,2016,1,D. Blatt,blattda99c,30,11,41,FALSE,132,blattda99c_CLE_2015_2016
+Cleveland Cavaliers,CLE,2016,2,T. Lue,luety01c,27,14,41,TRUE,133,luety01c_CLE_2016_2019
+Cleveland Cavaliers,CLE,2017,1,T. Lue,luety01c,51,31,82,FALSE,133,luety01c_CLE_2016_2019
+Cleveland Cavaliers,CLE,2018,1,T. Lue,luety01c,50,32,82,FALSE,133,luety01c_CLE_2016_2019
+Cleveland Cavaliers,CLE,2019,1,T. Lue,luety01c,0,6,6,FALSE,133,luety01c_CLE_2016_2019
+Cleveland Cavaliers,CLE,2019,2,L. Drew,drewla01c,19,57,76,TRUE,134,drewla01c_CLE_2019_2019
+Cleveland Cavaliers,CLE,2020,1,J. Beilein,beilejo99c,14,40,54,TRUE,135,beilejo99c_CLE_2020_2020
+Cleveland Cavaliers,CLE,2020,2,J. Bickerstaff,bickejb01c,5,6,11,TRUE,136,bickejb01c_CLE_2020_2020
+Dallas Mavericks,DAL,1981,1,D. Motta,mottadi99c,15,67,82,TRUE,137,mottadi99c_DAL_1981_1987
+Dallas Mavericks,DAL,1982,1,D. Motta,mottadi99c,28,54,82,FALSE,137,mottadi99c_DAL_1981_1987
+Dallas Mavericks,DAL,1983,1,D. Motta,mottadi99c,38,44,82,FALSE,137,mottadi99c_DAL_1981_1987
+Dallas Mavericks,DAL,1984,1,D. Motta,mottadi99c,43,39,82,FALSE,137,mottadi99c_DAL_1981_1987
+Dallas Mavericks,DAL,1985,1,D. Motta,mottadi99c,44,38,82,FALSE,137,mottadi99c_DAL_1981_1987
+Dallas Mavericks,DAL,1986,1,D. Motta,mottadi99c,44,38,82,FALSE,137,mottadi99c_DAL_1981_1987
+Dallas Mavericks,DAL,1987,1,D. Motta,mottadi99c,55,27,82,FALSE,137,mottadi99c_DAL_1981_1987
+Dallas Mavericks,DAL,1988,1,J. MacLeod,maclejo99c,53,29,82,TRUE,138,maclejo99c_DAL_1988_1990
+Dallas Mavericks,DAL,1989,1,J. MacLeod,maclejo99c,38,44,82,FALSE,138,maclejo99c_DAL_1988_1990
+Dallas Mavericks,DAL,1990,1,J. MacLeod,maclejo99c,5,6,11,FALSE,138,maclejo99c_DAL_1988_1990
+Dallas Mavericks,DAL,1990,2,R. Adubato,adubari99c,42,29,71,TRUE,139,adubari99c_DAL_1990_1993
+Dallas Mavericks,DAL,1991,1,R. Adubato,adubari99c,28,54,82,FALSE,139,adubari99c_DAL_1990_1993
+Dallas Mavericks,DAL,1992,1,R. Adubato,adubari99c,22,60,82,FALSE,139,adubari99c_DAL_1990_1993
+Dallas Mavericks,DAL,1993,1,R. Adubato,adubari99c,2,27,29,FALSE,139,adubari99c_DAL_1990_1993
+Dallas Mavericks,DAL,1993,2,G. Heard,heardga01c,9,44,53,TRUE,140,heardga01c_DAL_1993_1993
+Dallas Mavericks,DAL,1994,1,Q. Buckner,bucknqu01c,13,69,82,TRUE,141,bucknqu01c_DAL_1994_1994
+Dallas Mavericks,DAL,1995,1,D. Motta,mottadi99c,36,46,82,TRUE,142,mottadi99c_DAL_1995_1996
+Dallas Mavericks,DAL,1996,1,D. Motta,mottadi99c,26,56,82,FALSE,142,mottadi99c_DAL_1995_1996
+Dallas Mavericks,DAL,1997,1,J. Cleamons,cleamji01c,24,58,82,TRUE,143,cleamji01c_DAL_1997_1998
+Dallas Mavericks,DAL,1998,1,J. Cleamons,cleamji01c,4,12,16,FALSE,143,cleamji01c_DAL_1997_1998
+Dallas Mavericks,DAL,1998,2,D. Nelson,nelsodo01c,16,50,66,TRUE,144,nelsodo01c_DAL_1998_2005
+Dallas Mavericks,DAL,1999,1,D. Nelson,nelsodo01c,19,31,50,FALSE,144,nelsodo01c_DAL_1998_2005
+Dallas Mavericks,DAL,2000,1,D. Nelson,nelsodo01c,40,42,82,FALSE,144,nelsodo01c_DAL_1998_2005
+Dallas Mavericks,DAL,2001,1,D. Nelson,nelsodo01c,53,29,82,FALSE,144,nelsodo01c_DAL_1998_2005
+Dallas Mavericks,DAL,2002,1,D. Nelson,nelsodo01c,57,25,82,FALSE,144,nelsodo01c_DAL_1998_2005
+Dallas Mavericks,DAL,2003,1,D. Nelson,nelsodo01c,60,22,82,FALSE,144,nelsodo01c_DAL_1998_2005
+Dallas Mavericks,DAL,2004,1,D. Nelson,nelsodo01c,52,30,82,FALSE,144,nelsodo01c_DAL_1998_2005
+Dallas Mavericks,DAL,2005,1,D. Nelson,nelsodo01c,42,22,64,FALSE,144,nelsodo01c_DAL_1998_2005
+Dallas Mavericks,DAL,2005,2,A. Johnson,johnsav01c,16,2,18,TRUE,145,johnsav01c_DAL_2005_2008
+Dallas Mavericks,DAL,2006,1,A. Johnson,johnsav01c,60,22,82,FALSE,145,johnsav01c_DAL_2005_2008
+Dallas Mavericks,DAL,2007,1,A. Johnson,johnsav01c,67,15,82,FALSE,145,johnsav01c_DAL_2005_2008
+Dallas Mavericks,DAL,2008,1,A. Johnson,johnsav01c,51,31,82,FALSE,145,johnsav01c_DAL_2005_2008
+Dallas Mavericks,DAL,2009,1,R. Carlisle,carliri01c,50,32,82,TRUE,146,carliri01c_DAL_2009_2020
+Dallas Mavericks,DAL,2010,1,R. Carlisle,carliri01c,55,27,82,FALSE,146,carliri01c_DAL_2009_2020
+Dallas Mavericks,DAL,2011,1,R. Carlisle,carliri01c,57,25,82,FALSE,146,carliri01c_DAL_2009_2020
+Dallas Mavericks,DAL,2012,1,R. Carlisle,carliri01c,36,30,66,FALSE,146,carliri01c_DAL_2009_2020
+Dallas Mavericks,DAL,2013,1,R. Carlisle,carliri01c,41,41,82,FALSE,146,carliri01c_DAL_2009_2020
+Dallas Mavericks,DAL,2014,1,R. Carlisle,carliri01c,49,33,82,FALSE,146,carliri01c_DAL_2009_2020
+Dallas Mavericks,DAL,2015,1,R. Carlisle,carliri01c,50,32,82,FALSE,146,carliri01c_DAL_2009_2020
+Dallas Mavericks,DAL,2016,1,R. Carlisle,carliri01c,42,40,82,FALSE,146,carliri01c_DAL_2009_2020
+Dallas Mavericks,DAL,2017,1,R. Carlisle,carliri01c,33,49,82,FALSE,146,carliri01c_DAL_2009_2020
+Dallas Mavericks,DAL,2018,1,R. Carlisle,carliri01c,24,58,82,FALSE,146,carliri01c_DAL_2009_2020
+Dallas Mavericks,DAL,2019,1,R. Carlisle,carliri01c,33,49,82,FALSE,146,carliri01c_DAL_2009_2020
+Dallas Mavericks,DAL,2020,1,R. Carlisle,carliri01c,40,27,67,FALSE,146,carliri01c_DAL_2009_2020
+Denver Nuggets,DEN,1968,1,B. Bass,bassbo99c,45,33,78,TRUE,147,bassbo99c_DEN_1968_1969
+Denver Nuggets,DEN,1969,1,B. Bass,bassbo99c,44,34,78,FALSE,147,bassbo99c_DEN_1968_1969
+Denver Nuggets,DEN,1970,1,J. McLendon,mclenjo99c,9,19,28,TRUE,148,mclenjo99c_DEN_1970_1970
+Denver Nuggets,DEN,1970,2,J. Belmont,belmojo99c,42,14,56,TRUE,149,belmojo99c_DEN_1970_1971
+Denver Nuggets,DEN,1971,1,J. Belmont,belmojo99c,3,10,13,FALSE,149,belmojo99c_DEN_1970_1971
+Denver Nuggets,DEN,1971,2,S. Albeck,albecst99c,27,44,71,TRUE,150,albecst99c_DEN_1971_1971
+Denver Nuggets,DEN,1972,1,A. Hannum,hannual01c,34,50,84,TRUE,151,hannual01c_DEN_1972_1974
+Denver Nuggets,DEN,1973,1,A. Hannum,hannual01c,47,37,84,FALSE,151,hannual01c_DEN_1972_1974
+Denver Nuggets,DEN,1974,1,A. Hannum,hannual01c,37,47,84,FALSE,151,hannual01c_DEN_1972_1974
+Denver Nuggets,DEN,1975,1,L. Brown,brownla01c,65,19,84,TRUE,152,brownla01c_DEN_1975_1979
+Denver Nuggets,DEN,1976,1,L. Brown,brownla01c,60,24,84,FALSE,152,brownla01c_DEN_1975_1979
+Denver Nuggets,DEN,1977,1,L. Brown,brownla01c,50,32,82,FALSE,152,brownla01c_DEN_1975_1979
+Denver Nuggets,DEN,1978,1,L. Brown,brownla01c,48,34,82,FALSE,152,brownla01c_DEN_1975_1979
+Denver Nuggets,DEN,1979,1,L. Brown,brownla01c,28,25,53,FALSE,152,brownla01c_DEN_1975_1979
+Denver Nuggets,DEN,1979,2,D. Walsh,walshdo99c,19,10,29,TRUE,153,walshdo99c_DEN_1979_1981
+Denver Nuggets,DEN,1980,1,D. Walsh,walshdo99c,30,52,82,FALSE,153,walshdo99c_DEN_1979_1981
+Denver Nuggets,DEN,1981,1,D. Walsh,walshdo99c,11,20,31,FALSE,153,walshdo99c_DEN_1979_1981
+Denver Nuggets,DEN,1981,2,D. Moe,moedo01c,26,25,51,TRUE,154,moedo01c_DEN_1981_1990
+Denver Nuggets,DEN,1982,1,D. Moe,moedo01c,46,36,82,FALSE,154,moedo01c_DEN_1981_1990
+Denver Nuggets,DEN,1983,1,D. Moe,moedo01c,45,37,82,FALSE,154,moedo01c_DEN_1981_1990
+Denver Nuggets,DEN,1984,1,D. Moe,moedo01c,38,44,82,FALSE,154,moedo01c_DEN_1981_1990
+Denver Nuggets,DEN,1985,1,D. Moe,moedo01c,52,30,82,FALSE,154,moedo01c_DEN_1981_1990
+Denver Nuggets,DEN,1986,1,D. Moe,moedo01c,47,35,82,FALSE,154,moedo01c_DEN_1981_1990
+Denver Nuggets,DEN,1987,1,D. Moe,moedo01c,37,45,82,FALSE,154,moedo01c_DEN_1981_1990
+Denver Nuggets,DEN,1988,1,D. Moe,moedo01c,54,28,82,FALSE,154,moedo01c_DEN_1981_1990
+Denver Nuggets,DEN,1989,1,D. Moe,moedo01c,44,38,82,FALSE,154,moedo01c_DEN_1981_1990
+Denver Nuggets,DEN,1990,1,D. Moe,moedo01c,43,39,82,FALSE,154,moedo01c_DEN_1981_1990
+Denver Nuggets,DEN,1991,1,P. Westhead,westhpa99c,20,62,82,TRUE,155,westhpa99c_DEN_1991_1992
+Denver Nuggets,DEN,1992,1,P. Westhead,westhpa99c,24,58,82,FALSE,155,westhpa99c_DEN_1991_1992
+Denver Nuggets,DEN,1993,1,D. Issel,isselda01c,36,46,82,TRUE,156,isselda01c_DEN_1993_1995
+Denver Nuggets,DEN,1994,1,D. Issel,isselda01c,42,40,82,FALSE,156,isselda01c_DEN_1993_1995
+Denver Nuggets,DEN,1995,1,D. Issel,isselda01c,18,16,34,FALSE,156,isselda01c_DEN_1993_1995
+Denver Nuggets,DEN,1995,2,G. Littles,littlge01c,3,13,16,TRUE,157,littlge01c_DEN_1995_1995
+Denver Nuggets,DEN,1995,3,B. Bickerstaff,bickebe99c,20,12,32,TRUE,158,bickebe99c_DEN_1995_1997
+Denver Nuggets,DEN,1996,1,B. Bickerstaff,bickebe99c,35,47,82,FALSE,158,bickebe99c_DEN_1995_1997
+Denver Nuggets,DEN,1997,1,B. Bickerstaff,bickebe99c,4,9,13,FALSE,158,bickebe99c_DEN_1995_1997
+Denver Nuggets,DEN,1997,2,D. Motta,mottadi99c,17,52,69,TRUE,159,mottadi99c_DEN_1997_1997
+Denver Nuggets,DEN,1998,1,B. Hanzlik,hanzlbi01c,11,71,82,TRUE,160,hanzlbi01c_DEN_1998_1998
+Denver Nuggets,DEN,1999,1,M. D'Antoni,dantomi01c,14,36,50,TRUE,161,dantomi01c_DEN_1999_1999
+Denver Nuggets,DEN,2000,1,D. Issel,isselda01c,35,47,82,TRUE,162,isselda01c_DEN_2000_2002
+Denver Nuggets,DEN,2001,1,D. Issel,isselda01c,40,42,82,FALSE,162,isselda01c_DEN_2000_2002
+Denver Nuggets,DEN,2002,1,D. Issel,isselda01c,9,17,26,FALSE,162,isselda01c_DEN_2000_2002
+Denver Nuggets,DEN,2002,2,M. Evans,evansmi01c,18,38,56,TRUE,163,evansmi01c_DEN_2002_2002
+Denver Nuggets,DEN,2003,1,J. Bzdelik,bzdelje99c,17,65,82,TRUE,164,bzdelje99c_DEN_2003_2005
+Denver Nuggets,DEN,2004,1,J. Bzdelik,bzdelje99c,43,39,82,FALSE,164,bzdelje99c_DEN_2003_2005
+Denver Nuggets,DEN,2005,1,J. Bzdelik,bzdelje99c,13,15,28,FALSE,164,bzdelje99c_DEN_2003_2005
+Denver Nuggets,DEN,2005,2,M. Cooper,coopemi01c,4,10,14,TRUE,165,coopemi01c_DEN_2005_2005
+Denver Nuggets,DEN,2005,3,G. Karl,karlge01c,32,8,40,TRUE,166,karlge01c_DEN_2005_2013
+Denver Nuggets,DEN,2006,1,G. Karl,karlge01c,44,38,82,FALSE,166,karlge01c_DEN_2005_2013
+Denver Nuggets,DEN,2007,1,G. Karl,karlge01c,45,37,82,FALSE,166,karlge01c_DEN_2005_2013
+Denver Nuggets,DEN,2008,1,G. Karl,karlge01c,50,32,82,FALSE,166,karlge01c_DEN_2005_2013
+Denver Nuggets,DEN,2009,1,G. Karl,karlge01c,54,28,82,FALSE,166,karlge01c_DEN_2005_2013
+Denver Nuggets,DEN,2010,1,G. Karl,karlge01c,53,29,82,FALSE,166,karlge01c_DEN_2005_2013
+Denver Nuggets,DEN,2011,1,G. Karl,karlge01c,50,32,82,FALSE,166,karlge01c_DEN_2005_2013
+Denver Nuggets,DEN,2012,1,G. Karl,karlge01c,38,28,66,FALSE,166,karlge01c_DEN_2005_2013
+Denver Nuggets,DEN,2013,1,G. Karl,karlge01c,57,25,82,FALSE,166,karlge01c_DEN_2005_2013
+Denver Nuggets,DEN,2014,1,B. Shaw,shawbr01c,36,46,82,TRUE,167,shawbr01c_DEN_2014_2015
+Denver Nuggets,DEN,2015,1,B. Shaw,shawbr01c,20,39,59,FALSE,167,shawbr01c_DEN_2014_2015
+Denver Nuggets,DEN,2015,2,M. Hunt,huntme01c,10,13,23,TRUE,168,huntme01c_DEN_2015_2015
+Denver Nuggets,DEN,2016,1,M. Malone,malonmi99c,33,49,82,TRUE,169,malonmi99c_DEN_2016_2020
+Denver Nuggets,DEN,2017,1,M. Malone,malonmi99c,40,42,82,FALSE,169,malonmi99c_DEN_2016_2020
+Denver Nuggets,DEN,2018,1,M. Malone,malonmi99c,46,36,82,FALSE,169,malonmi99c_DEN_2016_2020
+Denver Nuggets,DEN,2019,1,M. Malone,malonmi99c,54,28,82,FALSE,169,malonmi99c_DEN_2016_2020
+Denver Nuggets,DEN,2020,1,M. Malone,malonmi99c,43,22,65,FALSE,169,malonmi99c_DEN_2016_2020
+Detroit Pistons,DET,1949,1,C. Bennett,benneca99c,0,6,6,TRUE,170,benneca99c_DET_1949_1949
+Detroit Pistons,DET,1949,2,C. Armstrong,armstcu01c,22,32,54,TRUE,171,armstcu01c_DET_1949_1949
+Detroit Pistons,DET,1950,1,M. Mendenhall,mendemu99c,40,28,68,TRUE,172,mendemu99c_DET_1950_1951
+Detroit Pistons,DET,1951,1,M. Mendenhall,mendemu99c,32,36,68,FALSE,172,mendemu99c_DET_1950_1951
+Detroit Pistons,DET,1952,1,P. Birch,birchpa99c,29,37,66,TRUE,173,birchpa99c_DET_1952_1954
+Detroit Pistons,DET,1953,1,P. Birch,birchpa99c,36,33,69,FALSE,173,birchpa99c_DET_1952_1954
+Detroit Pistons,DET,1954,1,P. Birch,birchpa99c,40,32,72,FALSE,173,birchpa99c_DET_1952_1954
+Detroit Pistons,DET,1955,1,C. Eckman,eckmach99c,43,29,72,TRUE,174,eckmach99c_DET_1955_1958
+Detroit Pistons,DET,1956,1,C. Eckman,eckmach99c,37,35,72,FALSE,174,eckmach99c_DET_1955_1958
+Detroit Pistons,DET,1957,1,C. Eckman,eckmach99c,34,38,72,FALSE,174,eckmach99c_DET_1955_1958
+Detroit Pistons,DET,1958,1,C. Eckman,eckmach99c,9,16,25,FALSE,174,eckmach99c_DET_1955_1958
+Detroit Pistons,DET,1958,2,R. Rocha,rochare01c,24,23,47,TRUE,175,rochare01c_DET_1958_1960
+Detroit Pistons,DET,1959,1,R. Rocha,rochare01c,28,44,72,FALSE,175,rochare01c_DET_1958_1960
+Detroit Pistons,DET,1960,1,R. Rocha,rochare01c,13,21,34,FALSE,175,rochare01c_DET_1958_1960
+Detroit Pistons,DET,1960,2,D. McGuire,mcguidi01c,17,24,41,TRUE,176,mcguidi01c_DET_1960_1963
+Detroit Pistons,DET,1961,1,D. McGuire,mcguidi01c,34,45,79,FALSE,176,mcguidi01c_DET_1960_1963
+Detroit Pistons,DET,1962,1,D. McGuire,mcguidi01c,37,43,80,FALSE,176,mcguidi01c_DET_1960_1963
+Detroit Pistons,DET,1963,1,D. McGuire,mcguidi01c,34,46,80,FALSE,176,mcguidi01c_DET_1960_1963
+Detroit Pistons,DET,1964,1,C. Wolf,wolfch99c,23,57,80,TRUE,177,wolfch99c_DET_1964_1965
+Detroit Pistons,DET,1965,1,C. Wolf,wolfch99c,2,9,11,FALSE,177,wolfch99c_DET_1964_1965
+Detroit Pistons,DET,1965,2,D. DeBusschere,debusda01c,29,40,69,TRUE,178,debusda01c_DET_1965_1967
+Detroit Pistons,DET,1966,1,D. DeBusschere,debusda01c,22,58,80,FALSE,178,debusda01c_DET_1965_1967
+Detroit Pistons,DET,1967,1,D. DeBusschere,debusda01c,28,45,73,FALSE,178,debusda01c_DET_1965_1967
+Detroit Pistons,DET,1967,2,D. Butcher,butchdo01c,2,6,8,TRUE,179,butchdo01c_DET_1967_1969
+Detroit Pistons,DET,1968,1,D. Butcher,butchdo01c,40,42,82,FALSE,179,butchdo01c_DET_1967_1969
+Detroit Pistons,DET,1969,1,D. Butcher,butchdo01c,10,12,22,FALSE,179,butchdo01c_DET_1967_1969
+Detroit Pistons,DET,1969,2,P. Seymour,seymopa01c,22,38,60,TRUE,180,seymopa01c_DET_1969_1969
+Detroit Pistons,DET,1970,1,B. van Breda Kolff,vanbrbu01c,31,51,82,TRUE,181,vanbrbu01c_DET_1970_1972
+Detroit Pistons,DET,1971,1,B. van Breda Kolff,vanbrbu01c,45,37,82,FALSE,181,vanbrbu01c_DET_1970_1972
+Detroit Pistons,DET,1972,1,B. van Breda Kolff,vanbrbu01c,6,4,10,FALSE,181,vanbrbu01c_DET_1970_1972
+Detroit Pistons,DET,1972,2,T. Dischinger,dischte01c,0,2,2,TRUE,182,dischte01c_DET_1972_1972
+Detroit Pistons,DET,1972,3,E. Lloyd,lloydea01c,20,50,70,TRUE,183,lloydea01c_DET_1972_1973
+Detroit Pistons,DET,1973,1,E. Lloyd,lloydea01c,2,5,7,FALSE,183,lloydea01c_DET_1972_1973
+Detroit Pistons,DET,1973,2,R. Scott,scottra01c,38,37,75,TRUE,184,scottra01c_DET_1973_1976
+Detroit Pistons,DET,1974,1,R. Scott,scottra01c,52,30,82,FALSE,184,scottra01c_DET_1973_1976
+Detroit Pistons,DET,1975,1,R. Scott,scottra01c,40,42,82,FALSE,184,scottra01c_DET_1973_1976
+Detroit Pistons,DET,1976,1,R. Scott,scottra01c,17,25,42,FALSE,184,scottra01c_DET_1973_1976
+Detroit Pistons,DET,1976,2,H. Brown,brownhe99c,19,21,40,TRUE,185,brownhe99c_DET_1976_1978
+Detroit Pistons,DET,1977,1,H. Brown,brownhe99c,44,38,82,FALSE,185,brownhe99c_DET_1976_1978
+Detroit Pistons,DET,1978,1,H. Brown,brownhe99c,9,15,24,FALSE,185,brownhe99c_DET_1976_1978
+Detroit Pistons,DET,1978,2,B. Kauffman,kauffbo01c,29,29,58,TRUE,186,kauffbo01c_DET_1978_1978
+Detroit Pistons,DET,1979,1,D. Vitale,vitaldi99c,30,52,82,TRUE,187,vitaldi99c_DET_1979_1980
+Detroit Pistons,DET,1980,1,D. Vitale,vitaldi99c,4,8,12,FALSE,187,vitaldi99c_DET_1979_1980
+Detroit Pistons,DET,1980,2,R. Adubato,adubari99c,12,58,70,TRUE,188,adubari99c_DET_1980_1980
+Detroit Pistons,DET,1981,1,S. Robertson,robersc99c,21,61,82,TRUE,189,robersc99c_DET_1981_1983
+Detroit Pistons,DET,1982,1,S. Robertson,robersc99c,39,43,82,FALSE,189,robersc99c_DET_1981_1983
+Detroit Pistons,DET,1983,1,S. Robertson,robersc99c,37,45,82,FALSE,189,robersc99c_DET_1981_1983
+Detroit Pistons,DET,1984,1,C. Daly,dalych99c,49,33,82,TRUE,190,dalych99c_DET_1984_1992
+Detroit Pistons,DET,1985,1,C. Daly,dalych99c,46,36,82,FALSE,190,dalych99c_DET_1984_1992
+Detroit Pistons,DET,1986,1,C. Daly,dalych99c,46,36,82,FALSE,190,dalych99c_DET_1984_1992
+Detroit Pistons,DET,1987,1,C. Daly,dalych99c,52,30,82,FALSE,190,dalych99c_DET_1984_1992
+Detroit Pistons,DET,1988,1,C. Daly,dalych99c,54,28,82,FALSE,190,dalych99c_DET_1984_1992
+Detroit Pistons,DET,1989,1,C. Daly,dalych99c,63,19,82,FALSE,190,dalych99c_DET_1984_1992
+Detroit Pistons,DET,1990,1,C. Daly,dalych99c,59,23,82,FALSE,190,dalych99c_DET_1984_1992
+Detroit Pistons,DET,1991,1,C. Daly,dalych99c,50,32,82,FALSE,190,dalych99c_DET_1984_1992
+Detroit Pistons,DET,1992,1,C. Daly,dalych99c,48,34,82,FALSE,190,dalych99c_DET_1984_1992
+Detroit Pistons,DET,1993,1,R. Rothstein,rothsro99c,40,42,82,TRUE,191,rothsro99c_DET_1993_1993
+Detroit Pistons,DET,1994,1,D. Chaney,chanedo01c,20,62,82,TRUE,192,chanedo01c_DET_1994_1995
+Detroit Pistons,DET,1995,1,D. Chaney,chanedo01c,28,54,82,FALSE,192,chanedo01c_DET_1994_1995
+Detroit Pistons,DET,1996,1,D. Collins,collido01c,46,36,82,TRUE,193,collido01c_DET_1996_1998
+Detroit Pistons,DET,1997,1,D. Collins,collido01c,54,28,82,FALSE,193,collido01c_DET_1996_1998
+Detroit Pistons,DET,1998,1,D. Collins,collido01c,21,24,45,FALSE,193,collido01c_DET_1996_1998
+Detroit Pistons,DET,1998,2,A. Gentry,gentral99c,16,21,37,TRUE,194,gentral99c_DET_1998_2000
+Detroit Pistons,DET,1999,1,A. Gentry,gentral99c,29,21,50,FALSE,194,gentral99c_DET_1998_2000
+Detroit Pistons,DET,2000,1,A. Gentry,gentral99c,28,30,58,FALSE,194,gentral99c_DET_1998_2000
+Detroit Pistons,DET,2000,2,G. Irvine,irvinge01c,14,10,24,TRUE,195,irvinge01c_DET_2000_2001
+Detroit Pistons,DET,2001,1,G. Irvine,irvinge01c,32,50,82,FALSE,195,irvinge01c_DET_2000_2001
+Detroit Pistons,DET,2002,1,R. Carlisle,carliri01c,50,32,82,TRUE,196,carliri01c_DET_2002_2003
+Detroit Pistons,DET,2003,1,R. Carlisle,carliri01c,50,32,82,FALSE,196,carliri01c_DET_2002_2003
+Detroit Pistons,DET,2004,1,L. Brown,brownla01c,54,28,82,TRUE,197,brownla01c_DET_2004_2005
+Detroit Pistons,DET,2005,1,L. Brown,brownla01c,54,28,82,FALSE,197,brownla01c_DET_2004_2005
+Detroit Pistons,DET,2006,1,F. Saunders,saundfl99c,64,18,82,TRUE,198,saundfl99c_DET_2006_2008
+Detroit Pistons,DET,2007,1,F. Saunders,saundfl99c,53,29,82,FALSE,198,saundfl99c_DET_2006_2008
+Detroit Pistons,DET,2008,1,F. Saunders,saundfl99c,59,23,82,FALSE,198,saundfl99c_DET_2006_2008
+Detroit Pistons,DET,2009,1,M. Curry,currymi01c,39,43,82,TRUE,199,currymi01c_DET_2009_2009
+Detroit Pistons,DET,2010,1,J. Kuester,kuestjo01c,27,55,82,TRUE,200,kuestjo01c_DET_2010_2011
+Detroit Pistons,DET,2011,1,J. Kuester,kuestjo01c,30,52,82,FALSE,200,kuestjo01c_DET_2010_2011
+Detroit Pistons,DET,2012,1,L. Frank,frankla99c,25,41,66,TRUE,201,frankla99c_DET_2012_2013
+Detroit Pistons,DET,2013,1,L. Frank,frankla99c,29,53,82,FALSE,201,frankla99c_DET_2012_2013
+Detroit Pistons,DET,2014,1,M. Cheeks,cheekma01c,21,29,50,TRUE,202,cheekma01c_DET_2014_2014
+Detroit Pistons,DET,2014,2,J. Loyer,loyerjo99c,8,24,32,TRUE,203,loyerjo99c_DET_2014_2014
+Detroit Pistons,DET,2015,1,S. Van Gundy,vangust99c,32,50,82,TRUE,204,vangust99c_DET_2015_2018
+Detroit Pistons,DET,2016,1,S. Van Gundy,vangust99c,44,38,82,FALSE,204,vangust99c_DET_2015_2018
+Detroit Pistons,DET,2017,1,S. Van Gundy,vangust99c,37,45,82,FALSE,204,vangust99c_DET_2015_2018
+Detroit Pistons,DET,2018,1,S. Van Gundy,vangust99c,39,43,82,FALSE,204,vangust99c_DET_2015_2018
+Detroit Pistons,DET,2019,1,D. Casey,caseydw99c,41,41,82,TRUE,205,caseydw99c_DET_2019_2020
+Detroit Pistons,DET,2020,1,D. Casey,caseydw99c,20,46,66,FALSE,205,caseydw99c_DET_2019_2020
+Golden State Warriors,GSW,1947,1,E. Gottlieb,gottled99c,35,25,60,TRUE,206,gottled99c_GSW_1947_1955
+Golden State Warriors,GSW,1948,1,E. Gottlieb,gottled99c,27,21,48,FALSE,206,gottled99c_GSW_1947_1955
+Golden State Warriors,GSW,1949,1,E. Gottlieb,gottled99c,28,32,60,FALSE,206,gottled99c_GSW_1947_1955
+Golden State Warriors,GSW,1950,1,E. Gottlieb,gottled99c,26,42,68,FALSE,206,gottled99c_GSW_1947_1955
+Golden State Warriors,GSW,1951,1,E. Gottlieb,gottled99c,40,26,66,FALSE,206,gottled99c_GSW_1947_1955
+Golden State Warriors,GSW,1952,1,E. Gottlieb,gottled99c,33,33,66,FALSE,206,gottled99c_GSW_1947_1955
+Golden State Warriors,GSW,1953,1,E. Gottlieb,gottled99c,12,57,69,FALSE,206,gottled99c_GSW_1947_1955
+Golden State Warriors,GSW,1954,1,E. Gottlieb,gottled99c,29,43,72,FALSE,206,gottled99c_GSW_1947_1955
+Golden State Warriors,GSW,1955,1,E. Gottlieb,gottled99c,33,39,72,FALSE,206,gottled99c_GSW_1947_1955
+Golden State Warriors,GSW,1956,1,G. Senesky,senesge01c,45,27,72,TRUE,207,senesge01c_GSW_1956_1958
+Golden State Warriors,GSW,1957,1,G. Senesky,senesge01c,37,35,72,FALSE,207,senesge01c_GSW_1956_1958
+Golden State Warriors,GSW,1958,1,G. Senesky,senesge01c,37,35,72,FALSE,207,senesge01c_GSW_1956_1958
+Golden State Warriors,GSW,1959,1,A. Cervi,cervial01c,32,40,72,TRUE,208,cervial01c_GSW_1959_1959
+Golden State Warriors,GSW,1960,1,N. Johnston,johnsne01c,49,26,75,TRUE,209,johnsne01c_GSW_1960_1961
+Golden State Warriors,GSW,1961,1,N. Johnston,johnsne01c,46,33,79,FALSE,209,johnsne01c_GSW_1960_1961
+Golden State Warriors,GSW,1962,1,F. McGuire,mcguifr99c,49,31,80,TRUE,210,mcguifr99c_GSW_1962_1962
+Golden State Warriors,GSW,1963,1,B. Feerick,feeribo01c,31,49,80,TRUE,211,feeribo01c_GSW_1963_1963
+Golden State Warriors,GSW,1964,1,A. Hannum,hannual01c,48,32,80,TRUE,212,hannual01c_GSW_1964_1966
+Golden State Warriors,GSW,1965,1,A. Hannum,hannual01c,17,63,80,FALSE,212,hannual01c_GSW_1964_1966
+Golden State Warriors,GSW,1966,1,A. Hannum,hannual01c,35,45,80,FALSE,212,hannual01c_GSW_1964_1966
+Golden State Warriors,GSW,1967,1,B. Sharman,sharmbi01c,44,37,81,TRUE,213,sharmbi01c_GSW_1967_1968
+Golden State Warriors,GSW,1968,1,B. Sharman,sharmbi01c,43,39,82,FALSE,213,sharmbi01c_GSW_1967_1968
+Golden State Warriors,GSW,1969,1,G. Lee,leege01c,41,41,82,TRUE,214,leege01c_GSW_1969_1970
+Golden State Warriors,GSW,1970,1,G. Lee,leege01c,22,30,52,FALSE,214,leege01c_GSW_1969_1970
+Golden State Warriors,GSW,1970,2,A. Attles,attleal01c,8,22,30,TRUE,215,attleal01c_GSW_1970_1980
+Golden State Warriors,GSW,1971,1,A. Attles,attleal01c,41,41,82,FALSE,215,attleal01c_GSW_1970_1980
+Golden State Warriors,GSW,1972,1,A. Attles,attleal01c,51,31,82,FALSE,215,attleal01c_GSW_1970_1980
+Golden State Warriors,GSW,1973,1,A. Attles,attleal01c,47,35,82,FALSE,215,attleal01c_GSW_1970_1980
+Golden State Warriors,GSW,1974,1,A. Attles,attleal01c,44,38,82,FALSE,215,attleal01c_GSW_1970_1980
+Golden State Warriors,GSW,1975,1,A. Attles,attleal01c,48,34,82,FALSE,215,attleal01c_GSW_1970_1980
+Golden State Warriors,GSW,1976,1,A. Attles,attleal01c,59,23,82,FALSE,215,attleal01c_GSW_1970_1980
+Golden State Warriors,GSW,1977,1,A. Attles,attleal01c,46,36,82,FALSE,215,attleal01c_GSW_1970_1980
+Golden State Warriors,GSW,1978,1,A. Attles,attleal01c,43,39,82,FALSE,215,attleal01c_GSW_1970_1980
+Golden State Warriors,GSW,1979,1,A. Attles,attleal01c,38,44,82,FALSE,215,attleal01c_GSW_1970_1980
+Golden State Warriors,GSW,1980,1,A. Attles,attleal01c,18,43,61,FALSE,215,attleal01c_GSW_1970_1980
+Golden State Warriors,GSW,1980,2,J. Bach,bachjo01c,6,15,21,TRUE,216,bachjo01c_GSW_1980_1980
+Golden State Warriors,GSW,1981,1,A. Attles,attleal01c,39,43,82,TRUE,217,attleal01c_GSW_1981_1983
+Golden State Warriors,GSW,1982,1,A. Attles,attleal01c,45,37,82,FALSE,217,attleal01c_GSW_1981_1983
+Golden State Warriors,GSW,1983,1,A. Attles,attleal01c,30,52,82,FALSE,217,attleal01c_GSW_1981_1983
+Golden State Warriors,GSW,1984,1,J. Bach,bachjo01c,37,45,82,TRUE,218,bachjo01c_GSW_1984_1986
+Golden State Warriors,GSW,1985,1,J. Bach,bachjo01c,22,60,82,FALSE,218,bachjo01c_GSW_1984_1986
+Golden State Warriors,GSW,1986,1,J. Bach,bachjo01c,30,52,82,FALSE,218,bachjo01c_GSW_1984_1986
+Golden State Warriors,GSW,1987,1,G. Karl,karlge01c,42,40,82,TRUE,219,karlge01c_GSW_1987_1988
+Golden State Warriors,GSW,1988,1,G. Karl,karlge01c,16,48,64,FALSE,219,karlge01c_GSW_1987_1988
+Golden State Warriors,GSW,1988,2,E. Gregory,gregoed99c,4,14,18,TRUE,220,gregoed99c_GSW_1988_1988
+Golden State Warriors,GSW,1989,1,D. Nelson,nelsodo01c,43,39,82,TRUE,221,nelsodo01c_GSW_1989_1995
+Golden State Warriors,GSW,1990,1,D. Nelson,nelsodo01c,37,45,82,FALSE,221,nelsodo01c_GSW_1989_1995
+Golden State Warriors,GSW,1991,1,D. Nelson,nelsodo01c,44,38,82,FALSE,221,nelsodo01c_GSW_1989_1995
+Golden State Warriors,GSW,1992,1,D. Nelson,nelsodo01c,55,27,82,FALSE,221,nelsodo01c_GSW_1989_1995
+Golden State Warriors,GSW,1993,1,D. Nelson,nelsodo01c,34,48,82,FALSE,221,nelsodo01c_GSW_1989_1995
+Golden State Warriors,GSW,1994,1,D. Nelson,nelsodo01c,50,32,82,FALSE,221,nelsodo01c_GSW_1989_1995
+Golden State Warriors,GSW,1995,1,D. Nelson,nelsodo01c,14,31,45,FALSE,221,nelsodo01c_GSW_1989_1995
+Golden State Warriors,GSW,1995,2,B. Lanier,laniebo01c,12,25,37,TRUE,222,laniebo01c_GSW_1995_1995
+Golden State Warriors,GSW,1996,1,R. Adelman,adelmri01c,36,46,82,TRUE,223,adelmri01c_GSW_1996_1997
+Golden State Warriors,GSW,1997,1,R. Adelman,adelmri01c,30,52,82,FALSE,223,adelmri01c_GSW_1996_1997
+Golden State Warriors,GSW,1998,1,P. Carlesimo,carlepj99c,19,63,82,TRUE,224,carlepj99c_GSW_1998_2000
+Golden State Warriors,GSW,1999,1,P. Carlesimo,carlepj99c,21,29,50,FALSE,224,carlepj99c_GSW_1998_2000
+Golden State Warriors,GSW,2000,1,P. Carlesimo,carlepj99c,6,21,27,FALSE,224,carlepj99c_GSW_1998_2000
+Golden State Warriors,GSW,2000,2,G. St. Jean,stjeaga99c,13,42,55,TRUE,225,stjeaga99c_GSW_2000_2000
+Golden State Warriors,GSW,2001,1,D. Cowens,cowenda01c,17,65,82,TRUE,226,cowenda01c_GSW_2001_2002
+Golden State Warriors,GSW,2002,1,D. Cowens,cowenda01c,8,15,23,FALSE,226,cowenda01c_GSW_2001_2002
+Golden State Warriors,GSW,2002,2,B. Winters,wintebr01c,13,46,59,TRUE,227,wintebr01c_GSW_2002_2002
+Golden State Warriors,GSW,2003,1,E. Musselman,musseer99c,38,44,82,TRUE,228,musseer99c_GSW_2003_2004
+Golden State Warriors,GSW,2004,1,E. Musselman,musseer99c,37,45,82,FALSE,228,musseer99c_GSW_2003_2004
+Golden State Warriors,GSW,2005,1,M. Montgomery,montgmi99c,34,48,82,TRUE,229,montgmi99c_GSW_2005_2006
+Golden State Warriors,GSW,2006,1,M. Montgomery,montgmi99c,34,48,82,FALSE,229,montgmi99c_GSW_2005_2006
+Golden State Warriors,GSW,2007,1,D. Nelson,nelsodo01c,42,40,82,TRUE,230,nelsodo01c_GSW_2007_2010
+Golden State Warriors,GSW,2008,1,D. Nelson,nelsodo01c,48,34,82,FALSE,230,nelsodo01c_GSW_2007_2010
+Golden State Warriors,GSW,2009,1,D. Nelson,nelsodo01c,29,53,82,FALSE,230,nelsodo01c_GSW_2007_2010
+Golden State Warriors,GSW,2010,1,D. Nelson,nelsodo01c,26,56,82,FALSE,230,nelsodo01c_GSW_2007_2010
+Golden State Warriors,GSW,2011,1,K. Smart,smartke01c,36,46,82,TRUE,231,smartke01c_GSW_2011_2011
+Golden State Warriors,GSW,2012,1,M. Jackson,jacksma01c,23,43,66,TRUE,232,jacksma01c_GSW_2012_2014
+Golden State Warriors,GSW,2013,1,M. Jackson,jacksma01c,47,35,82,FALSE,232,jacksma01c_GSW_2012_2014
+Golden State Warriors,GSW,2014,1,M. Jackson,jacksma01c,51,31,82,FALSE,232,jacksma01c_GSW_2012_2014
+Golden State Warriors,GSW,2015,1,S. Kerr,kerrst01c,67,15,82,TRUE,233,kerrst01c_GSW_2015_2020
+Golden State Warriors,GSW,2016,1,S. Kerr,kerrst01c,73,9,82,FALSE,233,kerrst01c_GSW_2015_2020
+Golden State Warriors,GSW,2017,1,S. Kerr,kerrst01c,67,15,82,FALSE,233,kerrst01c_GSW_2015_2020
+Golden State Warriors,GSW,2018,1,S. Kerr,kerrst01c,58,24,82,FALSE,233,kerrst01c_GSW_2015_2020
+Golden State Warriors,GSW,2019,1,S. Kerr,kerrst01c,57,25,82,FALSE,233,kerrst01c_GSW_2015_2020
+Golden State Warriors,GSW,2020,1,S. Kerr,kerrst01c,15,50,65,FALSE,233,kerrst01c_GSW_2015_2020
+Houston Rockets,HOU,1968,1,J. McMahon,mcmahja01c,15,67,82,TRUE,234,mcmahja01c_HOU_1968_1970
+Houston Rockets,HOU,1969,1,J. McMahon,mcmahja01c,37,45,82,FALSE,234,mcmahja01c_HOU_1968_1970
+Houston Rockets,HOU,1970,1,J. McMahon,mcmahja01c,9,17,26,FALSE,234,mcmahja01c_HOU_1968_1970
+Houston Rockets,HOU,1970,2,A. Hannum,hannual01c,18,38,56,TRUE,235,hannual01c_HOU_1970_1971
+Houston Rockets,HOU,1971,1,A. Hannum,hannual01c,40,42,82,FALSE,235,hannual01c_HOU_1970_1971
+Houston Rockets,HOU,1972,1,T. Winter,wintete99c,34,48,82,TRUE,236,wintete99c_HOU_1972_1973
+Houston Rockets,HOU,1973,1,T. Winter,wintete99c,17,30,47,FALSE,236,wintete99c_HOU_1972_1973
+Houston Rockets,HOU,1973,2,J. Egan,eganjo01c,16,19,35,TRUE,237,eganjo01c_HOU_1973_1976
+Houston Rockets,HOU,1974,1,J. Egan,eganjo01c,32,50,82,FALSE,237,eganjo01c_HOU_1973_1976
+Houston Rockets,HOU,1975,1,J. Egan,eganjo01c,41,41,82,FALSE,237,eganjo01c_HOU_1973_1976
+Houston Rockets,HOU,1976,1,J. Egan,eganjo01c,40,42,82,FALSE,237,eganjo01c_HOU_1973_1976
+Houston Rockets,HOU,1977,1,T. Nissalke,nissato99c,49,33,82,TRUE,238,nissato99c_HOU_1977_1979
+Houston Rockets,HOU,1978,1,T. Nissalke,nissato99c,28,54,82,FALSE,238,nissato99c_HOU_1977_1979
+Houston Rockets,HOU,1979,1,T. Nissalke,nissato99c,47,35,82,FALSE,238,nissato99c_HOU_1977_1979
+Houston Rockets,HOU,1980,1,D. Harris,harride99c,41,41,82,TRUE,239,harride99c_HOU_1980_1983
+Houston Rockets,HOU,1981,1,D. Harris,harride99c,40,42,82,FALSE,239,harride99c_HOU_1980_1983
+Houston Rockets,HOU,1982,1,D. Harris,harride99c,46,36,82,FALSE,239,harride99c_HOU_1980_1983
+Houston Rockets,HOU,1983,1,D. Harris,harride99c,14,68,82,FALSE,239,harride99c_HOU_1980_1983
+Houston Rockets,HOU,1984,1,B. Fitch,fitchbi99c,29,53,82,TRUE,240,fitchbi99c_HOU_1984_1988
+Houston Rockets,HOU,1985,1,B. Fitch,fitchbi99c,48,34,82,FALSE,240,fitchbi99c_HOU_1984_1988
+Houston Rockets,HOU,1986,1,B. Fitch,fitchbi99c,51,31,82,FALSE,240,fitchbi99c_HOU_1984_1988
+Houston Rockets,HOU,1987,1,B. Fitch,fitchbi99c,42,40,82,FALSE,240,fitchbi99c_HOU_1984_1988
+Houston Rockets,HOU,1988,1,B. Fitch,fitchbi99c,46,36,82,FALSE,240,fitchbi99c_HOU_1984_1988
+Houston Rockets,HOU,1989,1,D. Chaney,chanedo01c,45,37,82,TRUE,241,chanedo01c_HOU_1989_1992
+Houston Rockets,HOU,1990,1,D. Chaney,chanedo01c,41,41,82,FALSE,241,chanedo01c_HOU_1989_1992
+Houston Rockets,HOU,1991,1,D. Chaney,chanedo01c,52,30,82,FALSE,241,chanedo01c_HOU_1989_1992
+Houston Rockets,HOU,1992,1,D. Chaney,chanedo01c,26,26,52,FALSE,241,chanedo01c_HOU_1989_1992
+Houston Rockets,HOU,1992,2,R. Tomjanovich,tomjaru01c,16,14,30,TRUE,242,tomjaru01c_HOU_1992_2003
+Houston Rockets,HOU,1993,1,R. Tomjanovich,tomjaru01c,55,27,82,FALSE,242,tomjaru01c_HOU_1992_2003
+Houston Rockets,HOU,1994,1,R. Tomjanovich,tomjaru01c,58,24,82,FALSE,242,tomjaru01c_HOU_1992_2003
+Houston Rockets,HOU,1995,1,R. Tomjanovich,tomjaru01c,47,35,82,FALSE,242,tomjaru01c_HOU_1992_2003
+Houston Rockets,HOU,1996,1,R. Tomjanovich,tomjaru01c,48,34,82,FALSE,242,tomjaru01c_HOU_1992_2003
+Houston Rockets,HOU,1997,1,R. Tomjanovich,tomjaru01c,57,25,82,FALSE,242,tomjaru01c_HOU_1992_2003
+Houston Rockets,HOU,1998,1,R. Tomjanovich,tomjaru01c,41,41,82,FALSE,242,tomjaru01c_HOU_1992_2003
+Houston Rockets,HOU,1999,1,R. Tomjanovich,tomjaru01c,31,19,50,FALSE,242,tomjaru01c_HOU_1992_2003
+Houston Rockets,HOU,2000,1,R. Tomjanovich,tomjaru01c,34,48,82,FALSE,242,tomjaru01c_HOU_1992_2003
+Houston Rockets,HOU,2001,1,R. Tomjanovich,tomjaru01c,45,37,82,FALSE,242,tomjaru01c_HOU_1992_2003
+Houston Rockets,HOU,2002,1,R. Tomjanovich,tomjaru01c,28,54,82,FALSE,242,tomjaru01c_HOU_1992_2003
+Houston Rockets,HOU,2003,1,R. Tomjanovich,tomjaru01c,43,39,82,FALSE,242,tomjaru01c_HOU_1992_2003
+Houston Rockets,HOU,2004,1,J. Van Gundy,vanguje99c,45,37,82,TRUE,243,vanguje99c_HOU_2004_2007
+Houston Rockets,HOU,2005,1,J. Van Gundy,vanguje99c,51,31,82,FALSE,243,vanguje99c_HOU_2004_2007
+Houston Rockets,HOU,2006,1,J. Van Gundy,vanguje99c,34,48,82,FALSE,243,vanguje99c_HOU_2004_2007
+Houston Rockets,HOU,2007,1,J. Van Gundy,vanguje99c,52,30,82,FALSE,243,vanguje99c_HOU_2004_2007
+Houston Rockets,HOU,2008,1,R. Adelman,adelmri01c,55,27,82,TRUE,244,adelmri01c_HOU_2008_2011
+Houston Rockets,HOU,2009,1,R. Adelman,adelmri01c,53,29,82,FALSE,244,adelmri01c_HOU_2008_2011
+Houston Rockets,HOU,2010,1,R. Adelman,adelmri01c,42,40,82,FALSE,244,adelmri01c_HOU_2008_2011
+Houston Rockets,HOU,2011,1,R. Adelman,adelmri01c,43,39,82,FALSE,244,adelmri01c_HOU_2008_2011
+Houston Rockets,HOU,2012,1,K. McHale,mchalke01c,34,32,66,TRUE,245,mchalke01c_HOU_2012_2016
+Houston Rockets,HOU,2013,1,K. McHale,mchalke01c,45,37,82,FALSE,245,mchalke01c_HOU_2012_2016
+Houston Rockets,HOU,2014,1,K. McHale,mchalke01c,54,28,82,FALSE,245,mchalke01c_HOU_2012_2016
+Houston Rockets,HOU,2015,1,K. McHale,mchalke01c,56,26,82,FALSE,245,mchalke01c_HOU_2012_2016
+Houston Rockets,HOU,2016,1,K. McHale,mchalke01c,4,7,11,FALSE,245,mchalke01c_HOU_2012_2016
+Houston Rockets,HOU,2016,2,J. Bickerstaff,bickejb01c,37,34,71,TRUE,246,bickejb01c_HOU_2016_2016
+Houston Rockets,HOU,2017,1,M. D'Antoni,dantomi01c,55,27,82,TRUE,247,dantomi01c_HOU_2017_2020
+Houston Rockets,HOU,2018,1,M. D'Antoni,dantomi01c,65,17,82,FALSE,247,dantomi01c_HOU_2017_2020
+Houston Rockets,HOU,2019,1,M. D'Antoni,dantomi01c,53,29,82,FALSE,247,dantomi01c_HOU_2017_2020
+Houston Rockets,HOU,2020,1,M. D'Antoni,dantomi01c,40,24,64,FALSE,247,dantomi01c_HOU_2017_2020
+Indiana Pacers,IND,1968,1,L. Staverman,stavela01c,38,40,78,TRUE,248,stavela01c_IND_1968_1969
+Indiana Pacers,IND,1969,1,L. Staverman,stavela01c,2,7,9,FALSE,248,stavela01c_IND_1968_1969
+Indiana Pacers,IND,1969,2,S. Leonard,leonasl01c,42,27,69,TRUE,249,leonasl01c_IND_1969_1980
+Indiana Pacers,IND,1970,1,S. Leonard,leonasl01c,59,25,84,FALSE,249,leonasl01c_IND_1969_1980
+Indiana Pacers,IND,1971,1,S. Leonard,leonasl01c,58,26,84,FALSE,249,leonasl01c_IND_1969_1980
+Indiana Pacers,IND,1972,1,S. Leonard,leonasl01c,47,37,84,FALSE,249,leonasl01c_IND_1969_1980
+Indiana Pacers,IND,1973,1,S. Leonard,leonasl01c,51,33,84,FALSE,249,leonasl01c_IND_1969_1980
+Indiana Pacers,IND,1974,1,S. Leonard,leonasl01c,46,38,84,FALSE,249,leonasl01c_IND_1969_1980
+Indiana Pacers,IND,1975,1,S. Leonard,leonasl01c,45,39,84,FALSE,249,leonasl01c_IND_1969_1980
+Indiana Pacers,IND,1976,1,S. Leonard,leonasl01c,39,45,84,FALSE,249,leonasl01c_IND_1969_1980
+Indiana Pacers,IND,1977,1,S. Leonard,leonasl01c,36,46,82,FALSE,249,leonasl01c_IND_1969_1980
+Indiana Pacers,IND,1978,1,S. Leonard,leonasl01c,31,51,82,FALSE,249,leonasl01c_IND_1969_1980
+Indiana Pacers,IND,1979,1,S. Leonard,leonasl01c,38,44,82,FALSE,249,leonasl01c_IND_1969_1980
+Indiana Pacers,IND,1980,1,S. Leonard,leonasl01c,37,45,82,FALSE,249,leonasl01c_IND_1969_1980
+Indiana Pacers,IND,1981,1,J. McKinney,mckinja99c,44,38,82,TRUE,250,mckinja99c_IND_1981_1984
+Indiana Pacers,IND,1982,1,J. McKinney,mckinja99c,35,47,82,FALSE,250,mckinja99c_IND_1981_1984
+Indiana Pacers,IND,1983,1,J. McKinney,mckinja99c,20,62,82,FALSE,250,mckinja99c_IND_1981_1984
+Indiana Pacers,IND,1984,1,J. McKinney,mckinja99c,26,56,82,FALSE,250,mckinja99c_IND_1981_1984
+Indiana Pacers,IND,1985,1,G. Irvine,irvinge01c,22,60,82,TRUE,251,irvinge01c_IND_1985_1986
+Indiana Pacers,IND,1986,1,G. Irvine,irvinge01c,26,56,82,FALSE,251,irvinge01c_IND_1985_1986
+Indiana Pacers,IND,1987,1,J. Ramsay,ramsaja99c,41,41,82,TRUE,252,ramsaja99c_IND_1987_1989
+Indiana Pacers,IND,1988,1,J. Ramsay,ramsaja99c,38,44,82,FALSE,252,ramsaja99c_IND_1987_1989
+Indiana Pacers,IND,1989,1,J. Ramsay,ramsaja99c,0,7,7,FALSE,252,ramsaja99c_IND_1987_1989
+Indiana Pacers,IND,1989,2,M. Daniels,danieme01c,0,2,2,TRUE,253,danieme01c_IND_1989_1989
+Indiana Pacers,IND,1989,3,G. Irvine,irvinge01c,6,14,20,TRUE,254,irvinge01c_IND_1989_1989
+Indiana Pacers,IND,1989,4,D. Versace,versadi99c,22,31,53,TRUE,255,versadi99c_IND_1989_1991
+Indiana Pacers,IND,1990,1,D. Versace,versadi99c,42,40,82,FALSE,255,versadi99c_IND_1989_1991
+Indiana Pacers,IND,1991,1,D. Versace,versadi99c,9,16,25,FALSE,255,versadi99c_IND_1989_1991
+Indiana Pacers,IND,1991,2,B. Hill,hillbo99c,32,25,57,TRUE,256,hillbo99c_IND_1991_1993
+Indiana Pacers,IND,1992,1,B. Hill,hillbo99c,40,42,82,FALSE,256,hillbo99c_IND_1991_1993
+Indiana Pacers,IND,1993,1,B. Hill,hillbo99c,41,41,82,FALSE,256,hillbo99c_IND_1991_1993
+Indiana Pacers,IND,1994,1,L. Brown,brownla01c,47,35,82,TRUE,257,brownla01c_IND_1994_1997
+Indiana Pacers,IND,1995,1,L. Brown,brownla01c,52,30,82,FALSE,257,brownla01c_IND_1994_1997
+Indiana Pacers,IND,1996,1,L. Brown,brownla01c,52,30,82,FALSE,257,brownla01c_IND_1994_1997
+Indiana Pacers,IND,1997,1,L. Brown,brownla01c,39,43,82,FALSE,257,brownla01c_IND_1994_1997
+Indiana Pacers,IND,1998,1,L. Bird,birdla01c,58,24,82,TRUE,258,birdla01c_IND_1998_2000
+Indiana Pacers,IND,1999,1,L. Bird,birdla01c,33,17,50,FALSE,258,birdla01c_IND_1998_2000
+Indiana Pacers,IND,2000,1,L. Bird,birdla01c,56,26,82,FALSE,258,birdla01c_IND_1998_2000
+Indiana Pacers,IND,2001,1,I. Thomas,thomais01c,41,41,82,TRUE,259,thomais01c_IND_2001_2003
+Indiana Pacers,IND,2002,1,I. Thomas,thomais01c,42,40,82,FALSE,259,thomais01c_IND_2001_2003
+Indiana Pacers,IND,2003,1,I. Thomas,thomais01c,48,34,82,FALSE,259,thomais01c_IND_2001_2003
+Indiana Pacers,IND,2004,1,R. Carlisle,carliri01c,61,21,82,TRUE,260,carliri01c_IND_2004_2007
+Indiana Pacers,IND,2005,1,R. Carlisle,carliri01c,44,38,82,FALSE,260,carliri01c_IND_2004_2007
+Indiana Pacers,IND,2006,1,R. Carlisle,carliri01c,41,41,82,FALSE,260,carliri01c_IND_2004_2007
+Indiana Pacers,IND,2007,1,R. Carlisle,carliri01c,35,47,82,FALSE,260,carliri01c_IND_2004_2007
+Indiana Pacers,IND,2008,1,J. O'Brien,obrieji99c,36,46,82,TRUE,261,obrieji99c_IND_2008_2011
+Indiana Pacers,IND,2009,1,J. O'Brien,obrieji99c,36,46,82,FALSE,261,obrieji99c_IND_2008_2011
+Indiana Pacers,IND,2010,1,J. O'Brien,obrieji99c,32,50,82,FALSE,261,obrieji99c_IND_2008_2011
+Indiana Pacers,IND,2011,1,J. O'Brien,obrieji99c,17,27,44,FALSE,261,obrieji99c_IND_2008_2011
+Indiana Pacers,IND,2011,2,F. Vogel,vogelfr99c,20,18,38,TRUE,262,vogelfr99c_IND_2011_2016
+Indiana Pacers,IND,2012,1,F. Vogel,vogelfr99c,42,24,66,FALSE,262,vogelfr99c_IND_2011_2016
+Indiana Pacers,IND,2013,1,F. Vogel,vogelfr99c,49,32,81,FALSE,262,vogelfr99c_IND_2011_2016
+Indiana Pacers,IND,2014,1,F. Vogel,vogelfr99c,56,26,82,FALSE,262,vogelfr99c_IND_2011_2016
+Indiana Pacers,IND,2015,1,F. Vogel,vogelfr99c,38,44,82,FALSE,262,vogelfr99c_IND_2011_2016
+Indiana Pacers,IND,2016,1,F. Vogel,vogelfr99c,45,37,82,FALSE,262,vogelfr99c_IND_2011_2016
+Indiana Pacers,IND,2017,1,N. McMillan,mcmilna01c,42,40,82,TRUE,263,mcmilna01c_IND_2017_2020
+Indiana Pacers,IND,2018,1,N. McMillan,mcmilna01c,48,34,82,FALSE,263,mcmilna01c_IND_2017_2020
+Indiana Pacers,IND,2019,1,N. McMillan,mcmilna01c,48,34,82,FALSE,263,mcmilna01c_IND_2017_2020
+Indiana Pacers,IND,2020,1,N. McMillan,mcmilna01c,39,26,65,FALSE,263,mcmilna01c_IND_2017_2020
+Los Angeles Clippers,LAC,1971,1,D. Schayes,schaydo01c,22,60,82,TRUE,264,schaydo01c_LAC_1971_1972
+Los Angeles Clippers,LAC,1972,1,D. Schayes,schaydo01c,0,1,1,FALSE,264,schaydo01c_LAC_1971_1972
+Los Angeles Clippers,LAC,1972,2,J. McCarthy,mccarjo01c,22,59,81,TRUE,265,mccarjo01c_LAC_1972_1972
+Los Angeles Clippers,LAC,1973,1,J. Ramsay,ramsaja99c,21,61,82,TRUE,266,ramsaja99c_LAC_1973_1976
+Los Angeles Clippers,LAC,1974,1,J. Ramsay,ramsaja99c,42,40,82,FALSE,266,ramsaja99c_LAC_1973_1976
+Los Angeles Clippers,LAC,1975,1,J. Ramsay,ramsaja99c,49,33,82,FALSE,266,ramsaja99c_LAC_1973_1976
+Los Angeles Clippers,LAC,1976,1,J. Ramsay,ramsaja99c,46,36,82,FALSE,266,ramsaja99c_LAC_1973_1976
+Los Angeles Clippers,LAC,1977,1,T. Locke,locketa99c,16,30,46,TRUE,267,locketa99c_LAC_1977_1977
+Los Angeles Clippers,LAC,1977,2,B. MacKinnon,mackibo99c,3,4,7,TRUE,268,mackibo99c_LAC_1977_1977
+Los Angeles Clippers,LAC,1977,3,J. Mullaney,mullajo01c,11,18,29,TRUE,269,mullajo01c_LAC_1977_1977
+Los Angeles Clippers,LAC,1978,1,C. Fitzsimmons,fitzsco99c,27,55,82,TRUE,270,fitzsco99c_LAC_1978_1978
+Los Angeles Clippers,LAC,1979,1,G. Shue,shuege01c,43,39,82,TRUE,271,shuege01c_LAC_1979_1980
+Los Angeles Clippers,LAC,1980,1,G. Shue,shuege01c,35,47,82,FALSE,271,shuege01c_LAC_1979_1980
+Los Angeles Clippers,LAC,1981,1,P. Silas,silaspa01c,36,46,82,TRUE,272,silaspa01c_LAC_1981_1983
+Los Angeles Clippers,LAC,1982,1,P. Silas,silaspa01c,17,65,82,FALSE,272,silaspa01c_LAC_1981_1983
+Los Angeles Clippers,LAC,1983,1,P. Silas,silaspa01c,25,57,82,FALSE,272,silaspa01c_LAC_1981_1983
+Los Angeles Clippers,LAC,1984,1,J. Lynam,lynamji99c,30,52,82,TRUE,273,lynamji99c_LAC_1984_1985
+Los Angeles Clippers,LAC,1985,1,J. Lynam,lynamji99c,22,39,61,FALSE,273,lynamji99c_LAC_1984_1985
+Los Angeles Clippers,LAC,1985,2,D. Chaney,chanedo01c,9,12,21,TRUE,274,chanedo01c_LAC_1985_1987
+Los Angeles Clippers,LAC,1986,1,D. Chaney,chanedo01c,32,50,82,FALSE,274,chanedo01c_LAC_1985_1987
+Los Angeles Clippers,LAC,1987,1,D. Chaney,chanedo01c,12,70,82,FALSE,274,chanedo01c_LAC_1985_1987
+Los Angeles Clippers,LAC,1988,1,G. Shue,shuege01c,17,65,82,TRUE,275,shuege01c_LAC_1988_1989
+Los Angeles Clippers,LAC,1989,1,G. Shue,shuege01c,10,28,38,FALSE,275,shuege01c_LAC_1988_1989
+Los Angeles Clippers,LAC,1989,2,D. Casey,caseybo99c,11,33,44,TRUE,276,caseybo99c_LAC_1989_1990
+Los Angeles Clippers,LAC,1990,1,D. Casey,caseybo99c,30,52,82,FALSE,276,caseybo99c_LAC_1989_1990
+Los Angeles Clippers,LAC,1991,1,M. Schuler,schulmi99c,31,51,82,TRUE,277,schulmi99c_LAC_1991_1992
+Los Angeles Clippers,LAC,1992,1,M. Schuler,schulmi99c,21,24,45,FALSE,277,schulmi99c_LAC_1991_1992
+Los Angeles Clippers,LAC,1992,2,M. Calvin,calvima01c,1,1,2,TRUE,278,calvima01c_LAC_1992_1992
+Los Angeles Clippers,LAC,1992,3,L. Brown,brownla01c,23,12,35,TRUE,279,brownla01c_LAC_1992_1993
+Los Angeles Clippers,LAC,1993,1,L. Brown,brownla01c,41,41,82,FALSE,279,brownla01c_LAC_1992_1993
+Los Angeles Clippers,LAC,1994,1,B. Weiss,weissbo01c,27,55,82,TRUE,280,weissbo01c_LAC_1994_1994
+Los Angeles Clippers,LAC,1995,1,B. Fitch,fitchbi99c,17,65,82,TRUE,281,fitchbi99c_LAC_1995_1998
+Los Angeles Clippers,LAC,1996,1,B. Fitch,fitchbi99c,29,53,82,FALSE,281,fitchbi99c_LAC_1995_1998
+Los Angeles Clippers,LAC,1997,1,B. Fitch,fitchbi99c,36,46,82,FALSE,281,fitchbi99c_LAC_1995_1998
+Los Angeles Clippers,LAC,1998,1,B. Fitch,fitchbi99c,17,65,82,FALSE,281,fitchbi99c_LAC_1995_1998
+Los Angeles Clippers,LAC,1999,1,C. Ford,fordch01c,9,41,50,TRUE,282,fordch01c_LAC_1999_2000
+Los Angeles Clippers,LAC,2000,1,C. Ford,fordch01c,11,34,45,FALSE,282,fordch01c_LAC_1999_2000
+Los Angeles Clippers,LAC,2000,2,J. Todd,toddji99c,4,33,37,TRUE,283,toddji99c_LAC_2000_2000
+Los Angeles Clippers,LAC,2001,1,A. Gentry,gentral99c,31,51,82,TRUE,284,gentral99c_LAC_2001_2003
+Los Angeles Clippers,LAC,2002,1,A. Gentry,gentral99c,39,43,82,FALSE,284,gentral99c_LAC_2001_2003
+Los Angeles Clippers,LAC,2003,1,A. Gentry,gentral99c,19,39,58,FALSE,284,gentral99c_LAC_2001_2003
+Los Angeles Clippers,LAC,2003,2,D. Johnson,johnsde01c,8,16,24,TRUE,285,johnsde01c_LAC_2003_2003
+Los Angeles Clippers,LAC,2004,1,M. Dunleavy,dunlemi01c,28,54,82,TRUE,286,dunlemi01c_LAC_2004_2010
+Los Angeles Clippers,LAC,2005,1,M. Dunleavy,dunlemi01c,37,45,82,FALSE,286,dunlemi01c_LAC_2004_2010
+Los Angeles Clippers,LAC,2006,1,M. Dunleavy,dunlemi01c,47,35,82,FALSE,286,dunlemi01c_LAC_2004_2010
+Los Angeles Clippers,LAC,2007,1,M. Dunleavy,dunlemi01c,40,42,82,FALSE,286,dunlemi01c_LAC_2004_2010
+Los Angeles Clippers,LAC,2008,1,M. Dunleavy,dunlemi01c,23,59,82,FALSE,286,dunlemi01c_LAC_2004_2010
+Los Angeles Clippers,LAC,2009,1,M. Dunleavy,dunlemi01c,19,63,82,FALSE,286,dunlemi01c_LAC_2004_2010
+Los Angeles Clippers,LAC,2010,1,M. Dunleavy,dunlemi01c,21,28,49,FALSE,286,dunlemi01c_LAC_2004_2010
+Los Angeles Clippers,LAC,2010,2,K. Hughes,hugheki01c,8,25,33,TRUE,287,hugheki01c_LAC_2010_2010
+Los Angeles Clippers,LAC,2011,1,V. Del Negro,delnevi01c,32,50,82,TRUE,288,delnevi01c_LAC_2011_2013
+Los Angeles Clippers,LAC,2012,1,V. Del Negro,delnevi01c,40,26,66,FALSE,288,delnevi01c_LAC_2011_2013
+Los Angeles Clippers,LAC,2013,1,V. Del Negro,delnevi01c,56,26,82,FALSE,288,delnevi01c_LAC_2011_2013
+Los Angeles Clippers,LAC,2014,1,D. Rivers,riverdo01c,57,25,82,TRUE,289,riverdo01c_LAC_2014_2020
+Los Angeles Clippers,LAC,2015,1,D. Rivers,riverdo01c,56,26,82,FALSE,289,riverdo01c_LAC_2014_2020
+Los Angeles Clippers,LAC,2016,1,D. Rivers,riverdo01c,53,29,82,FALSE,289,riverdo01c_LAC_2014_2020
+Los Angeles Clippers,LAC,2017,1,D. Rivers,riverdo01c,51,31,82,FALSE,289,riverdo01c_LAC_2014_2020
+Los Angeles Clippers,LAC,2018,1,D. Rivers,riverdo01c,42,40,82,FALSE,289,riverdo01c_LAC_2014_2020
+Los Angeles Clippers,LAC,2019,1,D. Rivers,riverdo01c,48,34,82,FALSE,289,riverdo01c_LAC_2014_2020
+Los Angeles Clippers,LAC,2020,1,D. Rivers,riverdo01c,44,20,64,FALSE,289,riverdo01c_LAC_2014_2020
+Los Angeles Lakers,LAL,1949,1,J. Kundla,kundljo99c,44,16,60,TRUE,290,kundljo99c_LAL_1949_1957
+Los Angeles Lakers,LAL,1950,1,J. Kundla,kundljo99c,51,17,68,FALSE,290,kundljo99c_LAL_1949_1957
+Los Angeles Lakers,LAL,1951,1,J. Kundla,kundljo99c,44,24,68,FALSE,290,kundljo99c_LAL_1949_1957
+Los Angeles Lakers,LAL,1952,1,J. Kundla,kundljo99c,40,26,66,FALSE,290,kundljo99c_LAL_1949_1957
+Los Angeles Lakers,LAL,1953,1,J. Kundla,kundljo99c,48,22,70,FALSE,290,kundljo99c_LAL_1949_1957
+Los Angeles Lakers,LAL,1954,1,J. Kundla,kundljo99c,46,26,72,FALSE,290,kundljo99c_LAL_1949_1957
+Los Angeles Lakers,LAL,1955,1,J. Kundla,kundljo99c,40,32,72,FALSE,290,kundljo99c_LAL_1949_1957
+Los Angeles Lakers,LAL,1956,1,J. Kundla,kundljo99c,33,39,72,FALSE,290,kundljo99c_LAL_1949_1957
+Los Angeles Lakers,LAL,1957,1,J. Kundla,kundljo99c,34,38,72,FALSE,290,kundljo99c_LAL_1949_1957
+Los Angeles Lakers,LAL,1958,1,G. Mikan,mikange01c,9,30,39,TRUE,291,mikange01c_LAL_1958_1958
+Los Angeles Lakers,LAL,1958,2,J. Kundla,kundljo99c,10,23,33,TRUE,292,kundljo99c_LAL_1958_1959
+Los Angeles Lakers,LAL,1959,1,J. Kundla,kundljo99c,33,39,72,FALSE,292,kundljo99c_LAL_1958_1959
+Los Angeles Lakers,LAL,1960,1,J. Castellani,castejo99c,11,25,36,TRUE,293,castejo99c_LAL_1960_1960
+Los Angeles Lakers,LAL,1960,2,J. Pollard,pollaji01c,14,25,39,TRUE,294,pollaji01c_LAL_1960_1960
+Los Angeles Lakers,LAL,1961,1,F. Schaus,schaufr01c,36,43,79,TRUE,295,schaufr01c_LAL_1961_1967
+Los Angeles Lakers,LAL,1962,1,F. Schaus,schaufr01c,54,26,80,FALSE,295,schaufr01c_LAL_1961_1967
+Los Angeles Lakers,LAL,1963,1,F. Schaus,schaufr01c,53,27,80,FALSE,295,schaufr01c_LAL_1961_1967
+Los Angeles Lakers,LAL,1964,1,F. Schaus,schaufr01c,42,38,80,FALSE,295,schaufr01c_LAL_1961_1967
+Los Angeles Lakers,LAL,1965,1,F. Schaus,schaufr01c,49,31,80,FALSE,295,schaufr01c_LAL_1961_1967
+Los Angeles Lakers,LAL,1966,1,F. Schaus,schaufr01c,45,35,80,FALSE,295,schaufr01c_LAL_1961_1967
+Los Angeles Lakers,LAL,1967,1,F. Schaus,schaufr01c,36,45,81,FALSE,295,schaufr01c_LAL_1961_1967
+Los Angeles Lakers,LAL,1968,1,B. van Breda Kolff,vanbrbu01c,52,30,82,TRUE,296,vanbrbu01c_LAL_1968_1969
+Los Angeles Lakers,LAL,1969,1,B. van Breda Kolff,vanbrbu01c,55,27,82,FALSE,296,vanbrbu01c_LAL_1968_1969
+Los Angeles Lakers,LAL,1970,1,J. Mullaney,mullajo01c,46,36,82,TRUE,297,mullajo01c_LAL_1970_1971
+Los Angeles Lakers,LAL,1971,1,J. Mullaney,mullajo01c,48,34,82,FALSE,297,mullajo01c_LAL_1970_1971
+Los Angeles Lakers,LAL,1972,1,B. Sharman,sharmbi01c,69,13,82,TRUE,298,sharmbi01c_LAL_1972_1976
+Los Angeles Lakers,LAL,1973,1,B. Sharman,sharmbi01c,60,22,82,FALSE,298,sharmbi01c_LAL_1972_1976
+Los Angeles Lakers,LAL,1974,1,B. Sharman,sharmbi01c,47,35,82,FALSE,298,sharmbi01c_LAL_1972_1976
+Los Angeles Lakers,LAL,1975,1,B. Sharman,sharmbi01c,30,52,82,FALSE,298,sharmbi01c_LAL_1972_1976
+Los Angeles Lakers,LAL,1976,1,B. Sharman,sharmbi01c,40,42,82,FALSE,298,sharmbi01c_LAL_1972_1976
+Los Angeles Lakers,LAL,1977,1,J. West,westje01c,53,29,82,TRUE,299,westje01c_LAL_1977_1979
+Los Angeles Lakers,LAL,1978,1,J. West,westje01c,45,37,82,FALSE,299,westje01c_LAL_1977_1979
+Los Angeles Lakers,LAL,1979,1,J. West,westje01c,47,35,82,FALSE,299,westje01c_LAL_1977_1979
+Los Angeles Lakers,LAL,1980,1,J. McKinney,mckinja99c,10,4,14,TRUE,300,mckinja99c_LAL_1980_1980
+Los Angeles Lakers,LAL,1980,2,P. Westhead,westhpa99c,50,18,68,TRUE,301,westhpa99c_LAL_1980_1982
+Los Angeles Lakers,LAL,1981,1,P. Westhead,westhpa99c,54,28,82,FALSE,301,westhpa99c_LAL_1980_1982
+Los Angeles Lakers,LAL,1982,1,P. Westhead,westhpa99c,7,4,11,FALSE,301,westhpa99c_LAL_1980_1982
+Los Angeles Lakers,LAL,1982,2,P. Riley,rileypa01c,50,21,71,TRUE,302,rileypa01c_LAL_1982_1990
+Los Angeles Lakers,LAL,1983,1,P. Riley,rileypa01c,58,24,82,FALSE,302,rileypa01c_LAL_1982_1990
+Los Angeles Lakers,LAL,1984,1,P. Riley,rileypa01c,54,28,82,FALSE,302,rileypa01c_LAL_1982_1990
+Los Angeles Lakers,LAL,1985,1,P. Riley,rileypa01c,62,20,82,FALSE,302,rileypa01c_LAL_1982_1990
+Los Angeles Lakers,LAL,1986,1,P. Riley,rileypa01c,62,20,82,FALSE,302,rileypa01c_LAL_1982_1990
+Los Angeles Lakers,LAL,1987,1,P. Riley,rileypa01c,65,17,82,FALSE,302,rileypa01c_LAL_1982_1990
+Los Angeles Lakers,LAL,1988,1,P. Riley,rileypa01c,62,20,82,FALSE,302,rileypa01c_LAL_1982_1990
+Los Angeles Lakers,LAL,1989,1,P. Riley,rileypa01c,57,25,82,FALSE,302,rileypa01c_LAL_1982_1990
+Los Angeles Lakers,LAL,1990,1,P. Riley,rileypa01c,63,19,82,FALSE,302,rileypa01c_LAL_1982_1990
+Los Angeles Lakers,LAL,1991,1,M. Dunleavy,dunlemi01c,58,24,82,TRUE,303,dunlemi01c_LAL_1991_1992
+Los Angeles Lakers,LAL,1992,1,M. Dunleavy,dunlemi01c,43,39,82,FALSE,303,dunlemi01c_LAL_1991_1992
+Los Angeles Lakers,LAL,1993,1,R. Pfund,pfundra99c,39,43,82,TRUE,304,pfundra99c_LAL_1993_1994
+Los Angeles Lakers,LAL,1994,1,R. Pfund,pfundra99c,27,37,64,FALSE,304,pfundra99c_LAL_1993_1994
+Los Angeles Lakers,LAL,1994,2,B. Bertka,bertkbi99c,1,1,2,TRUE,305,bertkbi99c_LAL_1994_1994
+Los Angeles Lakers,LAL,1994,3,M. Johnson,johnsma02c,5,11,16,TRUE,306,johnsma02c_LAL_1994_1994
+Los Angeles Lakers,LAL,1995,1,D. Harris,harride99c,48,34,82,TRUE,307,harride99c_LAL_1995_1999
+Los Angeles Lakers,LAL,1996,1,D. Harris,harride99c,53,29,82,FALSE,307,harride99c_LAL_1995_1999
+Los Angeles Lakers,LAL,1997,1,D. Harris,harride99c,56,26,82,FALSE,307,harride99c_LAL_1995_1999
+Los Angeles Lakers,LAL,1998,1,D. Harris,harride99c,61,21,82,FALSE,307,harride99c_LAL_1995_1999
+Los Angeles Lakers,LAL,1999,1,D. Harris,harride99c,6,6,12,FALSE,307,harride99c_LAL_1995_1999
+Los Angeles Lakers,LAL,1999,2,B. Bertka,bertkbi99c,1,0,1,TRUE,308,bertkbi99c_LAL_1999_1999
+Los Angeles Lakers,LAL,1999,3,K. Rambis,rambiku01c,24,13,37,TRUE,309,rambiku01c_LAL_1999_1999
+Los Angeles Lakers,LAL,2000,1,P. Jackson,jacksph01c,67,15,82,TRUE,310,jacksph01c_LAL_2000_2004
+Los Angeles Lakers,LAL,2001,1,P. Jackson,jacksph01c,56,26,82,FALSE,310,jacksph01c_LAL_2000_2004
+Los Angeles Lakers,LAL,2002,1,P. Jackson,jacksph01c,58,24,82,FALSE,310,jacksph01c_LAL_2000_2004
+Los Angeles Lakers,LAL,2003,1,P. Jackson,jacksph01c,50,32,82,FALSE,310,jacksph01c_LAL_2000_2004
+Los Angeles Lakers,LAL,2004,1,P. Jackson,jacksph01c,56,26,82,FALSE,310,jacksph01c_LAL_2000_2004
+Los Angeles Lakers,LAL,2005,1,R. Tomjanovich,tomjaru01c,24,19,43,TRUE,311,tomjaru01c_LAL_2005_2005
+Los Angeles Lakers,LAL,2005,2,F. Hamblen,hamblfr99c,10,29,39,TRUE,312,hamblfr99c_LAL_2005_2005
+Los Angeles Lakers,LAL,2006,1,P. Jackson,jacksph01c,45,37,82,TRUE,313,jacksph01c_LAL_2006_2011
+Los Angeles Lakers,LAL,2007,1,P. Jackson,jacksph01c,42,40,82,FALSE,313,jacksph01c_LAL_2006_2011
+Los Angeles Lakers,LAL,2008,1,P. Jackson,jacksph01c,57,25,82,FALSE,313,jacksph01c_LAL_2006_2011
+Los Angeles Lakers,LAL,2009,1,P. Jackson,jacksph01c,65,17,82,FALSE,313,jacksph01c_LAL_2006_2011
+Los Angeles Lakers,LAL,2010,1,P. Jackson,jacksph01c,57,25,82,FALSE,313,jacksph01c_LAL_2006_2011
+Los Angeles Lakers,LAL,2011,1,P. Jackson,jacksph01c,57,25,82,FALSE,313,jacksph01c_LAL_2006_2011
+Los Angeles Lakers,LAL,2012,1,M. Brown,brownmi99c,41,25,66,TRUE,314,brownmi99c_LAL_2012_2013
+Los Angeles Lakers,LAL,2013,1,M. Brown,brownmi99c,1,4,5,FALSE,314,brownmi99c_LAL_2012_2013
+Los Angeles Lakers,LAL,2013,2,B. Bickerstaff,bickebe99c,4,1,5,TRUE,315,bickebe99c_LAL_2013_2013
+Los Angeles Lakers,LAL,2013,3,M. D'Antoni,dantomi01c,40,32,72,TRUE,316,dantomi01c_LAL_2013_2014
+Los Angeles Lakers,LAL,2014,1,M. D'Antoni,dantomi01c,27,55,82,FALSE,316,dantomi01c_LAL_2013_2014
+Los Angeles Lakers,LAL,2015,1,B. Scott,scottby01c,21,61,82,TRUE,317,scottby01c_LAL_2015_2016
+Los Angeles Lakers,LAL,2016,1,B. Scott,scottby01c,17,65,82,FALSE,317,scottby01c_LAL_2015_2016
+Los Angeles Lakers,LAL,2017,1,L. Walton,waltolu01c,26,56,82,TRUE,318,waltolu01c_LAL_2017_2019
+Los Angeles Lakers,LAL,2018,1,L. Walton,waltolu01c,35,47,82,FALSE,318,waltolu01c_LAL_2017_2019
+Los Angeles Lakers,LAL,2019,1,L. Walton,waltolu01c,37,45,82,FALSE,318,waltolu01c_LAL_2017_2019
+Los Angeles Lakers,LAL,2020,1,F. Vogel,vogelfr99c,49,14,63,TRUE,319,vogelfr99c_LAL_2020_2020
+Memphis Grizzlies,MEM,1996,1,B. Winters,wintebr01c,15,67,82,TRUE,320,wintebr01c_MEM_1996_1997
+Memphis Grizzlies,MEM,1997,1,B. Winters,wintebr01c,8,35,43,FALSE,320,wintebr01c_MEM_1996_1997
+Memphis Grizzlies,MEM,1997,2,S. Jackson,jacksst99c,6,33,39,TRUE,321,jacksst99c_MEM_1997_1997
+Memphis Grizzlies,MEM,1998,1,B. Hill,hillbr99c,19,63,82,TRUE,322,hillbr99c_MEM_1998_2000
+Memphis Grizzlies,MEM,1999,1,B. Hill,hillbr99c,8,42,50,FALSE,322,hillbr99c_MEM_1998_2000
+Memphis Grizzlies,MEM,2000,1,B. Hill,hillbr99c,4,18,22,FALSE,322,hillbr99c_MEM_1998_2000
+Memphis Grizzlies,MEM,2000,2,L. Hollins,hollili01c,18,42,60,TRUE,323,hollili01c_MEM_2000_2000
+Memphis Grizzlies,MEM,2001,1,S. Lowe,lowesi01c,23,59,82,TRUE,324,lowesi01c_MEM_2001_2003
+Memphis Grizzlies,MEM,2002,1,S. Lowe,lowesi01c,23,59,82,FALSE,324,lowesi01c_MEM_2001_2003
+Memphis Grizzlies,MEM,2003,1,S. Lowe,lowesi01c,0,8,8,FALSE,324,lowesi01c_MEM_2001_2003
+Memphis Grizzlies,MEM,2003,2,H. Brown,brownhu99c,28,46,74,TRUE,325,brownhu99c_MEM_2003_2005
+Memphis Grizzlies,MEM,2004,1,H. Brown,brownhu99c,50,32,82,FALSE,325,brownhu99c_MEM_2003_2005
+Memphis Grizzlies,MEM,2005,1,H. Brown,brownhu99c,5,7,12,FALSE,325,brownhu99c_MEM_2003_2005
+Memphis Grizzlies,MEM,2005,2,L. Hollins,hollili01c,0,4,4,TRUE,326,hollili01c_MEM_2005_2005
+Memphis Grizzlies,MEM,2005,3,M. Fratello,fratemi99c,40,26,66,TRUE,327,fratemi99c_MEM_2005_2007
+Memphis Grizzlies,MEM,2006,1,M. Fratello,fratemi99c,49,33,82,FALSE,327,fratemi99c_MEM_2005_2007
+Memphis Grizzlies,MEM,2007,1,M. Fratello,fratemi99c,6,24,30,FALSE,327,fratemi99c_MEM_2005_2007
+Memphis Grizzlies,MEM,2007,2,T. Barone,baronto99c,16,36,52,TRUE,328,baronto99c_MEM_2007_2007
+Memphis Grizzlies,MEM,2008,1,M. Iavaroni,iavarma01c,22,60,82,TRUE,329,iavarma01c_MEM_2008_2009
+Memphis Grizzlies,MEM,2009,1,M. Iavaroni,iavarma01c,11,30,41,FALSE,329,iavarma01c_MEM_2008_2009
+Memphis Grizzlies,MEM,2009,2,J. Davis,davisjo01c,0,2,2,TRUE,330,davisjo01c_MEM_2009_2009
+Memphis Grizzlies,MEM,2009,3,L. Hollins,hollili01c,13,26,39,TRUE,331,hollili01c_MEM_2009_2013
+Memphis Grizzlies,MEM,2010,1,L. Hollins,hollili01c,40,42,82,FALSE,331,hollili01c_MEM_2009_2013
+Memphis Grizzlies,MEM,2011,1,L. Hollins,hollili01c,46,36,82,FALSE,331,hollili01c_MEM_2009_2013
+Memphis Grizzlies,MEM,2012,1,L. Hollins,hollili01c,41,25,66,FALSE,331,hollili01c_MEM_2009_2013
+Memphis Grizzlies,MEM,2013,1,L. Hollins,hollili01c,56,26,82,FALSE,331,hollili01c_MEM_2009_2013
+Memphis Grizzlies,MEM,2014,1,D. Joerger,joergda99c,50,32,82,TRUE,332,joergda99c_MEM_2014_2016
+Memphis Grizzlies,MEM,2015,1,D. Joerger,joergda99c,55,27,82,FALSE,332,joergda99c_MEM_2014_2016
+Memphis Grizzlies,MEM,2016,1,D. Joerger,joergda99c,42,40,82,FALSE,332,joergda99c_MEM_2014_2016
+Memphis Grizzlies,MEM,2017,1,D. Fizdale,fizdada01c,43,39,82,TRUE,333,fizdada01c_MEM_2017_2018
+Memphis Grizzlies,MEM,2018,1,D. Fizdale,fizdada01c,7,12,19,FALSE,333,fizdada01c_MEM_2017_2018
+Memphis Grizzlies,MEM,2018,2,J. Bickerstaff,bickejb01c,15,48,63,TRUE,334,bickejb01c_MEM_2018_2019
+Memphis Grizzlies,MEM,2019,1,J. Bickerstaff,bickejb01c,33,49,82,FALSE,334,bickejb01c_MEM_2018_2019
+Memphis Grizzlies,MEM,2020,1,T. Jenkins,jenkita01c,32,33,65,TRUE,335,jenkita01c_MEM_2020_2020
+Miami Heat,MIA,1989,1,R. Rothstein,rothsro99c,15,67,82,TRUE,336,rothsro99c_MIA_1989_1991
+Miami Heat,MIA,1990,1,R. Rothstein,rothsro99c,18,64,82,FALSE,336,rothsro99c_MIA_1989_1991
+Miami Heat,MIA,1991,1,R. Rothstein,rothsro99c,24,58,82,FALSE,336,rothsro99c_MIA_1989_1991
+Miami Heat,MIA,1992,1,K. Loughery,loughke01c,38,44,82,TRUE,337,loughke01c_MIA_1992_1995
+Miami Heat,MIA,1993,1,K. Loughery,loughke01c,36,46,82,FALSE,337,loughke01c_MIA_1992_1995
+Miami Heat,MIA,1994,1,K. Loughery,loughke01c,42,40,82,FALSE,337,loughke01c_MIA_1992_1995
+Miami Heat,MIA,1995,1,K. Loughery,loughke01c,17,29,46,FALSE,337,loughke01c_MIA_1992_1995
+Miami Heat,MIA,1995,2,A. Gentry,gentral99c,15,21,36,TRUE,338,gentral99c_MIA_1995_1995
+Miami Heat,MIA,1996,1,P. Riley,rileypa01c,42,40,82,TRUE,339,rileypa01c_MIA_1996_2003
+Miami Heat,MIA,1997,1,P. Riley,rileypa01c,61,21,82,FALSE,339,rileypa01c_MIA_1996_2003
+Miami Heat,MIA,1998,1,P. Riley,rileypa01c,55,27,82,FALSE,339,rileypa01c_MIA_1996_2003
+Miami Heat,MIA,1999,1,P. Riley,rileypa01c,33,17,50,FALSE,339,rileypa01c_MIA_1996_2003
+Miami Heat,MIA,2000,1,P. Riley,rileypa01c,52,30,82,FALSE,339,rileypa01c_MIA_1996_2003
+Miami Heat,MIA,2001,1,P. Riley,rileypa01c,50,32,82,FALSE,339,rileypa01c_MIA_1996_2003
+Miami Heat,MIA,2002,1,P. Riley,rileypa01c,36,46,82,FALSE,339,rileypa01c_MIA_1996_2003
+Miami Heat,MIA,2003,1,P. Riley,rileypa01c,25,57,82,FALSE,339,rileypa01c_MIA_1996_2003
+Miami Heat,MIA,2004,1,S. Van Gundy,vangust99c,42,40,82,TRUE,340,vangust99c_MIA_2004_2006
+Miami Heat,MIA,2005,1,S. Van Gundy,vangust99c,59,23,82,FALSE,340,vangust99c_MIA_2004_2006
+Miami Heat,MIA,2006,1,S. Van Gundy,vangust99c,11,10,21,FALSE,340,vangust99c_MIA_2004_2006
+Miami Heat,MIA,2006,2,P. Riley,rileypa01c,41,20,61,TRUE,341,rileypa01c_MIA_2006_2008
+Miami Heat,MIA,2007,1,P. Riley,rileypa01c,44,38,82,FALSE,341,rileypa01c_MIA_2006_2008
+Miami Heat,MIA,2008,1,P. Riley,rileypa01c,15,67,82,FALSE,341,rileypa01c_MIA_2006_2008
+Miami Heat,MIA,2009,1,E. Spoelstra,spoeler99c,43,39,82,TRUE,342,spoeler99c_MIA_2009_2020
+Miami Heat,MIA,2010,1,E. Spoelstra,spoeler99c,47,35,82,FALSE,342,spoeler99c_MIA_2009_2020
+Miami Heat,MIA,2011,1,E. Spoelstra,spoeler99c,58,24,82,FALSE,342,spoeler99c_MIA_2009_2020
+Miami Heat,MIA,2012,1,E. Spoelstra,spoeler99c,46,20,66,FALSE,342,spoeler99c_MIA_2009_2020
+Miami Heat,MIA,2013,1,E. Spoelstra,spoeler99c,66,16,82,FALSE,342,spoeler99c_MIA_2009_2020
+Miami Heat,MIA,2014,1,E. Spoelstra,spoeler99c,54,28,82,FALSE,342,spoeler99c_MIA_2009_2020
+Miami Heat,MIA,2015,1,E. Spoelstra,spoeler99c,37,45,82,FALSE,342,spoeler99c_MIA_2009_2020
+Miami Heat,MIA,2016,1,E. Spoelstra,spoeler99c,48,34,82,FALSE,342,spoeler99c_MIA_2009_2020
+Miami Heat,MIA,2017,1,E. Spoelstra,spoeler99c,41,41,82,FALSE,342,spoeler99c_MIA_2009_2020
+Miami Heat,MIA,2018,1,E. Spoelstra,spoeler99c,44,38,82,FALSE,342,spoeler99c_MIA_2009_2020
+Miami Heat,MIA,2019,1,E. Spoelstra,spoeler99c,39,43,82,FALSE,342,spoeler99c_MIA_2009_2020
+Miami Heat,MIA,2020,1,E. Spoelstra,spoeler99c,41,24,65,FALSE,342,spoeler99c_MIA_2009_2020
+Milwaukee Bucks,MIL,1969,1,L. Costello,costela01c,27,55,82,TRUE,343,costela01c_MIL_1969_1977
+Milwaukee Bucks,MIL,1970,1,L. Costello,costela01c,56,26,82,FALSE,343,costela01c_MIL_1969_1977
+Milwaukee Bucks,MIL,1971,1,L. Costello,costela01c,66,16,82,FALSE,343,costela01c_MIL_1969_1977
+Milwaukee Bucks,MIL,1972,1,L. Costello,costela01c,63,19,82,FALSE,343,costela01c_MIL_1969_1977
+Milwaukee Bucks,MIL,1973,1,L. Costello,costela01c,60,22,82,FALSE,343,costela01c_MIL_1969_1977
+Milwaukee Bucks,MIL,1974,1,L. Costello,costela01c,59,23,82,FALSE,343,costela01c_MIL_1969_1977
+Milwaukee Bucks,MIL,1975,1,L. Costello,costela01c,38,44,82,FALSE,343,costela01c_MIL_1969_1977
+Milwaukee Bucks,MIL,1976,1,L. Costello,costela01c,38,44,82,FALSE,343,costela01c_MIL_1969_1977
+Milwaukee Bucks,MIL,1977,1,L. Costello,costela01c,3,15,18,FALSE,343,costela01c_MIL_1969_1977
+Milwaukee Bucks,MIL,1977,2,D. Nelson,nelsodo01c,27,37,64,TRUE,344,nelsodo01c_MIL_1977_1987
+Milwaukee Bucks,MIL,1978,1,D. Nelson,nelsodo01c,44,38,82,FALSE,344,nelsodo01c_MIL_1977_1987
+Milwaukee Bucks,MIL,1979,1,D. Nelson,nelsodo01c,38,44,82,FALSE,344,nelsodo01c_MIL_1977_1987
+Milwaukee Bucks,MIL,1980,1,D. Nelson,nelsodo01c,49,33,82,FALSE,344,nelsodo01c_MIL_1977_1987
+Milwaukee Bucks,MIL,1981,1,D. Nelson,nelsodo01c,60,22,82,FALSE,344,nelsodo01c_MIL_1977_1987
+Milwaukee Bucks,MIL,1982,1,D. Nelson,nelsodo01c,55,27,82,FALSE,344,nelsodo01c_MIL_1977_1987
+Milwaukee Bucks,MIL,1983,1,D. Nelson,nelsodo01c,51,31,82,FALSE,344,nelsodo01c_MIL_1977_1987
+Milwaukee Bucks,MIL,1984,1,D. Nelson,nelsodo01c,50,32,82,FALSE,344,nelsodo01c_MIL_1977_1987
+Milwaukee Bucks,MIL,1985,1,D. Nelson,nelsodo01c,59,23,82,FALSE,344,nelsodo01c_MIL_1977_1987
+Milwaukee Bucks,MIL,1986,1,D. Nelson,nelsodo01c,57,25,82,FALSE,344,nelsodo01c_MIL_1977_1987
+Milwaukee Bucks,MIL,1987,1,D. Nelson,nelsodo01c,50,32,82,FALSE,344,nelsodo01c_MIL_1977_1987
+Milwaukee Bucks,MIL,1988,1,D. Harris,harride99c,42,40,82,TRUE,345,harride99c_MIL_1988_1992
+Milwaukee Bucks,MIL,1989,1,D. Harris,harride99c,49,33,82,FALSE,345,harride99c_MIL_1988_1992
+Milwaukee Bucks,MIL,1990,1,D. Harris,harride99c,44,38,82,FALSE,345,harride99c_MIL_1988_1992
+Milwaukee Bucks,MIL,1991,1,D. Harris,harride99c,48,34,82,FALSE,345,harride99c_MIL_1988_1992
+Milwaukee Bucks,MIL,1992,1,D. Harris,harride99c,8,9,17,FALSE,345,harride99c_MIL_1988_1992
+Milwaukee Bucks,MIL,1992,2,F. Hamblen,hamblfr99c,23,42,65,TRUE,346,hamblfr99c_MIL_1992_1992
+Milwaukee Bucks,MIL,1993,1,M. Dunleavy,dunlemi01c,28,54,82,TRUE,347,dunlemi01c_MIL_1993_1996
+Milwaukee Bucks,MIL,1994,1,M. Dunleavy,dunlemi01c,20,62,82,FALSE,347,dunlemi01c_MIL_1993_1996
+Milwaukee Bucks,MIL,1995,1,M. Dunleavy,dunlemi01c,34,48,82,FALSE,347,dunlemi01c_MIL_1993_1996
+Milwaukee Bucks,MIL,1996,1,M. Dunleavy,dunlemi01c,25,57,82,FALSE,347,dunlemi01c_MIL_1993_1996
+Milwaukee Bucks,MIL,1997,1,C. Ford,fordch01c,33,49,82,TRUE,348,fordch01c_MIL_1997_1998
+Milwaukee Bucks,MIL,1998,1,C. Ford,fordch01c,36,46,82,FALSE,348,fordch01c_MIL_1997_1998
+Milwaukee Bucks,MIL,1999,1,G. Karl,karlge01c,28,22,50,TRUE,349,karlge01c_MIL_1999_2003
+Milwaukee Bucks,MIL,2000,1,G. Karl,karlge01c,42,40,82,FALSE,349,karlge01c_MIL_1999_2003
+Milwaukee Bucks,MIL,2001,1,G. Karl,karlge01c,52,30,82,FALSE,349,karlge01c_MIL_1999_2003
+Milwaukee Bucks,MIL,2002,1,G. Karl,karlge01c,41,41,82,FALSE,349,karlge01c_MIL_1999_2003
+Milwaukee Bucks,MIL,2003,1,G. Karl,karlge01c,42,40,82,FALSE,349,karlge01c_MIL_1999_2003
+Milwaukee Bucks,MIL,2004,1,T. Porter,portete01c,41,41,82,TRUE,350,portete01c_MIL_2004_2005
+Milwaukee Bucks,MIL,2005,1,T. Porter,portete01c,30,52,82,FALSE,350,portete01c_MIL_2004_2005
+Milwaukee Bucks,MIL,2006,1,T. Stotts,stottte99c,40,42,82,TRUE,351,stottte99c_MIL_2006_2007
+Milwaukee Bucks,MIL,2007,1,T. Stotts,stottte99c,23,41,64,FALSE,351,stottte99c_MIL_2006_2007
+Milwaukee Bucks,MIL,2007,2,L. Krystkowiak,krystla01c,5,13,18,TRUE,352,krystla01c_MIL_2007_2008
+Milwaukee Bucks,MIL,2008,1,L. Krystkowiak,krystla01c,26,56,82,FALSE,352,krystla01c_MIL_2007_2008
+Milwaukee Bucks,MIL,2009,1,S. Skiles,skilesc01c,34,48,82,TRUE,353,skilesc01c_MIL_2009_2013
+Milwaukee Bucks,MIL,2010,1,S. Skiles,skilesc01c,46,36,82,FALSE,353,skilesc01c_MIL_2009_2013
+Milwaukee Bucks,MIL,2011,1,S. Skiles,skilesc01c,35,47,82,FALSE,353,skilesc01c_MIL_2009_2013
+Milwaukee Bucks,MIL,2012,1,S. Skiles,skilesc01c,31,35,66,FALSE,353,skilesc01c_MIL_2009_2013
+Milwaukee Bucks,MIL,2013,1,S. Skiles,skilesc01c,16,16,32,FALSE,353,skilesc01c_MIL_2009_2013
+Milwaukee Bucks,MIL,2013,2,J. Boylan,boylaji99c,22,28,50,TRUE,354,boylaji99c_MIL_2013_2013
+Milwaukee Bucks,MIL,2014,1,L. Drew,drewla01c,15,67,82,TRUE,355,drewla01c_MIL_2014_2014
+Milwaukee Bucks,MIL,2015,1,J. Kidd,kiddja01c,41,41,82,TRUE,356,kiddja01c_MIL_2015_2018
+Milwaukee Bucks,MIL,2016,1,J. Kidd,kiddja01c,33,49,82,FALSE,356,kiddja01c_MIL_2015_2018
+Milwaukee Bucks,MIL,2017,1,J. Kidd,kiddja01c,42,40,82,FALSE,356,kiddja01c_MIL_2015_2018
+Milwaukee Bucks,MIL,2018,1,J. Kidd,kiddja01c,23,22,45,FALSE,356,kiddja01c_MIL_2015_2018
+Milwaukee Bucks,MIL,2018,2,J. Prunty,pruntjo01c,21,16,37,TRUE,357,pruntjo01c_MIL_2018_2018
+Milwaukee Bucks,MIL,2019,1,M. Budenholzer,budenmi99c,60,22,82,TRUE,358,budenmi99c_MIL_2019_2020
+Milwaukee Bucks,MIL,2020,1,M. Budenholzer,budenmi99c,53,12,65,FALSE,358,budenmi99c_MIL_2019_2020
+Minnesota Timberwolves,MIN,1990,1,B. Musselman,mussebi99c,22,60,82,TRUE,359,mussebi99c_MIN_1990_1991
+Minnesota Timberwolves,MIN,1991,1,B. Musselman,mussebi99c,29,53,82,FALSE,359,mussebi99c_MIN_1990_1991
+Minnesota Timberwolves,MIN,1992,1,J. Rodgers,rodgeji99c,15,67,82,TRUE,360,rodgeji99c_MIN_1992_1993
+Minnesota Timberwolves,MIN,1993,1,J. Rodgers,rodgeji99c,6,23,29,FALSE,360,rodgeji99c_MIN_1992_1993
+Minnesota Timberwolves,MIN,1993,2,S. Lowe,lowesi01c,13,40,53,TRUE,361,lowesi01c_MIN_1993_1994
+Minnesota Timberwolves,MIN,1994,1,S. Lowe,lowesi01c,20,62,82,FALSE,361,lowesi01c_MIN_1993_1994
+Minnesota Timberwolves,MIN,1995,1,B. Blair,blairbi99c,21,61,82,TRUE,362,blairbi99c_MIN_1995_1996
+Minnesota Timberwolves,MIN,1996,1,B. Blair,blairbi99c,6,14,20,FALSE,362,blairbi99c_MIN_1995_1996
+Minnesota Timberwolves,MIN,1996,2,F. Saunders,saundfl99c,20,42,62,TRUE,363,saundfl99c_MIN_1996_2005
+Minnesota Timberwolves,MIN,1997,1,F. Saunders,saundfl99c,40,42,82,FALSE,363,saundfl99c_MIN_1996_2005
+Minnesota Timberwolves,MIN,1998,1,F. Saunders,saundfl99c,45,37,82,FALSE,363,saundfl99c_MIN_1996_2005
+Minnesota Timberwolves,MIN,1999,1,F. Saunders,saundfl99c,25,25,50,FALSE,363,saundfl99c_MIN_1996_2005
+Minnesota Timberwolves,MIN,2000,1,F. Saunders,saundfl99c,50,32,82,FALSE,363,saundfl99c_MIN_1996_2005
+Minnesota Timberwolves,MIN,2001,1,F. Saunders,saundfl99c,47,35,82,FALSE,363,saundfl99c_MIN_1996_2005
+Minnesota Timberwolves,MIN,2002,1,F. Saunders,saundfl99c,50,32,82,FALSE,363,saundfl99c_MIN_1996_2005
+Minnesota Timberwolves,MIN,2003,1,F. Saunders,saundfl99c,51,31,82,FALSE,363,saundfl99c_MIN_1996_2005
+Minnesota Timberwolves,MIN,2004,1,F. Saunders,saundfl99c,58,24,82,FALSE,363,saundfl99c_MIN_1996_2005
+Minnesota Timberwolves,MIN,2005,1,F. Saunders,saundfl99c,25,26,51,FALSE,363,saundfl99c_MIN_1996_2005
+Minnesota Timberwolves,MIN,2005,2,K. McHale,mchalke01c,19,12,31,TRUE,364,mchalke01c_MIN_2005_2005
+Minnesota Timberwolves,MIN,2006,1,D. Casey,caseydw99c,33,49,82,TRUE,365,caseydw99c_MIN_2006_2007
+Minnesota Timberwolves,MIN,2007,1,D. Casey,caseydw99c,20,20,40,FALSE,365,caseydw99c_MIN_2006_2007
+Minnesota Timberwolves,MIN,2007,2,R. Wittman,wittmra01c,12,30,42,TRUE,366,wittmra01c_MIN_2007_2009
+Minnesota Timberwolves,MIN,2008,1,R. Wittman,wittmra01c,22,60,82,FALSE,366,wittmra01c_MIN_2007_2009
+Minnesota Timberwolves,MIN,2009,1,R. Wittman,wittmra01c,4,15,19,FALSE,366,wittmra01c_MIN_2007_2009
+Minnesota Timberwolves,MIN,2009,2,K. McHale,mchalke01c,20,43,63,TRUE,367,mchalke01c_MIN_2009_2009
+Minnesota Timberwolves,MIN,2010,1,K. Rambis,rambiku01c,15,67,82,TRUE,368,rambiku01c_MIN_2010_2011
+Minnesota Timberwolves,MIN,2011,1,K. Rambis,rambiku01c,17,65,82,FALSE,368,rambiku01c_MIN_2010_2011
+Minnesota Timberwolves,MIN,2012,1,R. Adelman,adelmri01c,26,40,66,TRUE,369,adelmri01c_MIN_2012_2014
+Minnesota Timberwolves,MIN,2013,1,R. Adelman,adelmri01c,31,51,82,FALSE,369,adelmri01c_MIN_2012_2014
+Minnesota Timberwolves,MIN,2014,1,R. Adelman,adelmri01c,40,42,82,FALSE,369,adelmri01c_MIN_2012_2014
+Minnesota Timberwolves,MIN,2015,1,F. Saunders,saundfl99c,16,66,82,TRUE,370,saundfl99c_MIN_2015_2015
+Minnesota Timberwolves,MIN,2016,1,S. Mitchell,mitchsa01c,29,53,82,TRUE,371,mitchsa01c_MIN_2016_2016
+Minnesota Timberwolves,MIN,2017,1,T. Thibodeau,thiboto99c,31,51,82,TRUE,372,thiboto99c_MIN_2017_2019
+Minnesota Timberwolves,MIN,2018,1,T. Thibodeau,thiboto99c,47,35,82,FALSE,372,thiboto99c_MIN_2017_2019
+Minnesota Timberwolves,MIN,2019,1,T. Thibodeau,thiboto99c,19,21,40,FALSE,372,thiboto99c_MIN_2017_2019
+Minnesota Timberwolves,MIN,2019,2,R. Saunders,saundry01c,17,25,42,TRUE,373,saundry01c_MIN_2019_2020
+Minnesota Timberwolves,MIN,2020,1,R. Saunders,saundry01c,19,45,64,FALSE,373,saundry01c_MIN_2019_2020
+New Orleans Pelicans,NOH,2003,1,P. Silas,silaspa01c,47,35,82,TRUE,374,silaspa01c_NOH_2003_2003
+New Orleans Pelicans,NOH,2004,1,T. Floyd,floydti99c,41,41,82,TRUE,375,floydti99c_NOH_2004_2004
+New Orleans Pelicans,NOH,2005,1,B. Scott,scottby01c,18,64,82,TRUE,376,scottby01c_NOH_2005_2010
+New Orleans Pelicans,NOH,2006,1,B. Scott,scottby01c,38,44,82,FALSE,376,scottby01c_NOH_2005_2010
+New Orleans Pelicans,NOH,2007,1,B. Scott,scottby01c,39,43,82,FALSE,376,scottby01c_NOH_2005_2010
+New Orleans Pelicans,NOH,2008,1,B. Scott,scottby01c,56,26,82,FALSE,376,scottby01c_NOH_2005_2010
+New Orleans Pelicans,NOH,2009,1,B. Scott,scottby01c,49,33,82,FALSE,376,scottby01c_NOH_2005_2010
+New Orleans Pelicans,NOH,2010,1,B. Scott,scottby01c,3,6,9,FALSE,376,scottby01c_NOH_2005_2010
+New Orleans Pelicans,NOH,2010,2,J. Bower,bowerje99c,34,39,73,TRUE,377,bowerje99c_NOH_2010_2010
+New Orleans Pelicans,NOH,2011,1,M. Williams,willimo01c,46,36,82,TRUE,378,willimo01c_NOH_2011_2015
+New Orleans Pelicans,NOH,2012,1,M. Williams,willimo01c,21,45,66,FALSE,378,willimo01c_NOH_2011_2015
+New Orleans Pelicans,NOH,2013,1,M. Williams,willimo01c,27,55,82,FALSE,378,willimo01c_NOH_2011_2015
+New Orleans Pelicans,NOH,2014,1,M. Williams,willimo01c,34,48,82,FALSE,378,willimo01c_NOH_2011_2015
+New Orleans Pelicans,NOH,2015,1,M. Williams,willimo01c,45,37,82,FALSE,378,willimo01c_NOH_2011_2015
+New Orleans Pelicans,NOH,2016,1,A. Gentry,gentral99c,30,52,82,TRUE,379,gentral99c_NOH_2016_2020
+New Orleans Pelicans,NOH,2017,1,A. Gentry,gentral99c,34,48,82,FALSE,379,gentral99c_NOH_2016_2020
+New Orleans Pelicans,NOH,2018,1,A. Gentry,gentral99c,48,34,82,FALSE,379,gentral99c_NOH_2016_2020
+New Orleans Pelicans,NOH,2019,1,A. Gentry,gentral99c,33,49,82,FALSE,379,gentral99c_NOH_2016_2020
+New Orleans Pelicans,NOH,2020,1,A. Gentry,gentral99c,28,36,64,FALSE,379,gentral99c_NOH_2016_2020
+New York Knicks,NYK,1947,1,N. Cohalan,cohalne99c,33,27,60,TRUE,380,cohalne99c_NYK_1947_1947
+New York Knicks,NYK,1948,1,J. Lapchick,lapchjo99c,26,22,48,TRUE,381,lapchjo99c_NYK_1948_1956
+New York Knicks,NYK,1949,1,J. Lapchick,lapchjo99c,32,28,60,FALSE,381,lapchjo99c_NYK_1948_1956
+New York Knicks,NYK,1950,1,J. Lapchick,lapchjo99c,40,28,68,FALSE,381,lapchjo99c_NYK_1948_1956
+New York Knicks,NYK,1951,1,J. Lapchick,lapchjo99c,36,30,66,FALSE,381,lapchjo99c_NYK_1948_1956
+New York Knicks,NYK,1952,1,J. Lapchick,lapchjo99c,37,29,66,FALSE,381,lapchjo99c_NYK_1948_1956
+New York Knicks,NYK,1953,1,J. Lapchick,lapchjo99c,47,23,70,FALSE,381,lapchjo99c_NYK_1948_1956
+New York Knicks,NYK,1954,1,J. Lapchick,lapchjo99c,44,28,72,FALSE,381,lapchjo99c_NYK_1948_1956
+New York Knicks,NYK,1955,1,J. Lapchick,lapchjo99c,38,34,72,FALSE,381,lapchjo99c_NYK_1948_1956
+New York Knicks,NYK,1956,1,J. Lapchick,lapchjo99c,26,25,51,FALSE,381,lapchjo99c_NYK_1948_1956
+New York Knicks,NYK,1956,2,V. Boryla,borylvi01c,9,12,21,TRUE,382,borylvi01c_NYK_1956_1958
+New York Knicks,NYK,1957,1,V. Boryla,borylvi01c,36,36,72,FALSE,382,borylvi01c_NYK_1956_1958
+New York Knicks,NYK,1958,1,V. Boryla,borylvi01c,35,37,72,FALSE,382,borylvi01c_NYK_1956_1958
+New York Knicks,NYK,1959,1,A. Levane,levanan01c,40,32,72,TRUE,383,levanan01c_NYK_1959_1960
+New York Knicks,NYK,1960,1,A. Levane,levanan01c,8,19,27,FALSE,383,levanan01c_NYK_1959_1960
+New York Knicks,NYK,1960,2,C. Braun,braunca01c,19,29,48,TRUE,384,braunca01c_NYK_1960_1961
+New York Knicks,NYK,1961,1,C. Braun,braunca01c,21,58,79,FALSE,384,braunca01c_NYK_1960_1961
+New York Knicks,NYK,1962,1,E. Donovan,donoved99c,29,51,80,TRUE,385,donoved99c_NYK_1962_1965
+New York Knicks,NYK,1963,1,E. Donovan,donoved99c,21,59,80,FALSE,385,donoved99c_NYK_1962_1965
+New York Knicks,NYK,1964,1,E. Donovan,donoved99c,22,58,80,FALSE,385,donoved99c_NYK_1962_1965
+New York Knicks,NYK,1965,1,E. Donovan,donoved99c,12,26,38,FALSE,385,donoved99c_NYK_1962_1965
+New York Knicks,NYK,1965,2,H. Gallatin,gallaha01c,19,23,42,TRUE,386,gallaha01c_NYK_1965_1966
+New York Knicks,NYK,1966,1,H. Gallatin,gallaha01c,6,15,21,FALSE,386,gallaha01c_NYK_1965_1966
+New York Knicks,NYK,1966,2,D. McGuire,mcguidi01c,24,35,59,TRUE,387,mcguidi01c_NYK_1966_1968
+New York Knicks,NYK,1967,1,D. McGuire,mcguidi01c,36,45,81,FALSE,387,mcguidi01c_NYK_1966_1968
+New York Knicks,NYK,1968,1,D. McGuire,mcguidi01c,15,23,38,FALSE,387,mcguidi01c_NYK_1966_1968
+New York Knicks,NYK,1968,2,R. Holzman,holzmre01c,28,16,44,TRUE,388,holzmre01c_NYK_1968_1977
+New York Knicks,NYK,1969,1,R. Holzman,holzmre01c,54,28,82,FALSE,388,holzmre01c_NYK_1968_1977
+New York Knicks,NYK,1970,1,R. Holzman,holzmre01c,60,22,82,FALSE,388,holzmre01c_NYK_1968_1977
+New York Knicks,NYK,1971,1,R. Holzman,holzmre01c,52,30,82,FALSE,388,holzmre01c_NYK_1968_1977
+New York Knicks,NYK,1972,1,R. Holzman,holzmre01c,48,34,82,FALSE,388,holzmre01c_NYK_1968_1977
+New York Knicks,NYK,1973,1,R. Holzman,holzmre01c,57,25,82,FALSE,388,holzmre01c_NYK_1968_1977
+New York Knicks,NYK,1974,1,R. Holzman,holzmre01c,49,33,82,FALSE,388,holzmre01c_NYK_1968_1977
+New York Knicks,NYK,1975,1,R. Holzman,holzmre01c,40,42,82,FALSE,388,holzmre01c_NYK_1968_1977
+New York Knicks,NYK,1976,1,R. Holzman,holzmre01c,38,44,82,FALSE,388,holzmre01c_NYK_1968_1977
+New York Knicks,NYK,1977,1,R. Holzman,holzmre01c,40,42,82,FALSE,388,holzmre01c_NYK_1968_1977
+New York Knicks,NYK,1978,1,W. Reed,reedwi01c,43,39,82,TRUE,389,reedwi01c_NYK_1978_1979
+New York Knicks,NYK,1979,1,W. Reed,reedwi01c,6,8,14,FALSE,389,reedwi01c_NYK_1978_1979
+New York Knicks,NYK,1979,2,R. Holzman,holzmre01c,25,43,68,TRUE,390,holzmre01c_NYK_1979_1982
+New York Knicks,NYK,1980,1,R. Holzman,holzmre01c,39,43,82,FALSE,390,holzmre01c_NYK_1979_1982
+New York Knicks,NYK,1981,1,R. Holzman,holzmre01c,50,32,82,FALSE,390,holzmre01c_NYK_1979_1982
+New York Knicks,NYK,1982,1,R. Holzman,holzmre01c,33,49,82,FALSE,390,holzmre01c_NYK_1979_1982
+New York Knicks,NYK,1983,1,H. Brown,brownhu99c,44,38,82,TRUE,391,brownhu99c_NYK_1983_1987
+New York Knicks,NYK,1984,1,H. Brown,brownhu99c,47,35,82,FALSE,391,brownhu99c_NYK_1983_1987
+New York Knicks,NYK,1985,1,H. Brown,brownhu99c,24,58,82,FALSE,391,brownhu99c_NYK_1983_1987
+New York Knicks,NYK,1986,1,H. Brown,brownhu99c,23,59,82,FALSE,391,brownhu99c_NYK_1983_1987
+New York Knicks,NYK,1987,1,H. Brown,brownhu99c,4,12,16,FALSE,391,brownhu99c_NYK_1983_1987
+New York Knicks,NYK,1987,2,B. Hill,hillbo99c,20,46,66,TRUE,392,hillbo99c_NYK_1987_1987
+New York Knicks,NYK,1988,1,R. Pitino,pitinri99c,38,44,82,TRUE,393,pitinri99c_NYK_1988_1989
+New York Knicks,NYK,1989,1,R. Pitino,pitinri99c,52,30,82,FALSE,393,pitinri99c_NYK_1988_1989
+New York Knicks,NYK,1990,1,S. Jackson,jacksst99c,45,37,82,TRUE,394,jacksst99c_NYK_1990_1991
+New York Knicks,NYK,1991,1,S. Jackson,jacksst99c,7,8,15,FALSE,394,jacksst99c_NYK_1990_1991
+New York Knicks,NYK,1991,2,J. MacLeod,maclejo99c,32,35,67,TRUE,395,maclejo99c_NYK_1991_1991
+New York Knicks,NYK,1992,1,P. Riley,rileypa01c,51,31,82,TRUE,396,rileypa01c_NYK_1992_1995
+New York Knicks,NYK,1993,1,P. Riley,rileypa01c,60,22,82,FALSE,396,rileypa01c_NYK_1992_1995
+New York Knicks,NYK,1994,1,P. Riley,rileypa01c,57,25,82,FALSE,396,rileypa01c_NYK_1992_1995
+New York Knicks,NYK,1995,1,P. Riley,rileypa01c,55,27,82,FALSE,396,rileypa01c_NYK_1992_1995
+New York Knicks,NYK,1996,1,D. Nelson,nelsodo01c,34,25,59,TRUE,397,nelsodo01c_NYK_1996_1996
+New York Knicks,NYK,1996,2,J. Van Gundy,vanguje99c,13,10,23,TRUE,398,vanguje99c_NYK_1996_2002
+New York Knicks,NYK,1997,1,J. Van Gundy,vanguje99c,57,25,82,FALSE,398,vanguje99c_NYK_1996_2002
+New York Knicks,NYK,1998,1,J. Van Gundy,vanguje99c,43,39,82,FALSE,398,vanguje99c_NYK_1996_2002
+New York Knicks,NYK,1999,1,J. Van Gundy,vanguje99c,27,23,50,FALSE,398,vanguje99c_NYK_1996_2002
+New York Knicks,NYK,2000,1,J. Van Gundy,vanguje99c,50,32,82,FALSE,398,vanguje99c_NYK_1996_2002
+New York Knicks,NYK,2001,1,J. Van Gundy,vanguje99c,48,34,82,FALSE,398,vanguje99c_NYK_1996_2002
+New York Knicks,NYK,2002,1,J. Van Gundy,vanguje99c,10,9,19,FALSE,398,vanguje99c_NYK_1996_2002
+New York Knicks,NYK,2002,2,D. Chaney,chanedo01c,20,43,63,TRUE,399,chanedo01c_NYK_2002_2004
+New York Knicks,NYK,2003,1,D. Chaney,chanedo01c,37,45,82,FALSE,399,chanedo01c_NYK_2002_2004
+New York Knicks,NYK,2004,1,D. Chaney,chanedo01c,15,24,39,FALSE,399,chanedo01c_NYK_2002_2004
+New York Knicks,NYK,2004,2,H. Williams,willihe01c,1,0,1,TRUE,400,willihe01c_NYK_2004_2004
+New York Knicks,NYK,2004,3,L. Wilkens,wilkele01c,23,19,42,TRUE,401,wilkele01c_NYK_2004_2005
+New York Knicks,NYK,2005,1,L. Wilkens,wilkele01c,17,22,39,FALSE,401,wilkele01c_NYK_2004_2005
+New York Knicks,NYK,2005,2,H. Williams,willihe01c,16,27,43,TRUE,402,willihe01c_NYK_2005_2005
+New York Knicks,NYK,2006,1,L. Brown,brownla01c,23,59,82,TRUE,403,brownla01c_NYK_2006_2006
+New York Knicks,NYK,2007,1,I. Thomas,thomais01c,33,49,82,TRUE,404,thomais01c_NYK_2007_2008
+New York Knicks,NYK,2008,1,I. Thomas,thomais01c,23,59,82,FALSE,404,thomais01c_NYK_2007_2008
+New York Knicks,NYK,2009,1,M. D'Antoni,dantomi01c,32,50,82,TRUE,405,dantomi01c_NYK_2009_2012
+New York Knicks,NYK,2010,1,M. D'Antoni,dantomi01c,29,53,82,FALSE,405,dantomi01c_NYK_2009_2012
+New York Knicks,NYK,2011,1,M. D'Antoni,dantomi01c,42,40,82,FALSE,405,dantomi01c_NYK_2009_2012
+New York Knicks,NYK,2012,1,M. D'Antoni,dantomi01c,18,24,42,FALSE,405,dantomi01c_NYK_2009_2012
+New York Knicks,NYK,2012,2,M. Woodson,woodsmi01c,18,6,24,TRUE,406,woodsmi01c_NYK_2012_2014
+New York Knicks,NYK,2013,1,M. Woodson,woodsmi01c,54,28,82,FALSE,406,woodsmi01c_NYK_2012_2014
+New York Knicks,NYK,2014,1,M. Woodson,woodsmi01c,37,45,82,FALSE,406,woodsmi01c_NYK_2012_2014
+New York Knicks,NYK,2015,1,D. Fisher,fishede01c,17,65,82,TRUE,407,fishede01c_NYK_2015_2016
+New York Knicks,NYK,2016,1,D. Fisher,fishede01c,23,31,54,FALSE,407,fishede01c_NYK_2015_2016
+New York Knicks,NYK,2016,2,K. Rambis,rambiku01c,9,19,28,TRUE,408,rambiku01c_NYK_2016_2016
+New York Knicks,NYK,2017,1,J. Hornacek,hornaje01c,31,51,82,TRUE,409,hornaje01c_NYK_2017_2018
+New York Knicks,NYK,2018,1,J. Hornacek,hornaje01c,29,53,82,FALSE,409,hornaje01c_NYK_2017_2018
+New York Knicks,NYK,2019,1,D. Fizdale,fizdada01c,17,65,82,TRUE,410,fizdada01c_NYK_2019_2020
+New York Knicks,NYK,2020,1,D. Fizdale,fizdada01c,4,18,22,FALSE,410,fizdada01c_NYK_2019_2020
+New York Knicks,NYK,2020,2,M. Miller,millemi99c,17,27,44,TRUE,411,millemi99c_NYK_2020_2020
+Oklahoma City Thunder,OKC,1968,1,A. Bianchi,biancal01c,23,59,82,TRUE,412,biancal01c_OKC_1968_1969
+Oklahoma City Thunder,OKC,1969,1,A. Bianchi,biancal01c,30,52,82,FALSE,412,biancal01c_OKC_1968_1969
+Oklahoma City Thunder,OKC,1970,1,L. Wilkens,wilkele01c,36,46,82,TRUE,413,wilkele01c_OKC_1970_1972
+Oklahoma City Thunder,OKC,1971,1,L. Wilkens,wilkele01c,38,44,82,FALSE,413,wilkele01c_OKC_1970_1972
+Oklahoma City Thunder,OKC,1972,1,L. Wilkens,wilkele01c,47,35,82,FALSE,413,wilkele01c_OKC_1970_1972
+Oklahoma City Thunder,OKC,1973,1,T. Nissalke,nissato99c,13,32,45,TRUE,414,nissato99c_OKC_1973_1973
+Oklahoma City Thunder,OKC,1973,2,B. Buckwalter,buckwbu99c,13,24,37,TRUE,415,buckwbu99c_OKC_1973_1973
+Oklahoma City Thunder,OKC,1974,1,B. Russell,russebi01c,36,46,82,TRUE,416,russebi01c_OKC_1974_1977
+Oklahoma City Thunder,OKC,1975,1,B. Russell,russebi01c,43,39,82,FALSE,416,russebi01c_OKC_1974_1977
+Oklahoma City Thunder,OKC,1976,1,B. Russell,russebi01c,43,39,82,FALSE,416,russebi01c_OKC_1974_1977
+Oklahoma City Thunder,OKC,1977,1,B. Russell,russebi01c,40,42,82,FALSE,416,russebi01c_OKC_1974_1977
+Oklahoma City Thunder,OKC,1978,1,B. Hopkins,hopkibo01c,5,17,22,TRUE,417,hopkibo01c_OKC_1978_1978
+Oklahoma City Thunder,OKC,1978,2,L. Wilkens,wilkele01c,42,18,60,TRUE,418,wilkele01c_OKC_1978_1985
+Oklahoma City Thunder,OKC,1979,1,L. Wilkens,wilkele01c,52,30,82,FALSE,418,wilkele01c_OKC_1978_1985
+Oklahoma City Thunder,OKC,1980,1,L. Wilkens,wilkele01c,56,26,82,FALSE,418,wilkele01c_OKC_1978_1985
+Oklahoma City Thunder,OKC,1981,1,L. Wilkens,wilkele01c,34,48,82,FALSE,418,wilkele01c_OKC_1978_1985
+Oklahoma City Thunder,OKC,1982,1,L. Wilkens,wilkele01c,52,30,82,FALSE,418,wilkele01c_OKC_1978_1985
+Oklahoma City Thunder,OKC,1983,1,L. Wilkens,wilkele01c,48,34,82,FALSE,418,wilkele01c_OKC_1978_1985
+Oklahoma City Thunder,OKC,1984,1,L. Wilkens,wilkele01c,42,40,82,FALSE,418,wilkele01c_OKC_1978_1985
+Oklahoma City Thunder,OKC,1985,1,L. Wilkens,wilkele01c,31,51,82,FALSE,418,wilkele01c_OKC_1978_1985
+Oklahoma City Thunder,OKC,1986,1,B. Bickerstaff,bickebe99c,31,51,82,TRUE,419,bickebe99c_OKC_1986_1990
+Oklahoma City Thunder,OKC,1987,1,B. Bickerstaff,bickebe99c,39,43,82,FALSE,419,bickebe99c_OKC_1986_1990
+Oklahoma City Thunder,OKC,1988,1,B. Bickerstaff,bickebe99c,44,38,82,FALSE,419,bickebe99c_OKC_1986_1990
+Oklahoma City Thunder,OKC,1989,1,B. Bickerstaff,bickebe99c,47,35,82,FALSE,419,bickebe99c_OKC_1986_1990
+Oklahoma City Thunder,OKC,1990,1,B. Bickerstaff,bickebe99c,41,41,82,FALSE,419,bickebe99c_OKC_1986_1990
+Oklahoma City Thunder,OKC,1991,1,K. Jones,joneskc01c,41,41,82,TRUE,420,joneskc01c_OKC_1991_1992
+Oklahoma City Thunder,OKC,1992,1,K. Jones,joneskc01c,18,18,36,FALSE,420,joneskc01c_OKC_1991_1992
+Oklahoma City Thunder,OKC,1992,2,B. Kloppenburg,kloppbo99c,2,2,4,TRUE,421,kloppbo99c_OKC_1992_1992
+Oklahoma City Thunder,OKC,1992,3,G. Karl,karlge01c,27,15,42,TRUE,422,karlge01c_OKC_1992_1998
+Oklahoma City Thunder,OKC,1993,1,G. Karl,karlge01c,55,27,82,FALSE,422,karlge01c_OKC_1992_1998
+Oklahoma City Thunder,OKC,1994,1,G. Karl,karlge01c,63,19,82,FALSE,422,karlge01c_OKC_1992_1998
+Oklahoma City Thunder,OKC,1995,1,G. Karl,karlge01c,57,25,82,FALSE,422,karlge01c_OKC_1992_1998
+Oklahoma City Thunder,OKC,1996,1,G. Karl,karlge01c,64,18,82,FALSE,422,karlge01c_OKC_1992_1998
+Oklahoma City Thunder,OKC,1997,1,G. Karl,karlge01c,57,25,82,FALSE,422,karlge01c_OKC_1992_1998
+Oklahoma City Thunder,OKC,1998,1,G. Karl,karlge01c,61,21,82,FALSE,422,karlge01c_OKC_1992_1998
+Oklahoma City Thunder,OKC,1999,1,P. Westphal,westppa01c,25,25,50,TRUE,423,westppa01c_OKC_1999_2001
+Oklahoma City Thunder,OKC,2000,1,P. Westphal,westppa01c,45,37,82,FALSE,423,westppa01c_OKC_1999_2001
+Oklahoma City Thunder,OKC,2001,1,P. Westphal,westppa01c,6,9,15,FALSE,423,westppa01c_OKC_1999_2001
+Oklahoma City Thunder,OKC,2001,2,N. McMillan,mcmilna01c,38,29,67,TRUE,424,mcmilna01c_OKC_2001_2005
+Oklahoma City Thunder,OKC,2002,1,N. McMillan,mcmilna01c,45,37,82,FALSE,424,mcmilna01c_OKC_2001_2005
+Oklahoma City Thunder,OKC,2003,1,N. McMillan,mcmilna01c,40,42,82,FALSE,424,mcmilna01c_OKC_2001_2005
+Oklahoma City Thunder,OKC,2004,1,N. McMillan,mcmilna01c,37,45,82,FALSE,424,mcmilna01c_OKC_2001_2005
+Oklahoma City Thunder,OKC,2005,1,N. McMillan,mcmilna01c,52,30,82,FALSE,424,mcmilna01c_OKC_2001_2005
+Oklahoma City Thunder,OKC,2006,1,B. Weiss,weissbo01c,13,17,30,TRUE,425,weissbo01c_OKC_2006_2006
+Oklahoma City Thunder,OKC,2006,2,B. Hill,hillbo99c,22,30,52,TRUE,426,hillbo99c_OKC_2006_2007
+Oklahoma City Thunder,OKC,2007,1,B. Hill,hillbo99c,31,51,82,FALSE,426,hillbo99c_OKC_2006_2007
+Oklahoma City Thunder,OKC,2008,1,P. Carlesimo,carlepj99c,20,62,82,TRUE,427,carlepj99c_OKC_2008_2009
+Oklahoma City Thunder,OKC,2009,1,P. Carlesimo,carlepj99c,1,12,13,FALSE,427,carlepj99c_OKC_2008_2009
+Oklahoma City Thunder,OKC,2009,2,S. Brooks,brooksc01c,22,47,69,TRUE,428,brooksc01c_OKC_2009_2015
+Oklahoma City Thunder,OKC,2010,1,S. Brooks,brooksc01c,50,32,82,FALSE,428,brooksc01c_OKC_2009_2015
+Oklahoma City Thunder,OKC,2011,1,S. Brooks,brooksc01c,55,27,82,FALSE,428,brooksc01c_OKC_2009_2015
+Oklahoma City Thunder,OKC,2012,1,S. Brooks,brooksc01c,47,19,66,FALSE,428,brooksc01c_OKC_2009_2015
+Oklahoma City Thunder,OKC,2013,1,S. Brooks,brooksc01c,60,22,82,FALSE,428,brooksc01c_OKC_2009_2015
+Oklahoma City Thunder,OKC,2014,1,S. Brooks,brooksc01c,59,23,82,FALSE,428,brooksc01c_OKC_2009_2015
+Oklahoma City Thunder,OKC,2015,1,S. Brooks,brooksc01c,45,37,82,FALSE,428,brooksc01c_OKC_2009_2015
+Oklahoma City Thunder,OKC,2016,1,B. Donovan,donovbi99c,55,27,82,TRUE,429,donovbi99c_OKC_2016_2020
+Oklahoma City Thunder,OKC,2017,1,B. Donovan,donovbi99c,47,35,82,FALSE,429,donovbi99c_OKC_2016_2020
+Oklahoma City Thunder,OKC,2018,1,B. Donovan,donovbi99c,48,34,82,FALSE,429,donovbi99c_OKC_2016_2020
+Oklahoma City Thunder,OKC,2019,1,B. Donovan,donovbi99c,49,33,82,FALSE,429,donovbi99c_OKC_2016_2020
+Oklahoma City Thunder,OKC,2020,1,B. Donovan,donovbi99c,40,24,64,FALSE,429,donovbi99c_OKC_2016_2020
+Orlando Magic,ORL,1990,1,M. Guokas,guokama02c,18,64,82,TRUE,430,guokama02c_ORL_1990_1993
+Orlando Magic,ORL,1991,1,M. Guokas,guokama02c,31,51,82,FALSE,430,guokama02c_ORL_1990_1993
+Orlando Magic,ORL,1992,1,M. Guokas,guokama02c,21,61,82,FALSE,430,guokama02c_ORL_1990_1993
+Orlando Magic,ORL,1993,1,M. Guokas,guokama02c,41,41,82,FALSE,430,guokama02c_ORL_1990_1993
+Orlando Magic,ORL,1994,1,B. Hill,hillbr99c,50,32,82,TRUE,431,hillbr99c_ORL_1994_1997
+Orlando Magic,ORL,1995,1,B. Hill,hillbr99c,57,25,82,FALSE,431,hillbr99c_ORL_1994_1997
+Orlando Magic,ORL,1996,1,B. Hill,hillbr99c,60,22,82,FALSE,431,hillbr99c_ORL_1994_1997
+Orlando Magic,ORL,1997,1,B. Hill,hillbr99c,24,25,49,FALSE,431,hillbr99c_ORL_1994_1997
+Orlando Magic,ORL,1997,2,R. Adubato,adubari99c,21,12,33,TRUE,432,adubari99c_ORL_1997_1997
+Orlando Magic,ORL,1998,1,C. Daly,dalych99c,41,41,82,TRUE,433,dalych99c_ORL_1998_1999
+Orlando Magic,ORL,1999,1,C. Daly,dalych99c,33,17,50,FALSE,433,dalych99c_ORL_1998_1999
+Orlando Magic,ORL,2000,1,D. Rivers,riverdo01c,41,41,82,TRUE,434,riverdo01c_ORL_2000_2004
+Orlando Magic,ORL,2001,1,D. Rivers,riverdo01c,43,39,82,FALSE,434,riverdo01c_ORL_2000_2004
+Orlando Magic,ORL,2002,1,D. Rivers,riverdo01c,44,38,82,FALSE,434,riverdo01c_ORL_2000_2004
+Orlando Magic,ORL,2003,1,D. Rivers,riverdo01c,42,40,82,FALSE,434,riverdo01c_ORL_2000_2004
+Orlando Magic,ORL,2004,1,D. Rivers,riverdo01c,1,10,11,FALSE,434,riverdo01c_ORL_2000_2004
+Orlando Magic,ORL,2004,2,J. Davis,davisjo01c,20,51,71,TRUE,435,davisjo01c_ORL_2004_2005
+Orlando Magic,ORL,2005,1,J. Davis,davisjo01c,31,33,64,FALSE,435,davisjo01c_ORL_2004_2005
+Orlando Magic,ORL,2005,2,C. Jent,jentch01c,5,13,18,TRUE,436,jentch01c_ORL_2005_2005
+Orlando Magic,ORL,2006,1,B. Hill,hillbr99c,36,46,82,TRUE,437,hillbr99c_ORL_2006_2007
+Orlando Magic,ORL,2007,1,B. Hill,hillbr99c,40,42,82,FALSE,437,hillbr99c_ORL_2006_2007
+Orlando Magic,ORL,2008,1,S. Van Gundy,vangust99c,52,30,82,TRUE,438,vangust99c_ORL_2008_2012
+Orlando Magic,ORL,2009,1,S. Van Gundy,vangust99c,59,23,82,FALSE,438,vangust99c_ORL_2008_2012
+Orlando Magic,ORL,2010,1,S. Van Gundy,vangust99c,59,23,82,FALSE,438,vangust99c_ORL_2008_2012
+Orlando Magic,ORL,2011,1,S. Van Gundy,vangust99c,52,30,82,FALSE,438,vangust99c_ORL_2008_2012
+Orlando Magic,ORL,2012,1,S. Van Gundy,vangust99c,37,29,66,FALSE,438,vangust99c_ORL_2008_2012
+Orlando Magic,ORL,2013,1,J. Vaughn,vaughja01c,20,62,82,TRUE,439,vaughja01c_ORL_2013_2015
+Orlando Magic,ORL,2014,1,J. Vaughn,vaughja01c,23,59,82,FALSE,439,vaughja01c_ORL_2013_2015
+Orlando Magic,ORL,2015,1,J. Vaughn,vaughja01c,15,37,52,FALSE,439,vaughja01c_ORL_2013_2015
+Orlando Magic,ORL,2015,2,J. Borrego,borreja99c,10,20,30,TRUE,440,borreja99c_ORL_2015_2015
+Orlando Magic,ORL,2016,1,S. Skiles,skilesc01c,35,47,82,TRUE,441,skilesc01c_ORL_2016_2016
+Orlando Magic,ORL,2017,1,F. Vogel,vogelfr99c,29,53,82,TRUE,442,vogelfr99c_ORL_2017_2018
+Orlando Magic,ORL,2018,1,F. Vogel,vogelfr99c,25,57,82,FALSE,442,vogelfr99c_ORL_2017_2018
+Orlando Magic,ORL,2019,1,S. Clifford,cliffst99c,42,40,82,TRUE,443,cliffst99c_ORL_2019_2020
+Orlando Magic,ORL,2020,1,S. Clifford,cliffst99c,30,35,65,FALSE,443,cliffst99c_ORL_2019_2020
+Philadelphia 76ers,PHI,1950,1,A. Cervi,cervial01c,51,13,64,TRUE,444,cervial01c_PHI_1950_1957
+Philadelphia 76ers,PHI,1951,1,A. Cervi,cervial01c,32,34,66,FALSE,444,cervial01c_PHI_1950_1957
+Philadelphia 76ers,PHI,1952,1,A. Cervi,cervial01c,40,26,66,FALSE,444,cervial01c_PHI_1950_1957
+Philadelphia 76ers,PHI,1953,1,A. Cervi,cervial01c,47,24,71,FALSE,444,cervial01c_PHI_1950_1957
+Philadelphia 76ers,PHI,1954,1,A. Cervi,cervial01c,42,30,72,FALSE,444,cervial01c_PHI_1950_1957
+Philadelphia 76ers,PHI,1955,1,A. Cervi,cervial01c,43,29,72,FALSE,444,cervial01c_PHI_1950_1957
+Philadelphia 76ers,PHI,1956,1,A. Cervi,cervial01c,35,37,72,FALSE,444,cervial01c_PHI_1950_1957
+Philadelphia 76ers,PHI,1957,1,A. Cervi,cervial01c,4,8,12,FALSE,444,cervial01c_PHI_1950_1957
+Philadelphia 76ers,PHI,1957,2,P. Seymour,seymopa01c,34,26,60,TRUE,445,seymopa01c_PHI_1957_1960
+Philadelphia 76ers,PHI,1958,1,P. Seymour,seymopa01c,41,31,72,FALSE,445,seymopa01c_PHI_1957_1960
+Philadelphia 76ers,PHI,1959,1,P. Seymour,seymopa01c,35,37,72,FALSE,445,seymopa01c_PHI_1957_1960
+Philadelphia 76ers,PHI,1960,1,P. Seymour,seymopa01c,45,30,75,FALSE,445,seymopa01c_PHI_1957_1960
+Philadelphia 76ers,PHI,1961,1,A. Hannum,hannual01c,38,41,79,TRUE,446,hannual01c_PHI_1961_1963
+Philadelphia 76ers,PHI,1962,1,A. Hannum,hannual01c,41,39,80,FALSE,446,hannual01c_PHI_1961_1963
+Philadelphia 76ers,PHI,1963,1,A. Hannum,hannual01c,48,32,80,FALSE,446,hannual01c_PHI_1961_1963
+Philadelphia 76ers,PHI,1964,1,D. Schayes,schaydo01c,34,46,80,TRUE,447,schaydo01c_PHI_1964_1966
+Philadelphia 76ers,PHI,1965,1,D. Schayes,schaydo01c,40,40,80,FALSE,447,schaydo01c_PHI_1964_1966
+Philadelphia 76ers,PHI,1966,1,D. Schayes,schaydo01c,55,25,80,FALSE,447,schaydo01c_PHI_1964_1966
+Philadelphia 76ers,PHI,1967,1,A. Hannum,hannual01c,68,13,81,TRUE,448,hannual01c_PHI_1967_1968
+Philadelphia 76ers,PHI,1968,1,A. Hannum,hannual01c,62,20,82,FALSE,448,hannual01c_PHI_1967_1968
+Philadelphia 76ers,PHI,1969,1,J. Ramsay,ramsaja99c,55,27,82,TRUE,449,ramsaja99c_PHI_1969_1972
+Philadelphia 76ers,PHI,1970,1,J. Ramsay,ramsaja99c,42,40,82,FALSE,449,ramsaja99c_PHI_1969_1972
+Philadelphia 76ers,PHI,1971,1,J. Ramsay,ramsaja99c,47,35,82,FALSE,449,ramsaja99c_PHI_1969_1972
+Philadelphia 76ers,PHI,1972,1,J. Ramsay,ramsaja99c,30,52,82,FALSE,449,ramsaja99c_PHI_1969_1972
+Philadelphia 76ers,PHI,1973,1,R. Rubin,rubinro99c,4,47,51,TRUE,450,rubinro99c_PHI_1973_1973
+Philadelphia 76ers,PHI,1973,2,K. Loughery,loughke01c,5,26,31,TRUE,451,loughke01c_PHI_1973_1973
+Philadelphia 76ers,PHI,1974,1,G. Shue,shuege01c,25,57,82,TRUE,452,shuege01c_PHI_1974_1978
+Philadelphia 76ers,PHI,1975,1,G. Shue,shuege01c,34,48,82,FALSE,452,shuege01c_PHI_1974_1978
+Philadelphia 76ers,PHI,1976,1,G. Shue,shuege01c,46,36,82,FALSE,452,shuege01c_PHI_1974_1978
+Philadelphia 76ers,PHI,1977,1,G. Shue,shuege01c,50,32,82,FALSE,452,shuege01c_PHI_1974_1978
+Philadelphia 76ers,PHI,1978,1,G. Shue,shuege01c,2,4,6,FALSE,452,shuege01c_PHI_1974_1978
+Philadelphia 76ers,PHI,1978,2,B. Cunningham,cunnibi01c,53,23,76,TRUE,453,cunnibi01c_PHI_1978_1985
+Philadelphia 76ers,PHI,1979,1,B. Cunningham,cunnibi01c,47,35,82,FALSE,453,cunnibi01c_PHI_1978_1985
+Philadelphia 76ers,PHI,1980,1,B. Cunningham,cunnibi01c,59,23,82,FALSE,453,cunnibi01c_PHI_1978_1985
+Philadelphia 76ers,PHI,1981,1,B. Cunningham,cunnibi01c,62,20,82,FALSE,453,cunnibi01c_PHI_1978_1985
+Philadelphia 76ers,PHI,1982,1,B. Cunningham,cunnibi01c,58,24,82,FALSE,453,cunnibi01c_PHI_1978_1985
+Philadelphia 76ers,PHI,1983,1,B. Cunningham,cunnibi01c,65,17,82,FALSE,453,cunnibi01c_PHI_1978_1985
+Philadelphia 76ers,PHI,1984,1,B. Cunningham,cunnibi01c,52,30,82,FALSE,453,cunnibi01c_PHI_1978_1985
+Philadelphia 76ers,PHI,1985,1,B. Cunningham,cunnibi01c,58,24,82,FALSE,453,cunnibi01c_PHI_1978_1985
+Philadelphia 76ers,PHI,1986,1,M. Guokas,guokama02c,54,28,82,TRUE,454,guokama02c_PHI_1986_1988
+Philadelphia 76ers,PHI,1987,1,M. Guokas,guokama02c,45,37,82,FALSE,454,guokama02c_PHI_1986_1988
+Philadelphia 76ers,PHI,1988,1,M. Guokas,guokama02c,20,23,43,FALSE,454,guokama02c_PHI_1986_1988
+Philadelphia 76ers,PHI,1988,2,J. Lynam,lynamji99c,16,23,39,TRUE,455,lynamji99c_PHI_1988_1992
+Philadelphia 76ers,PHI,1989,1,J. Lynam,lynamji99c,46,36,82,FALSE,455,lynamji99c_PHI_1988_1992
+Philadelphia 76ers,PHI,1990,1,J. Lynam,lynamji99c,53,29,82,FALSE,455,lynamji99c_PHI_1988_1992
+Philadelphia 76ers,PHI,1991,1,J. Lynam,lynamji99c,44,38,82,FALSE,455,lynamji99c_PHI_1988_1992
+Philadelphia 76ers,PHI,1992,1,J. Lynam,lynamji99c,35,47,82,FALSE,455,lynamji99c_PHI_1988_1992
+Philadelphia 76ers,PHI,1993,1,D. Moe,moedo01c,19,37,56,TRUE,456,moedo01c_PHI_1993_1993
+Philadelphia 76ers,PHI,1993,2,F. Carter,cartefr01c,7,19,26,TRUE,457,cartefr01c_PHI_1993_1994
+Philadelphia 76ers,PHI,1994,1,F. Carter,cartefr01c,25,57,82,FALSE,457,cartefr01c_PHI_1993_1994
+Philadelphia 76ers,PHI,1995,1,J. Lucas,lucasjo01c,24,58,82,TRUE,458,lucasjo01c_PHI_1995_1996
+Philadelphia 76ers,PHI,1996,1,J. Lucas,lucasjo01c,18,64,82,FALSE,458,lucasjo01c_PHI_1995_1996
+Philadelphia 76ers,PHI,1997,1,J. Davis,davisjo01c,22,60,82,TRUE,459,davisjo01c_PHI_1997_1997
+Philadelphia 76ers,PHI,1998,1,L. Brown,brownla01c,31,51,82,TRUE,460,brownla01c_PHI_1998_2003
+Philadelphia 76ers,PHI,1999,1,L. Brown,brownla01c,28,22,50,FALSE,460,brownla01c_PHI_1998_2003
+Philadelphia 76ers,PHI,2000,1,L. Brown,brownla01c,49,33,82,FALSE,460,brownla01c_PHI_1998_2003
+Philadelphia 76ers,PHI,2001,1,L. Brown,brownla01c,56,26,82,FALSE,460,brownla01c_PHI_1998_2003
+Philadelphia 76ers,PHI,2002,1,L. Brown,brownla01c,43,39,82,FALSE,460,brownla01c_PHI_1998_2003
+Philadelphia 76ers,PHI,2003,1,L. Brown,brownla01c,48,34,82,FALSE,460,brownla01c_PHI_1998_2003
+Philadelphia 76ers,PHI,2004,1,R. Ayers,ayersra99c,21,31,52,TRUE,461,ayersra99c_PHI_2004_2004
+Philadelphia 76ers,PHI,2004,2,C. Ford,fordch01c,12,18,30,TRUE,462,fordch01c_PHI_2004_2004
+Philadelphia 76ers,PHI,2005,1,J. O'Brien,obrieji99c,43,39,82,TRUE,463,obrieji99c_PHI_2005_2005
+Philadelphia 76ers,PHI,2006,1,M. Cheeks,cheekma01c,38,44,82,TRUE,464,cheekma01c_PHI_2006_2009
+Philadelphia 76ers,PHI,2007,1,M. Cheeks,cheekma01c,35,47,82,FALSE,464,cheekma01c_PHI_2006_2009
+Philadelphia 76ers,PHI,2008,1,M. Cheeks,cheekma01c,40,42,82,FALSE,464,cheekma01c_PHI_2006_2009
+Philadelphia 76ers,PHI,2009,1,M. Cheeks,cheekma01c,9,14,23,FALSE,464,cheekma01c_PHI_2006_2009
+Philadelphia 76ers,PHI,2009,2,T. DiLeo,dileoto99c,32,27,59,TRUE,465,dileoto99c_PHI_2009_2009
+Philadelphia 76ers,PHI,2010,1,E. Jordan,jordaed01c,27,55,82,TRUE,466,jordaed01c_PHI_2010_2010
+Philadelphia 76ers,PHI,2011,1,D. Collins,collido01c,41,41,82,TRUE,467,collido01c_PHI_2011_2013
+Philadelphia 76ers,PHI,2012,1,D. Collins,collido01c,35,31,66,FALSE,467,collido01c_PHI_2011_2013
+Philadelphia 76ers,PHI,2013,1,D. Collins,collido01c,34,48,82,FALSE,467,collido01c_PHI_2011_2013
+Philadelphia 76ers,PHI,2014,1,B. Brown,brownbr99c,19,63,82,TRUE,468,brownbr99c_PHI_2014_2020
+Philadelphia 76ers,PHI,2015,1,B. Brown,brownbr99c,18,64,82,FALSE,468,brownbr99c_PHI_2014_2020
+Philadelphia 76ers,PHI,2016,1,B. Brown,brownbr99c,10,72,82,FALSE,468,brownbr99c_PHI_2014_2020
+Philadelphia 76ers,PHI,2017,1,B. Brown,brownbr99c,28,54,82,FALSE,468,brownbr99c_PHI_2014_2020
+Philadelphia 76ers,PHI,2018,1,B. Brown,brownbr99c,52,30,82,FALSE,468,brownbr99c_PHI_2014_2020
+Philadelphia 76ers,PHI,2019,1,B. Brown,brownbr99c,51,31,82,FALSE,468,brownbr99c_PHI_2014_2020
+Philadelphia 76ers,PHI,2020,1,B. Brown,brownbr99c,39,26,65,FALSE,468,brownbr99c_PHI_2014_2020
+Phoenix Suns,PHO,1969,1,R. Kerr,kerrre01c,16,66,82,TRUE,469,kerrre01c_PHO_1969_1970
+Phoenix Suns,PHO,1970,1,R. Kerr,kerrre01c,15,23,38,FALSE,469,kerrre01c_PHO_1969_1970
+Phoenix Suns,PHO,1970,2,J. Colangelo,colanje99c,24,20,44,TRUE,470,colanje99c_PHO_1970_1970
+Phoenix Suns,PHO,1971,1,C. Fitzsimmons,fitzsco99c,48,34,82,TRUE,471,fitzsco99c_PHO_1971_1972
+Phoenix Suns,PHO,1972,1,C. Fitzsimmons,fitzsco99c,49,33,82,FALSE,471,fitzsco99c_PHO_1971_1972
+Phoenix Suns,PHO,1973,1,B. van Breda Kolff,vanbrbu01c,3,4,7,TRUE,472,vanbrbu01c_PHO_1973_1973
+Phoenix Suns,PHO,1973,2,J. Colangelo,colanje99c,35,40,75,TRUE,473,colanje99c_PHO_1973_1973
+Phoenix Suns,PHO,1974,1,J. MacLeod,maclejo99c,30,52,82,TRUE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1975,1,J. MacLeod,maclejo99c,32,50,82,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1976,1,J. MacLeod,maclejo99c,42,40,82,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1977,1,J. MacLeod,maclejo99c,34,48,82,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1978,1,J. MacLeod,maclejo99c,49,33,82,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1979,1,J. MacLeod,maclejo99c,50,32,82,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1980,1,J. MacLeod,maclejo99c,55,27,82,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1981,1,J. MacLeod,maclejo99c,57,25,82,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1982,1,J. MacLeod,maclejo99c,46,36,82,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1983,1,J. MacLeod,maclejo99c,53,29,82,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1984,1,J. MacLeod,maclejo99c,41,41,82,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1985,1,J. MacLeod,maclejo99c,36,46,82,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1986,1,J. MacLeod,maclejo99c,32,50,82,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1987,1,J. MacLeod,maclejo99c,22,34,56,FALSE,474,maclejo99c_PHO_1974_1987
+Phoenix Suns,PHO,1987,2,D. Van Arsdale,vanardi01c,14,12,26,TRUE,475,vanardi01c_PHO_1987_1987
+Phoenix Suns,PHO,1988,1,J. Wetzel,wetzejo01c,28,54,82,TRUE,476,wetzejo01c_PHO_1988_1988
+Phoenix Suns,PHO,1989,1,C. Fitzsimmons,fitzsco99c,55,27,82,TRUE,477,fitzsco99c_PHO_1989_1992
+Phoenix Suns,PHO,1990,1,C. Fitzsimmons,fitzsco99c,54,28,82,FALSE,477,fitzsco99c_PHO_1989_1992
+Phoenix Suns,PHO,1991,1,C. Fitzsimmons,fitzsco99c,55,27,82,FALSE,477,fitzsco99c_PHO_1989_1992
+Phoenix Suns,PHO,1992,1,C. Fitzsimmons,fitzsco99c,53,29,82,FALSE,477,fitzsco99c_PHO_1989_1992
+Phoenix Suns,PHO,1993,1,P. Westphal,westppa01c,62,20,82,TRUE,478,westppa01c_PHO_1993_1996
+Phoenix Suns,PHO,1994,1,P. Westphal,westppa01c,56,26,82,FALSE,478,westppa01c_PHO_1993_1996
+Phoenix Suns,PHO,1995,1,P. Westphal,westppa01c,59,23,82,FALSE,478,westppa01c_PHO_1993_1996
+Phoenix Suns,PHO,1996,1,P. Westphal,westppa01c,14,19,33,FALSE,478,westppa01c_PHO_1993_1996
+Phoenix Suns,PHO,1996,2,C. Fitzsimmons,fitzsco99c,27,22,49,TRUE,479,fitzsco99c_PHO_1996_1997
+Phoenix Suns,PHO,1997,1,C. Fitzsimmons,fitzsco99c,0,8,8,FALSE,479,fitzsco99c_PHO_1996_1997
+Phoenix Suns,PHO,1997,2,D. Ainge,aingeda01c,40,34,74,TRUE,480,aingeda01c_PHO_1997_2000
+Phoenix Suns,PHO,1998,1,D. Ainge,aingeda01c,56,26,82,FALSE,480,aingeda01c_PHO_1997_2000
+Phoenix Suns,PHO,1999,1,D. Ainge,aingeda01c,27,23,50,FALSE,480,aingeda01c_PHO_1997_2000
+Phoenix Suns,PHO,2000,1,D. Ainge,aingeda01c,13,7,20,FALSE,480,aingeda01c_PHO_1997_2000
+Phoenix Suns,PHO,2000,2,S. Skiles,skilesc01c,40,22,62,TRUE,481,skilesc01c_PHO_2000_2002
+Phoenix Suns,PHO,2001,1,S. Skiles,skilesc01c,51,31,82,FALSE,481,skilesc01c_PHO_2000_2002
+Phoenix Suns,PHO,2002,1,S. Skiles,skilesc01c,25,26,51,FALSE,481,skilesc01c_PHO_2000_2002
+Phoenix Suns,PHO,2002,2,F. Johnson,johnsfr01c,11,20,31,TRUE,482,johnsfr01c_PHO_2002_2004
+Phoenix Suns,PHO,2003,1,F. Johnson,johnsfr01c,44,38,82,FALSE,482,johnsfr01c_PHO_2002_2004
+Phoenix Suns,PHO,2004,1,F. Johnson,johnsfr01c,8,13,21,FALSE,482,johnsfr01c_PHO_2002_2004
+Phoenix Suns,PHO,2004,2,M. D'Antoni,dantomi01c,21,40,61,TRUE,483,dantomi01c_PHO_2004_2008
+Phoenix Suns,PHO,2005,1,M. D'Antoni,dantomi01c,62,20,82,FALSE,483,dantomi01c_PHO_2004_2008
+Phoenix Suns,PHO,2006,1,M. D'Antoni,dantomi01c,54,28,82,FALSE,483,dantomi01c_PHO_2004_2008
+Phoenix Suns,PHO,2007,1,M. D'Antoni,dantomi01c,61,21,82,FALSE,483,dantomi01c_PHO_2004_2008
+Phoenix Suns,PHO,2008,1,M. D'Antoni,dantomi01c,55,27,82,FALSE,483,dantomi01c_PHO_2004_2008
+Phoenix Suns,PHO,2009,1,T. Porter,portete01c,28,23,51,TRUE,484,portete01c_PHO_2009_2009
+Phoenix Suns,PHO,2009,2,A. Gentry,gentral99c,18,13,31,TRUE,485,gentral99c_PHO_2009_2013
+Phoenix Suns,PHO,2010,1,A. Gentry,gentral99c,54,28,82,FALSE,485,gentral99c_PHO_2009_2013
+Phoenix Suns,PHO,2011,1,A. Gentry,gentral99c,40,42,82,FALSE,485,gentral99c_PHO_2009_2013
+Phoenix Suns,PHO,2012,1,A. Gentry,gentral99c,33,33,66,FALSE,485,gentral99c_PHO_2009_2013
+Phoenix Suns,PHO,2013,1,A. Gentry,gentral99c,13,28,41,FALSE,485,gentral99c_PHO_2009_2013
+Phoenix Suns,PHO,2013,2,L. Hunter,hunteli01c,12,29,41,TRUE,486,hunteli01c_PHO_2013_2013
+Phoenix Suns,PHO,2014,1,J. Hornacek,hornaje01c,48,34,82,TRUE,487,hornaje01c_PHO_2014_2016
+Phoenix Suns,PHO,2015,1,J. Hornacek,hornaje01c,39,43,82,FALSE,487,hornaje01c_PHO_2014_2016
+Phoenix Suns,PHO,2016,1,J. Hornacek,hornaje01c,14,35,49,FALSE,487,hornaje01c_PHO_2014_2016
+Phoenix Suns,PHO,2016,2,E. Watson,watsoea01c,9,24,33,TRUE,488,watsoea01c_PHO_2016_2018
+Phoenix Suns,PHO,2017,1,E. Watson,watsoea01c,24,58,82,FALSE,488,watsoea01c_PHO_2016_2018
+Phoenix Suns,PHO,2018,1,E. Watson,watsoea01c,0,3,3,FALSE,488,watsoea01c_PHO_2016_2018
+Phoenix Suns,PHO,2018,2,J. Triano,trianja99c,21,58,79,TRUE,489,trianja99c_PHO_2018_2018
+Phoenix Suns,PHO,2019,1,I. Kokoskov,kokosig01c,19,63,82,TRUE,490,kokosig01c_PHO_2019_2019
+Phoenix Suns,PHO,2020,1,M. Williams,willimo01c,26,39,65,TRUE,491,willimo01c_PHO_2020_2020
+Portland Trail Blazers,POR,1971,1,R. Todd,toddro99c,29,53,82,TRUE,492,toddro99c_POR_1971_1972
+Portland Trail Blazers,POR,1972,1,R. Todd,toddro99c,12,44,56,FALSE,492,toddro99c_POR_1971_1972
+Portland Trail Blazers,POR,1972,2,S. Inman,inmanst99c,6,20,26,TRUE,493,inmanst99c_POR_1972_1972
+Portland Trail Blazers,POR,1973,1,J. McCloskey,mccloja01d,21,61,82,TRUE,494,mccloja01d_POR_1973_1974
+Portland Trail Blazers,POR,1974,1,J. McCloskey,mccloja01d,27,55,82,FALSE,494,mccloja01d_POR_1973_1974
+Portland Trail Blazers,POR,1975,1,L. Wilkens,wilkele01c,38,44,82,TRUE,495,wilkele01c_POR_1975_1976
+Portland Trail Blazers,POR,1976,1,L. Wilkens,wilkele01c,37,45,82,FALSE,495,wilkele01c_POR_1975_1976
+Portland Trail Blazers,POR,1977,1,J. Ramsay,ramsaja99c,49,33,82,TRUE,496,ramsaja99c_POR_1977_1986
+Portland Trail Blazers,POR,1978,1,J. Ramsay,ramsaja99c,58,24,82,FALSE,496,ramsaja99c_POR_1977_1986
+Portland Trail Blazers,POR,1979,1,J. Ramsay,ramsaja99c,45,37,82,FALSE,496,ramsaja99c_POR_1977_1986
+Portland Trail Blazers,POR,1980,1,J. Ramsay,ramsaja99c,38,44,82,FALSE,496,ramsaja99c_POR_1977_1986
+Portland Trail Blazers,POR,1981,1,J. Ramsay,ramsaja99c,45,37,82,FALSE,496,ramsaja99c_POR_1977_1986
+Portland Trail Blazers,POR,1982,1,J. Ramsay,ramsaja99c,42,40,82,FALSE,496,ramsaja99c_POR_1977_1986
+Portland Trail Blazers,POR,1983,1,J. Ramsay,ramsaja99c,46,36,82,FALSE,496,ramsaja99c_POR_1977_1986
+Portland Trail Blazers,POR,1984,1,J. Ramsay,ramsaja99c,48,34,82,FALSE,496,ramsaja99c_POR_1977_1986
+Portland Trail Blazers,POR,1985,1,J. Ramsay,ramsaja99c,42,40,82,FALSE,496,ramsaja99c_POR_1977_1986
+Portland Trail Blazers,POR,1986,1,J. Ramsay,ramsaja99c,40,42,82,FALSE,496,ramsaja99c_POR_1977_1986
+Portland Trail Blazers,POR,1987,1,M. Schuler,schulmi99c,49,33,82,TRUE,497,schulmi99c_POR_1987_1989
+Portland Trail Blazers,POR,1988,1,M. Schuler,schulmi99c,53,29,82,FALSE,497,schulmi99c_POR_1987_1989
+Portland Trail Blazers,POR,1989,1,M. Schuler,schulmi99c,25,22,47,FALSE,497,schulmi99c_POR_1987_1989
+Portland Trail Blazers,POR,1989,2,R. Adelman,adelmri01c,14,21,35,TRUE,498,adelmri01c_POR_1989_1994
+Portland Trail Blazers,POR,1990,1,R. Adelman,adelmri01c,59,23,82,FALSE,498,adelmri01c_POR_1989_1994
+Portland Trail Blazers,POR,1991,1,R. Adelman,adelmri01c,63,19,82,FALSE,498,adelmri01c_POR_1989_1994
+Portland Trail Blazers,POR,1992,1,R. Adelman,adelmri01c,57,25,82,FALSE,498,adelmri01c_POR_1989_1994
+Portland Trail Blazers,POR,1993,1,R. Adelman,adelmri01c,51,31,82,FALSE,498,adelmri01c_POR_1989_1994
+Portland Trail Blazers,POR,1994,1,R. Adelman,adelmri01c,47,35,82,FALSE,498,adelmri01c_POR_1989_1994
+Portland Trail Blazers,POR,1995,1,P. Carlesimo,carlepj99c,44,38,82,TRUE,499,carlepj99c_POR_1995_1997
+Portland Trail Blazers,POR,1996,1,P. Carlesimo,carlepj99c,44,38,82,FALSE,499,carlepj99c_POR_1995_1997
+Portland Trail Blazers,POR,1997,1,P. Carlesimo,carlepj99c,49,33,82,FALSE,499,carlepj99c_POR_1995_1997
+Portland Trail Blazers,POR,1998,1,M. Dunleavy,dunlemi01c,46,36,82,TRUE,500,dunlemi01c_POR_1998_2001
+Portland Trail Blazers,POR,1999,1,M. Dunleavy,dunlemi01c,35,15,50,FALSE,500,dunlemi01c_POR_1998_2001
+Portland Trail Blazers,POR,2000,1,M. Dunleavy,dunlemi01c,59,23,82,FALSE,500,dunlemi01c_POR_1998_2001
+Portland Trail Blazers,POR,2001,1,M. Dunleavy,dunlemi01c,50,32,82,FALSE,500,dunlemi01c_POR_1998_2001
+Portland Trail Blazers,POR,2002,1,M. Cheeks,cheekma01c,49,33,82,TRUE,501,cheekma01c_POR_2002_2005
+Portland Trail Blazers,POR,2003,1,M. Cheeks,cheekma01c,50,32,82,FALSE,501,cheekma01c_POR_2002_2005
+Portland Trail Blazers,POR,2004,1,M. Cheeks,cheekma01c,41,41,82,FALSE,501,cheekma01c_POR_2002_2005
+Portland Trail Blazers,POR,2005,1,M. Cheeks,cheekma01c,22,33,55,FALSE,501,cheekma01c_POR_2002_2005
+Portland Trail Blazers,POR,2005,2,K. Pritchard,pritcke01c,5,22,27,TRUE,502,pritcke01c_POR_2005_2005
+Portland Trail Blazers,POR,2006,1,N. McMillan,mcmilna01c,21,61,82,TRUE,503,mcmilna01c_POR_2006_2012
+Portland Trail Blazers,POR,2007,1,N. McMillan,mcmilna01c,32,50,82,FALSE,503,mcmilna01c_POR_2006_2012
+Portland Trail Blazers,POR,2008,1,N. McMillan,mcmilna01c,41,41,82,FALSE,503,mcmilna01c_POR_2006_2012
+Portland Trail Blazers,POR,2009,1,N. McMillan,mcmilna01c,54,28,82,FALSE,503,mcmilna01c_POR_2006_2012
+Portland Trail Blazers,POR,2010,1,N. McMillan,mcmilna01c,50,32,82,FALSE,503,mcmilna01c_POR_2006_2012
+Portland Trail Blazers,POR,2011,1,N. McMillan,mcmilna01c,48,34,82,FALSE,503,mcmilna01c_POR_2006_2012
+Portland Trail Blazers,POR,2012,1,N. McMillan,mcmilna01c,20,23,43,FALSE,503,mcmilna01c_POR_2006_2012
+Portland Trail Blazers,POR,2012,2,K. Canales,canalka99c,8,15,23,TRUE,504,canalka99c_POR_2012_2012
+Portland Trail Blazers,POR,2013,1,T. Stotts,stottte99c,33,49,82,TRUE,505,stottte99c_POR_2013_2020
+Portland Trail Blazers,POR,2014,1,T. Stotts,stottte99c,54,28,82,FALSE,505,stottte99c_POR_2013_2020
+Portland Trail Blazers,POR,2015,1,T. Stotts,stottte99c,51,31,82,FALSE,505,stottte99c_POR_2013_2020
+Portland Trail Blazers,POR,2016,1,T. Stotts,stottte99c,44,38,82,FALSE,505,stottte99c_POR_2013_2020
+Portland Trail Blazers,POR,2017,1,T. Stotts,stottte99c,41,41,82,FALSE,505,stottte99c_POR_2013_2020
+Portland Trail Blazers,POR,2018,1,T. Stotts,stottte99c,49,33,82,FALSE,505,stottte99c_POR_2013_2020
+Portland Trail Blazers,POR,2019,1,T. Stotts,stottte99c,53,29,82,FALSE,505,stottte99c_POR_2013_2020
+Portland Trail Blazers,POR,2020,1,T. Stotts,stottte99c,29,37,66,FALSE,505,stottte99c_POR_2013_2020
+Sacramento Kings,SAC,1949,1,L. Harrison,harrile99c,45,15,60,TRUE,506,harrile99c_SAC_1949_1955
+Sacramento Kings,SAC,1950,1,L. Harrison,harrile99c,51,17,68,FALSE,506,harrile99c_SAC_1949_1955
+Sacramento Kings,SAC,1951,1,L. Harrison,harrile99c,41,27,68,FALSE,506,harrile99c_SAC_1949_1955
+Sacramento Kings,SAC,1952,1,L. Harrison,harrile99c,41,25,66,FALSE,506,harrile99c_SAC_1949_1955
+Sacramento Kings,SAC,1953,1,L. Harrison,harrile99c,44,26,70,FALSE,506,harrile99c_SAC_1949_1955
+Sacramento Kings,SAC,1954,1,L. Harrison,harrile99c,44,28,72,FALSE,506,harrile99c_SAC_1949_1955
+Sacramento Kings,SAC,1955,1,L. Harrison,harrile99c,29,43,72,FALSE,506,harrile99c_SAC_1949_1955
+Sacramento Kings,SAC,1956,1,B. Wanzer,wanzebo01c,31,41,72,TRUE,507,wanzebo01c_SAC_1956_1959
+Sacramento Kings,SAC,1957,1,B. Wanzer,wanzebo01c,31,41,72,FALSE,507,wanzebo01c_SAC_1956_1959
+Sacramento Kings,SAC,1958,1,B. Wanzer,wanzebo01c,33,39,72,FALSE,507,wanzebo01c_SAC_1956_1959
+Sacramento Kings,SAC,1959,1,B. Wanzer,wanzebo01c,3,15,18,FALSE,507,wanzebo01c_SAC_1956_1959
+Sacramento Kings,SAC,1959,2,T. Marshall,marshto01c,16,38,54,TRUE,508,marshto01c_SAC_1959_1960
+Sacramento Kings,SAC,1960,1,T. Marshall,marshto01c,19,56,75,FALSE,508,marshto01c_SAC_1959_1960
+Sacramento Kings,SAC,1961,1,C. Wolf,wolfch99c,33,46,79,TRUE,509,wolfch99c_SAC_1961_1963
+Sacramento Kings,SAC,1962,1,C. Wolf,wolfch99c,43,37,80,FALSE,509,wolfch99c_SAC_1961_1963
+Sacramento Kings,SAC,1963,1,C. Wolf,wolfch99c,42,38,80,FALSE,509,wolfch99c_SAC_1961_1963
+Sacramento Kings,SAC,1964,1,J. McMahon,mcmahja01c,55,25,80,TRUE,510,mcmahja01c_SAC_1964_1967
+Sacramento Kings,SAC,1965,1,J. McMahon,mcmahja01c,48,32,80,FALSE,510,mcmahja01c_SAC_1964_1967
+Sacramento Kings,SAC,1966,1,J. McMahon,mcmahja01c,45,35,80,FALSE,510,mcmahja01c_SAC_1964_1967
+Sacramento Kings,SAC,1967,1,J. McMahon,mcmahja01c,39,42,81,FALSE,510,mcmahja01c_SAC_1964_1967
+Sacramento Kings,SAC,1968,1,E. Jucker,juckeed99c,39,43,82,TRUE,511,juckeed99c_SAC_1968_1969
+Sacramento Kings,SAC,1969,1,E. Jucker,juckeed99c,41,41,82,FALSE,511,juckeed99c_SAC_1968_1969
+Sacramento Kings,SAC,1970,1,B. Cousy,cousybo01c,36,46,82,TRUE,512,cousybo01c_SAC_1970_1974
+Sacramento Kings,SAC,1971,1,B. Cousy,cousybo01c,33,49,82,FALSE,512,cousybo01c_SAC_1970_1974
+Sacramento Kings,SAC,1972,1,B. Cousy,cousybo01c,30,52,82,FALSE,512,cousybo01c_SAC_1970_1974
+Sacramento Kings,SAC,1973,1,B. Cousy,cousybo01c,36,46,82,FALSE,512,cousybo01c_SAC_1970_1974
+Sacramento Kings,SAC,1974,1,B. Cousy,cousybo01c,6,14,20,FALSE,512,cousybo01c_SAC_1970_1974
+Sacramento Kings,SAC,1974,2,D. Young,youngdr99c,0,4,4,TRUE,513,youngdr99c_SAC_1974_1974
+Sacramento Kings,SAC,1974,3,P. Johnson,johnsph99c,27,31,58,TRUE,514,johnsph99c_SAC_1974_1978
+Sacramento Kings,SAC,1975,1,P. Johnson,johnsph99c,44,38,82,FALSE,514,johnsph99c_SAC_1974_1978
+Sacramento Kings,SAC,1976,1,P. Johnson,johnsph99c,31,51,82,FALSE,514,johnsph99c_SAC_1974_1978
+Sacramento Kings,SAC,1977,1,P. Johnson,johnsph99c,40,42,82,FALSE,514,johnsph99c_SAC_1974_1978
+Sacramento Kings,SAC,1978,1,P. Johnson,johnsph99c,13,24,37,FALSE,514,johnsph99c_SAC_1974_1978
+Sacramento Kings,SAC,1978,2,L. Staverman,stavela01c,18,27,45,TRUE,515,stavela01c_SAC_1978_1978
+Sacramento Kings,SAC,1979,1,C. Fitzsimmons,fitzsco99c,48,34,82,TRUE,516,fitzsco99c_SAC_1979_1984
+Sacramento Kings,SAC,1980,1,C. Fitzsimmons,fitzsco99c,47,35,82,FALSE,516,fitzsco99c_SAC_1979_1984
+Sacramento Kings,SAC,1981,1,C. Fitzsimmons,fitzsco99c,40,42,82,FALSE,516,fitzsco99c_SAC_1979_1984
+Sacramento Kings,SAC,1982,1,C. Fitzsimmons,fitzsco99c,30,52,82,FALSE,516,fitzsco99c_SAC_1979_1984
+Sacramento Kings,SAC,1983,1,C. Fitzsimmons,fitzsco99c,45,37,82,FALSE,516,fitzsco99c_SAC_1979_1984
+Sacramento Kings,SAC,1984,1,C. Fitzsimmons,fitzsco99c,38,44,82,FALSE,516,fitzsco99c_SAC_1979_1984
+Sacramento Kings,SAC,1985,1,J. McKinney,mckinja99c,1,8,9,TRUE,517,mckinja99c_SAC_1985_1985
+Sacramento Kings,SAC,1985,2,P. Johnson,johnsph99c,30,43,73,TRUE,518,johnsph99c_SAC_1985_1987
+Sacramento Kings,SAC,1986,1,P. Johnson,johnsph99c,37,45,82,FALSE,518,johnsph99c_SAC_1985_1987
+Sacramento Kings,SAC,1987,1,P. Johnson,johnsph99c,14,32,46,FALSE,518,johnsph99c_SAC_1985_1987
+Sacramento Kings,SAC,1987,2,J. Reynolds,reynoje99c,15,21,36,TRUE,519,reynoje99c_SAC_1987_1987
+Sacramento Kings,SAC,1988,1,B. Russell,russebi01c,17,41,58,TRUE,520,russebi01c_SAC_1988_1988
+Sacramento Kings,SAC,1988,2,J. Reynolds,reynoje99c,7,17,24,TRUE,521,reynoje99c_SAC_1988_1990
+Sacramento Kings,SAC,1989,1,J. Reynolds,reynoje99c,27,55,82,FALSE,521,reynoje99c_SAC_1988_1990
+Sacramento Kings,SAC,1990,1,J. Reynolds,reynoje99c,7,21,28,FALSE,521,reynoje99c_SAC_1988_1990
+Sacramento Kings,SAC,1990,2,D. Motta,mottadi99c,16,38,54,TRUE,522,mottadi99c_SAC_1990_1992
+Sacramento Kings,SAC,1991,1,D. Motta,mottadi99c,25,57,82,FALSE,522,mottadi99c_SAC_1990_1992
+Sacramento Kings,SAC,1992,1,D. Motta,mottadi99c,7,18,25,FALSE,522,mottadi99c_SAC_1990_1992
+Sacramento Kings,SAC,1992,2,R. Hughes,hughere99c,22,35,57,TRUE,523,hughere99c_SAC_1992_1992
+Sacramento Kings,SAC,1993,1,G. St. Jean,stjeaga99c,25,57,82,TRUE,524,stjeaga99c_SAC_1993_1997
+Sacramento Kings,SAC,1994,1,G. St. Jean,stjeaga99c,28,54,82,FALSE,524,stjeaga99c_SAC_1993_1997
+Sacramento Kings,SAC,1995,1,G. St. Jean,stjeaga99c,39,43,82,FALSE,524,stjeaga99c_SAC_1993_1997
+Sacramento Kings,SAC,1996,1,G. St. Jean,stjeaga99c,39,43,82,FALSE,524,stjeaga99c_SAC_1993_1997
+Sacramento Kings,SAC,1997,1,G. St. Jean,stjeaga99c,28,39,67,FALSE,524,stjeaga99c_SAC_1993_1997
+Sacramento Kings,SAC,1997,2,E. Jordan,jordaed01c,6,9,15,TRUE,525,jordaed01c_SAC_1997_1998
+Sacramento Kings,SAC,1998,1,E. Jordan,jordaed01c,27,55,82,FALSE,525,jordaed01c_SAC_1997_1998
+Sacramento Kings,SAC,1999,1,R. Adelman,adelmri01c,27,23,50,TRUE,526,adelmri01c_SAC_1999_2006
+Sacramento Kings,SAC,2000,1,R. Adelman,adelmri01c,44,38,82,FALSE,526,adelmri01c_SAC_1999_2006
+Sacramento Kings,SAC,2001,1,R. Adelman,adelmri01c,55,27,82,FALSE,526,adelmri01c_SAC_1999_2006
+Sacramento Kings,SAC,2002,1,R. Adelman,adelmri01c,61,21,82,FALSE,526,adelmri01c_SAC_1999_2006
+Sacramento Kings,SAC,2003,1,R. Adelman,adelmri01c,59,23,82,FALSE,526,adelmri01c_SAC_1999_2006
+Sacramento Kings,SAC,2004,1,R. Adelman,adelmri01c,55,27,82,FALSE,526,adelmri01c_SAC_1999_2006
+Sacramento Kings,SAC,2005,1,R. Adelman,adelmri01c,50,32,82,FALSE,526,adelmri01c_SAC_1999_2006
+Sacramento Kings,SAC,2006,1,R. Adelman,adelmri01c,44,38,82,FALSE,526,adelmri01c_SAC_1999_2006
+Sacramento Kings,SAC,2007,1,E. Musselman,musseer99c,33,49,82,TRUE,527,musseer99c_SAC_2007_2007
+Sacramento Kings,SAC,2008,1,R. Theus,theusre01c,38,44,82,TRUE,528,theusre01c_SAC_2008_2009
+Sacramento Kings,SAC,2009,1,R. Theus,theusre01c,6,18,24,FALSE,528,theusre01c_SAC_2008_2009
+Sacramento Kings,SAC,2009,2,K. Natt,nattke01c,11,47,58,TRUE,529,nattke01c_SAC_2009_2009
+Sacramento Kings,SAC,2010,1,P. Westphal,westppa01c,25,57,82,TRUE,530,westppa01c_SAC_2010_2012
+Sacramento Kings,SAC,2011,1,P. Westphal,westppa01c,24,58,82,FALSE,530,westppa01c_SAC_2010_2012
+Sacramento Kings,SAC,2012,1,P. Westphal,westppa01c,2,5,7,FALSE,530,westppa01c_SAC_2010_2012
+Sacramento Kings,SAC,2012,2,K. Smart,smartke01c,20,39,59,TRUE,531,smartke01c_SAC_2012_2013
+Sacramento Kings,SAC,2013,1,K. Smart,smartke01c,28,54,82,FALSE,531,smartke01c_SAC_2012_2013
+Sacramento Kings,SAC,2014,1,M. Malone,malonmi99c,28,54,82,TRUE,532,malonmi99c_SAC_2014_2015
+Sacramento Kings,SAC,2015,1,M. Malone,malonmi99c,11,13,24,FALSE,532,malonmi99c_SAC_2014_2015
+Sacramento Kings,SAC,2015,2,T. Corbin,corbity01c,7,21,28,TRUE,533,corbity01c_SAC_2015_2015
+Sacramento Kings,SAC,2015,3,G. Karl,karlge01c,11,19,30,TRUE,534,karlge01c_SAC_2015_2016
+Sacramento Kings,SAC,2016,1,G. Karl,karlge01c,33,49,82,FALSE,534,karlge01c_SAC_2015_2016
+Sacramento Kings,SAC,2017,1,D. Joerger,joergda99c,32,50,82,TRUE,535,joergda99c_SAC_2017_2019
+Sacramento Kings,SAC,2018,1,D. Joerger,joergda99c,27,55,82,FALSE,535,joergda99c_SAC_2017_2019
+Sacramento Kings,SAC,2019,1,D. Joerger,joergda99c,39,43,82,FALSE,535,joergda99c_SAC_2017_2019
+Sacramento Kings,SAC,2020,1,L. Walton,waltolu01c,28,36,64,TRUE,536,waltolu01c_SAC_2020_2020
+San Antonio Spurs,SAS,1968,1,C. Hagan,hagancl01c,46,32,78,TRUE,537,hagancl01c_SAS_1968_1970
+San Antonio Spurs,SAS,1969,1,C. Hagan,hagancl01c,41,37,78,FALSE,537,hagancl01c_SAS_1968_1970
+San Antonio Spurs,SAS,1970,1,C. Hagan,hagancl01c,22,21,43,FALSE,537,hagancl01c_SAS_1968_1970
+San Antonio Spurs,SAS,1970,2,M. Williams,willima99c,23,18,41,TRUE,538,willima99c_SAS_1970_1971
+San Antonio Spurs,SAS,1971,1,M. Williams,willima99c,5,14,19,FALSE,538,willima99c_SAS_1970_1971
+San Antonio Spurs,SAS,1971,2,B. Blakeley,blakebi99c,25,40,65,TRUE,539,blakebi99c_SAS_1971_1971
+San Antonio Spurs,SAS,1972,1,T. Nissalke,nissato99c,42,42,84,TRUE,540,nissato99c_SAS_1972_1972
+San Antonio Spurs,SAS,1973,1,B. McCarthy,mccarba99c,24,48,72,TRUE,541,mccarba99c_SAS_1973_1973
+San Antonio Spurs,SAS,1973,2,D. Brown,brownda99c,4,8,12,TRUE,542,brownda99c_SAS_1973_1973
+San Antonio Spurs,SAS,1974,1,T. Nissalke,nissato99c,45,39,84,TRUE,543,nissato99c_SAS_1974_1975
+San Antonio Spurs,SAS,1975,1,T. Nissalke,nissato99c,18,10,28,FALSE,543,nissato99c_SAS_1974_1975
+San Antonio Spurs,SAS,1975,2,B. Bass,bassbo99c,33,23,56,TRUE,544,bassbo99c_SAS_1975_1976
+San Antonio Spurs,SAS,1976,1,B. Bass,bassbo99c,50,34,84,FALSE,544,bassbo99c_SAS_1975_1976
+San Antonio Spurs,SAS,1977,1,D. Moe,moedo01c,44,38,82,TRUE,545,moedo01c_SAS_1977_1980
+San Antonio Spurs,SAS,1978,1,D. Moe,moedo01c,52,30,82,FALSE,545,moedo01c_SAS_1977_1980
+San Antonio Spurs,SAS,1979,1,D. Moe,moedo01c,48,34,82,FALSE,545,moedo01c_SAS_1977_1980
+San Antonio Spurs,SAS,1980,1,D. Moe,moedo01c,33,33,66,FALSE,545,moedo01c_SAS_1977_1980
+San Antonio Spurs,SAS,1980,2,B. Bass,bassbo99c,8,8,16,TRUE,546,bassbo99c_SAS_1980_1980
+San Antonio Spurs,SAS,1981,1,S. Albeck,albecst99c,52,30,82,TRUE,547,albecst99c_SAS_1981_1983
+San Antonio Spurs,SAS,1982,1,S. Albeck,albecst99c,48,34,82,FALSE,547,albecst99c_SAS_1981_1983
+San Antonio Spurs,SAS,1983,1,S. Albeck,albecst99c,53,29,82,FALSE,547,albecst99c_SAS_1981_1983
+San Antonio Spurs,SAS,1984,1,M. McHone,mchonmo99c,11,20,31,TRUE,548,mchonmo99c_SAS_1984_1984
+San Antonio Spurs,SAS,1984,2,B. Bass,bassbo99c,26,25,51,TRUE,549,bassbo99c_SAS_1984_1984
+San Antonio Spurs,SAS,1985,1,C. Fitzsimmons,fitzsco99c,41,41,82,TRUE,550,fitzsco99c_SAS_1985_1986
+San Antonio Spurs,SAS,1986,1,C. Fitzsimmons,fitzsco99c,35,47,82,FALSE,550,fitzsco99c_SAS_1985_1986
+San Antonio Spurs,SAS,1987,1,B. Weiss,weissbo01c,28,54,82,TRUE,551,weissbo01c_SAS_1987_1988
+San Antonio Spurs,SAS,1988,1,B. Weiss,weissbo01c,31,51,82,FALSE,551,weissbo01c_SAS_1987_1988
+San Antonio Spurs,SAS,1989,1,L. Brown,brownla01c,21,61,82,TRUE,552,brownla01c_SAS_1989_1992
+San Antonio Spurs,SAS,1990,1,L. Brown,brownla01c,56,26,82,FALSE,552,brownla01c_SAS_1989_1992
+San Antonio Spurs,SAS,1991,1,L. Brown,brownla01c,55,27,82,FALSE,552,brownla01c_SAS_1989_1992
+San Antonio Spurs,SAS,1992,1,L. Brown,brownla01c,21,17,38,FALSE,552,brownla01c_SAS_1989_1992
+San Antonio Spurs,SAS,1992,2,B. Bass,bassbo99c,26,18,44,TRUE,553,bassbo99c_SAS_1992_1992
+San Antonio Spurs,SAS,1993,1,J. Tarkanian,tarkaje99c,9,11,20,TRUE,554,tarkaje99c_SAS_1993_1993
+San Antonio Spurs,SAS,1993,2,R. Hughes,hughere99c,1,0,1,TRUE,555,hughere99c_SAS_1993_1993
+San Antonio Spurs,SAS,1993,3,J. Lucas,lucasjo01c,39,22,61,TRUE,556,lucasjo01c_SAS_1993_1994
+San Antonio Spurs,SAS,1994,1,J. Lucas,lucasjo01c,55,27,82,FALSE,556,lucasjo01c_SAS_1993_1994
+San Antonio Spurs,SAS,1995,1,B. Hill,hillbo99c,62,20,82,TRUE,557,hillbo99c_SAS_1995_1997
+San Antonio Spurs,SAS,1996,1,B. Hill,hillbo99c,59,23,82,FALSE,557,hillbo99c_SAS_1995_1997
+San Antonio Spurs,SAS,1997,1,B. Hill,hillbo99c,3,15,18,FALSE,557,hillbo99c_SAS_1995_1997
+San Antonio Spurs,SAS,1997,2,G. Popovich,popovgr99c,17,47,64,TRUE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,1998,1,G. Popovich,popovgr99c,56,26,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,1999,1,G. Popovich,popovgr99c,37,13,50,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2000,1,G. Popovich,popovgr99c,53,29,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2001,1,G. Popovich,popovgr99c,58,24,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2002,1,G. Popovich,popovgr99c,58,24,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2003,1,G. Popovich,popovgr99c,60,22,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2004,1,G. Popovich,popovgr99c,57,25,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2005,1,G. Popovich,popovgr99c,59,23,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2006,1,G. Popovich,popovgr99c,63,19,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2007,1,G. Popovich,popovgr99c,58,24,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2008,1,G. Popovich,popovgr99c,56,26,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2009,1,G. Popovich,popovgr99c,54,28,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2010,1,G. Popovich,popovgr99c,50,32,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2011,1,G. Popovich,popovgr99c,61,21,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2012,1,G. Popovich,popovgr99c,50,16,66,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2013,1,G. Popovich,popovgr99c,58,24,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2014,1,G. Popovich,popovgr99c,62,20,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2015,1,G. Popovich,popovgr99c,55,27,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2016,1,G. Popovich,popovgr99c,67,15,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2017,1,G. Popovich,popovgr99c,61,21,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2018,1,G. Popovich,popovgr99c,47,35,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2019,1,G. Popovich,popovgr99c,48,34,82,FALSE,558,popovgr99c_SAS_1997_2020
+San Antonio Spurs,SAS,2020,1,G. Popovich,popovgr99c,27,36,63,FALSE,558,popovgr99c_SAS_1997_2020
+Toronto Raptors,TOR,1996,1,B. Malone,malonbr99c,21,61,82,TRUE,559,malonbr99c_TOR_1996_1996
+Toronto Raptors,TOR,1997,1,D. Walker,walkeda01c,30,52,82,TRUE,560,walkeda01c_TOR_1997_1998
+Toronto Raptors,TOR,1998,1,D. Walker,walkeda01c,11,38,49,FALSE,560,walkeda01c_TOR_1997_1998
+Toronto Raptors,TOR,1998,2,B. Carter,cartebu01c,5,28,33,TRUE,561,cartebu01c_TOR_1998_2000
+Toronto Raptors,TOR,1999,1,B. Carter,cartebu01c,23,27,50,FALSE,561,cartebu01c_TOR_1998_2000
+Toronto Raptors,TOR,2000,1,B. Carter,cartebu01c,45,37,82,FALSE,561,cartebu01c_TOR_1998_2000
+Toronto Raptors,TOR,2001,1,L. Wilkens,wilkele01c,47,35,82,TRUE,562,wilkele01c_TOR_2001_2003
+Toronto Raptors,TOR,2002,1,L. Wilkens,wilkele01c,42,40,82,FALSE,562,wilkele01c_TOR_2001_2003
+Toronto Raptors,TOR,2003,1,L. Wilkens,wilkele01c,24,58,82,FALSE,562,wilkele01c_TOR_2001_2003
+Toronto Raptors,TOR,2004,1,K. O'Neill,oneilke99c,33,49,82,TRUE,563,oneilke99c_TOR_2004_2004
+Toronto Raptors,TOR,2005,1,S. Mitchell,mitchsa01c,33,49,82,TRUE,564,mitchsa01c_TOR_2005_2009
+Toronto Raptors,TOR,2006,1,S. Mitchell,mitchsa01c,27,55,82,FALSE,564,mitchsa01c_TOR_2005_2009
+Toronto Raptors,TOR,2007,1,S. Mitchell,mitchsa01c,47,35,82,FALSE,564,mitchsa01c_TOR_2005_2009
+Toronto Raptors,TOR,2008,1,S. Mitchell,mitchsa01c,41,41,82,FALSE,564,mitchsa01c_TOR_2005_2009
+Toronto Raptors,TOR,2009,1,S. Mitchell,mitchsa01c,8,9,17,FALSE,564,mitchsa01c_TOR_2005_2009
+Toronto Raptors,TOR,2009,2,J. Triano,trianja99c,25,40,65,TRUE,565,trianja99c_TOR_2009_2011
+Toronto Raptors,TOR,2010,1,J. Triano,trianja99c,40,42,82,FALSE,565,trianja99c_TOR_2009_2011
+Toronto Raptors,TOR,2011,1,J. Triano,trianja99c,22,60,82,FALSE,565,trianja99c_TOR_2009_2011
+Toronto Raptors,TOR,2012,1,D. Casey,caseydw99c,23,43,66,TRUE,566,caseydw99c_TOR_2012_2018
+Toronto Raptors,TOR,2013,1,D. Casey,caseydw99c,34,48,82,FALSE,566,caseydw99c_TOR_2012_2018
+Toronto Raptors,TOR,2014,1,D. Casey,caseydw99c,48,34,82,FALSE,566,caseydw99c_TOR_2012_2018
+Toronto Raptors,TOR,2015,1,D. Casey,caseydw99c,49,33,82,FALSE,566,caseydw99c_TOR_2012_2018
+Toronto Raptors,TOR,2016,1,D. Casey,caseydw99c,56,26,82,FALSE,566,caseydw99c_TOR_2012_2018
+Toronto Raptors,TOR,2017,1,D. Casey,caseydw99c,51,31,82,FALSE,566,caseydw99c_TOR_2012_2018
+Toronto Raptors,TOR,2018,1,D. Casey,caseydw99c,59,23,82,FALSE,566,caseydw99c_TOR_2012_2018
+Toronto Raptors,TOR,2019,1,N. Nurse,nurseni01c,58,24,82,TRUE,567,nurseni01c_TOR_2019_2020
+Toronto Raptors,TOR,2020,1,N. Nurse,nurseni01c,46,18,64,FALSE,567,nurseni01c_TOR_2019_2020
+Utah Jazz,UTA,1975,1,S. Robertson,robersc99c,1,14,15,TRUE,568,robersc99c_UTA_1975_1975
+Utah Jazz,UTA,1975,2,E. Baylor,bayloel01c,0,1,1,TRUE,569,bayloel01c_UTA_1975_1975
+Utah Jazz,UTA,1975,3,B. van Breda Kolff,vanbrbu01c,22,44,66,TRUE,570,vanbrbu01c_UTA_1975_1977
+Utah Jazz,UTA,1976,1,B. van Breda Kolff,vanbrbu01c,38,44,82,FALSE,570,vanbrbu01c_UTA_1975_1977
+Utah Jazz,UTA,1977,1,B. van Breda Kolff,vanbrbu01c,14,12,26,FALSE,570,vanbrbu01c_UTA_1975_1977
+Utah Jazz,UTA,1977,2,E. Baylor,bayloel01c,21,35,56,TRUE,571,bayloel01c_UTA_1977_1979
+Utah Jazz,UTA,1978,1,E. Baylor,bayloel01c,39,43,82,FALSE,571,bayloel01c_UTA_1977_1979
+Utah Jazz,UTA,1979,1,E. Baylor,bayloel01c,26,56,82,FALSE,571,bayloel01c_UTA_1977_1979
+Utah Jazz,UTA,1980,1,T. Nissalke,nissato99c,24,58,82,TRUE,572,nissato99c_UTA_1980_1982
+Utah Jazz,UTA,1981,1,T. Nissalke,nissato99c,28,54,82,FALSE,572,nissato99c_UTA_1980_1982
+Utah Jazz,UTA,1982,1,T. Nissalke,nissato99c,8,12,20,FALSE,572,nissato99c_UTA_1980_1982
+Utah Jazz,UTA,1982,2,F. Layden,laydefr99c,17,45,62,TRUE,573,laydefr99c_UTA_1982_1989
+Utah Jazz,UTA,1983,1,F. Layden,laydefr99c,30,52,82,FALSE,573,laydefr99c_UTA_1982_1989
+Utah Jazz,UTA,1984,1,F. Layden,laydefr99c,45,37,82,FALSE,573,laydefr99c_UTA_1982_1989
+Utah Jazz,UTA,1985,1,F. Layden,laydefr99c,41,41,82,FALSE,573,laydefr99c_UTA_1982_1989
+Utah Jazz,UTA,1986,1,F. Layden,laydefr99c,42,40,82,FALSE,573,laydefr99c_UTA_1982_1989
+Utah Jazz,UTA,1987,1,F. Layden,laydefr99c,44,38,82,FALSE,573,laydefr99c_UTA_1982_1989
+Utah Jazz,UTA,1988,1,F. Layden,laydefr99c,47,35,82,FALSE,573,laydefr99c_UTA_1982_1989
+Utah Jazz,UTA,1989,1,F. Layden,laydefr99c,11,6,17,FALSE,573,laydefr99c_UTA_1982_1989
+Utah Jazz,UTA,1989,2,J. Sloan,sloanje01c,40,25,65,TRUE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,1990,1,J. Sloan,sloanje01c,55,27,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,1991,1,J. Sloan,sloanje01c,54,28,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,1992,1,J. Sloan,sloanje01c,55,27,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,1993,1,J. Sloan,sloanje01c,47,35,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,1994,1,J. Sloan,sloanje01c,53,29,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,1995,1,J. Sloan,sloanje01c,60,22,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,1996,1,J. Sloan,sloanje01c,55,27,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,1997,1,J. Sloan,sloanje01c,64,18,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,1998,1,J. Sloan,sloanje01c,62,20,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,1999,1,J. Sloan,sloanje01c,37,13,50,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2000,1,J. Sloan,sloanje01c,55,27,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2001,1,J. Sloan,sloanje01c,53,29,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2002,1,J. Sloan,sloanje01c,44,38,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2003,1,J. Sloan,sloanje01c,47,35,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2004,1,J. Sloan,sloanje01c,42,40,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2005,1,J. Sloan,sloanje01c,26,56,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2006,1,J. Sloan,sloanje01c,41,41,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2007,1,J. Sloan,sloanje01c,51,31,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2008,1,J. Sloan,sloanje01c,54,28,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2009,1,J. Sloan,sloanje01c,48,34,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2010,1,J. Sloan,sloanje01c,53,29,82,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2011,1,J. Sloan,sloanje01c,31,23,54,FALSE,574,sloanje01c_UTA_1989_2011
+Utah Jazz,UTA,2011,2,T. Corbin,corbity01c,8,20,28,TRUE,575,corbity01c_UTA_2011_2014
+Utah Jazz,UTA,2012,1,T. Corbin,corbity01c,36,30,66,FALSE,575,corbity01c_UTA_2011_2014
+Utah Jazz,UTA,2013,1,T. Corbin,corbity01c,43,39,82,FALSE,575,corbity01c_UTA_2011_2014
+Utah Jazz,UTA,2014,1,T. Corbin,corbity01c,25,57,82,FALSE,575,corbity01c_UTA_2011_2014
+Utah Jazz,UTA,2015,1,Q. Snyder,snydequ01c,38,44,82,TRUE,576,snydequ01c_UTA_2015_2020
+Utah Jazz,UTA,2016,1,Q. Snyder,snydequ01c,40,42,82,FALSE,576,snydequ01c_UTA_2015_2020
+Utah Jazz,UTA,2017,1,Q. Snyder,snydequ01c,51,31,82,FALSE,576,snydequ01c_UTA_2015_2020
+Utah Jazz,UTA,2018,1,Q. Snyder,snydequ01c,48,34,82,FALSE,576,snydequ01c_UTA_2015_2020
+Utah Jazz,UTA,2019,1,Q. Snyder,snydequ01c,50,32,82,FALSE,576,snydequ01c_UTA_2015_2020
+Utah Jazz,UTA,2020,1,Q. Snyder,snydequ01c,41,23,64,FALSE,576,snydequ01c_UTA_2015_2020
+Washington Wizards,WAS,1962,1,J. Pollard,pollaji01c,18,62,80,TRUE,577,pollaji01c_WAS_1962_1962
+Washington Wizards,WAS,1963,1,J. McMahon,mcmahja01c,12,26,38,TRUE,578,mcmahja01c_WAS_1963_1963
+Washington Wizards,WAS,1963,2,S. Leonard,leonasl01c,13,29,42,TRUE,579,leonasl01c_WAS_1963_1964
+Washington Wizards,WAS,1964,1,S. Leonard,leonasl01c,31,49,80,FALSE,579,leonasl01c_WAS_1963_1964
+Washington Wizards,WAS,1965,1,B. Jeannette,jeannbu01c,37,43,80,TRUE,580,jeannbu01c_WAS_1965_1965
+Washington Wizards,WAS,1966,1,P. Seymour,seymopa01c,38,42,80,TRUE,581,seymopa01c_WAS_1966_1966
+Washington Wizards,WAS,1967,1,M. Farmer,farmemi01c,1,8,9,TRUE,582,farmemi01c_WAS_1967_1967
+Washington Wizards,WAS,1967,2,B. Jeannette,jeannbu01c,3,13,16,TRUE,583,jeannbu01c_WAS_1967_1967
+Washington Wizards,WAS,1967,3,G. Shue,shuege01c,16,40,56,TRUE,584,shuege01c_WAS_1967_1973
+Washington Wizards,WAS,1968,1,G. Shue,shuege01c,36,46,82,FALSE,584,shuege01c_WAS_1967_1973
+Washington Wizards,WAS,1969,1,G. Shue,shuege01c,57,25,82,FALSE,584,shuege01c_WAS_1967_1973
+Washington Wizards,WAS,1970,1,G. Shue,shuege01c,50,32,82,FALSE,584,shuege01c_WAS_1967_1973
+Washington Wizards,WAS,1971,1,G. Shue,shuege01c,42,40,82,FALSE,584,shuege01c_WAS_1967_1973
+Washington Wizards,WAS,1972,1,G. Shue,shuege01c,38,44,82,FALSE,584,shuege01c_WAS_1967_1973
+Washington Wizards,WAS,1973,1,G. Shue,shuege01c,52,30,82,FALSE,584,shuege01c_WAS_1967_1973
+Washington Wizards,WAS,1974,1,K. Jones,joneskc01c,47,35,82,TRUE,585,joneskc01c_WAS_1974_1976
+Washington Wizards,WAS,1975,1,K. Jones,joneskc01c,60,22,82,FALSE,585,joneskc01c_WAS_1974_1976
+Washington Wizards,WAS,1976,1,K. Jones,joneskc01c,48,34,82,FALSE,585,joneskc01c_WAS_1974_1976
+Washington Wizards,WAS,1977,1,D. Motta,mottadi99c,48,34,82,TRUE,586,mottadi99c_WAS_1977_1980
+Washington Wizards,WAS,1978,1,D. Motta,mottadi99c,44,38,82,FALSE,586,mottadi99c_WAS_1977_1980
+Washington Wizards,WAS,1979,1,D. Motta,mottadi99c,54,28,82,FALSE,586,mottadi99c_WAS_1977_1980
+Washington Wizards,WAS,1980,1,D. Motta,mottadi99c,39,43,82,FALSE,586,mottadi99c_WAS_1977_1980
+Washington Wizards,WAS,1981,1,G. Shue,shuege01c,39,43,82,TRUE,587,shuege01c_WAS_1981_1986
+Washington Wizards,WAS,1982,1,G. Shue,shuege01c,43,39,82,FALSE,587,shuege01c_WAS_1981_1986
+Washington Wizards,WAS,1983,1,G. Shue,shuege01c,42,40,82,FALSE,587,shuege01c_WAS_1981_1986
+Washington Wizards,WAS,1984,1,G. Shue,shuege01c,35,47,82,FALSE,587,shuege01c_WAS_1981_1986
+Washington Wizards,WAS,1985,1,G. Shue,shuege01c,40,42,82,FALSE,587,shuege01c_WAS_1981_1986
+Washington Wizards,WAS,1986,1,G. Shue,shuege01c,32,37,69,FALSE,587,shuege01c_WAS_1981_1986
+Washington Wizards,WAS,1986,2,K. Loughery,loughke01c,7,6,13,TRUE,588,loughke01c_WAS_1986_1988
+Washington Wizards,WAS,1987,1,K. Loughery,loughke01c,42,40,82,FALSE,588,loughke01c_WAS_1986_1988
+Washington Wizards,WAS,1988,1,K. Loughery,loughke01c,8,19,27,FALSE,588,loughke01c_WAS_1986_1988
+Washington Wizards,WAS,1988,2,W. Unseld,unselwe01c,30,25,55,TRUE,589,unselwe01c_WAS_1988_1994
+Washington Wizards,WAS,1989,1,W. Unseld,unselwe01c,40,42,82,FALSE,589,unselwe01c_WAS_1988_1994
+Washington Wizards,WAS,1990,1,W. Unseld,unselwe01c,31,51,82,FALSE,589,unselwe01c_WAS_1988_1994
+Washington Wizards,WAS,1991,1,W. Unseld,unselwe01c,30,52,82,FALSE,589,unselwe01c_WAS_1988_1994
+Washington Wizards,WAS,1992,1,W. Unseld,unselwe01c,25,57,82,FALSE,589,unselwe01c_WAS_1988_1994
+Washington Wizards,WAS,1993,1,W. Unseld,unselwe01c,22,60,82,FALSE,589,unselwe01c_WAS_1988_1994
+Washington Wizards,WAS,1994,1,W. Unseld,unselwe01c,24,58,82,FALSE,589,unselwe01c_WAS_1988_1994
+Washington Wizards,WAS,1995,1,J. Lynam,lynamji99c,21,61,82,TRUE,590,lynamji99c_WAS_1995_1997
+Washington Wizards,WAS,1996,1,J. Lynam,lynamji99c,39,43,82,FALSE,590,lynamji99c_WAS_1995_1997
+Washington Wizards,WAS,1997,1,J. Lynam,lynamji99c,22,24,46,FALSE,590,lynamji99c_WAS_1995_1997
+Washington Wizards,WAS,1997,2,B. Staak,staakbo99c,0,1,1,TRUE,591,staakbo99c_WAS_1997_1997
+Washington Wizards,WAS,1997,3,B. Bickerstaff,bickebe99c,22,13,35,TRUE,592,bickebe99c_WAS_1997_1999
+Washington Wizards,WAS,1998,1,B. Bickerstaff,bickebe99c,42,40,82,FALSE,592,bickebe99c_WAS_1997_1999
+Washington Wizards,WAS,1999,1,B. Bickerstaff,bickebe99c,13,19,32,FALSE,592,bickebe99c_WAS_1997_1999
+Washington Wizards,WAS,1999,2,J. Brovelli,broveji99c,5,13,18,TRUE,593,broveji99c_WAS_1999_1999
+Washington Wizards,WAS,2000,1,G. Heard,heardga01c,14,30,44,TRUE,594,heardga01c_WAS_2000_2000
+Washington Wizards,WAS,2000,2,D. Walker,walkeda01c,15,23,38,TRUE,595,walkeda01c_WAS_2000_2000
+Washington Wizards,WAS,2001,1,L. Hamilton,hamille99c,19,63,82,TRUE,596,hamille99c_WAS_2001_2001
+Washington Wizards,WAS,2002,1,D. Collins,collido01c,37,45,82,TRUE,597,collido01c_WAS_2002_2003
+Washington Wizards,WAS,2003,1,D. Collins,collido01c,37,45,82,FALSE,597,collido01c_WAS_2002_2003
+Washington Wizards,WAS,2004,1,E. Jordan,jordaed01c,25,57,82,TRUE,598,jordaed01c_WAS_2004_2009
+Washington Wizards,WAS,2005,1,E. Jordan,jordaed01c,45,37,82,FALSE,598,jordaed01c_WAS_2004_2009
+Washington Wizards,WAS,2006,1,E. Jordan,jordaed01c,42,40,82,FALSE,598,jordaed01c_WAS_2004_2009
+Washington Wizards,WAS,2007,1,E. Jordan,jordaed01c,41,41,82,FALSE,598,jordaed01c_WAS_2004_2009
+Washington Wizards,WAS,2008,1,E. Jordan,jordaed01c,43,39,82,FALSE,598,jordaed01c_WAS_2004_2009
+Washington Wizards,WAS,2009,1,E. Jordan,jordaed01c,1,10,11,FALSE,598,jordaed01c_WAS_2004_2009
+Washington Wizards,WAS,2009,2,E. Tapscott,tapsced99c,18,53,71,TRUE,599,tapsced99c_WAS_2009_2009
+Washington Wizards,WAS,2010,1,F. Saunders,saundfl99c,26,56,82,TRUE,600,saundfl99c_WAS_2010_2012
+Washington Wizards,WAS,2011,1,F. Saunders,saundfl99c,23,59,82,FALSE,600,saundfl99c_WAS_2010_2012
+Washington Wizards,WAS,2012,1,F. Saunders,saundfl99c,2,15,17,FALSE,600,saundfl99c_WAS_2010_2012
+Washington Wizards,WAS,2012,2,R. Wittman,wittmra01c,18,31,49,TRUE,601,wittmra01c_WAS_2012_2016
+Washington Wizards,WAS,2013,1,R. Wittman,wittmra01c,29,53,82,FALSE,601,wittmra01c_WAS_2012_2016
+Washington Wizards,WAS,2014,1,R. Wittman,wittmra01c,44,38,82,FALSE,601,wittmra01c_WAS_2012_2016
+Washington Wizards,WAS,2015,1,R. Wittman,wittmra01c,46,36,82,FALSE,601,wittmra01c_WAS_2012_2016
+Washington Wizards,WAS,2016,1,R. Wittman,wittmra01c,41,41,82,FALSE,601,wittmra01c_WAS_2012_2016
+Washington Wizards,WAS,2017,1,S. Brooks,brooksc01c,49,33,82,TRUE,602,brooksc01c_WAS_2017_2020
+Washington Wizards,WAS,2018,1,S. Brooks,brooksc01c,43,39,82,FALSE,602,brooksc01c_WAS_2017_2020
+Washington Wizards,WAS,2019,1,S. Brooks,brooksc01c,32,50,82,FALSE,602,brooksc01c_WAS_2017_2020
+Washington Wizards,WAS,2020,1,S. Brooks,brooksc01c,24,40,64,FALSE,602,brooksc01c_WAS_2017_2020
