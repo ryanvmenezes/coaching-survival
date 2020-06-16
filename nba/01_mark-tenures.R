@@ -2,15 +2,16 @@ library(glue)
 library(rvest)
 library(tidyverse)
 
-source('nba/scrape/utils.R')
+source('nba/utils.R')
 
-seasons = read_csv(glue('{outfolder}raw/seasons.csv'))
+seasons = read_csv(glue('{outfolder}scrape/processed/seasons.csv'))
 
-seasons %>% 
-  filter(season >= 2000) %>% 
-  pull(coach.names) %>% 
-  str_count(',') %>% 
-  table()
+seasons
+
+# seasons %>% 
+#   pull(coach.names) %>% 
+#   str_count(',') %>% 
+#   table()
 
 coaches = seasons %>% 
   separate(coach.names, into = c('coach.name.1', 'coach.name.2', 'coach.name.3', 'coach.name.4'), sep = ', ') %>% 
@@ -42,7 +43,7 @@ coaches = seasons %>%
 
 coaches
 
-tenure.summary = coaches %>% 
+tenures = coaches %>% 
   mutate(
     tenure.chg = (franchise.name != lag(franchise.name)) |
       (coach.id != lag(coach.id)),
@@ -62,18 +63,19 @@ tenure.summary = coaches %>%
   ) %>% 
   mutate(tenure.slug = str_c(coach.id, franchise.id, start.year, end.year, sep = '_'))
 
-tenure.summary
+tenures
 
-coaches %>% write_csv(glue('{outfolder}processed/coaches.csv'))
-tenures %>% write_csv(glue('{outfolder}processed/tenures.csv'))
+coaches %>% write_csv(glue('{outfolder}processed/coaches-all.csv'))
+tenures %>% write_csv(glue('{outfolder}processed/tenures-all.csv'))
 
-# tenure.summary %>% 
-#   filter(start.year >= 2000 | (start.year <= 2000 & end.year >= 2000)) %>% 
-#   count(coach.id)
+# restrict coaches/tenures to start of 2000 for study
+
+# tenures %>%
+#   filter(start.year >= 2000 | (start.year <= 2000 & end.year >= 2000))
 # 
-# tenures = coaches %>% 
+# tenures = coaches %>%
 #   left_join(
-#     tenure.summary %>% 
+#     tenure.summary %>%
 #       select(tenure.id, tenure.slug)
 #   )
 # 

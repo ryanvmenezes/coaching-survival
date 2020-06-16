@@ -1,0 +1,1 @@
+outfolder = 'nba/'
