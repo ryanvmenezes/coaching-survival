@@ -219,6 +219,13 @@
       "Repository": "CRAN",
       "Hash": "780713bd2f53156fae001443dcdbdcd5"
     },
+    "gargle": {
+      "Package": "gargle",
+      "Version": "0.5.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "aaacaf8b0ec3dfe45df9eb6bc040db44"
+    },
     "generics": {
       "Package": "generics",
       "Version": "0.0.2",
@@ -239,6 +246,20 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "f43e0d5e85ccb0a4045670c0607ee504"
+    },
+    "googledrive": {
+      "Package": "googledrive",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "79ba5d18133290a69b7c135dc3dfef1a"
+    },
+    "googlesheets4": {
+      "Package": "googlesheets4",
+      "Version": "0.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "36ed3c9b1f0bbcd574d2769b625f80fb"
     },
     "gtable": {
       "Package": "gtable",
@@ -281,6 +302,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "7146fea4685b4252ebf478978c75f597"
+    },
+    "ids": {
+      "Package": "ids",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "99df65cfef20e525ed38c3d2577f7190"
     },
     "isoband": {
       "Package": "isoband",
@@ -485,6 +513,13 @@
       "Repository": "CRAN",
       "Hash": "c66b930d20bb6d858cd18e1cebcfae5c"
     },
+    "rematch2": {
+      "Package": "rematch2",
+      "Version": "2.1.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "76c9e04c712a05848ae7a23d2f170a40"
+    },
     "renv": {
       "Package": "renv",
       "Version": "0.10.0",
@@ -624,6 +659,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "4a5081acfb7b81a572e4384a7aaf2af1"
+    },
+    "uuid": {
+      "Package": "uuid",
+      "Version": "0.1-4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "e4169eb989a5d03ccb6b628cad1b1b50"
     },
     "vctrs": {
       "Package": "vctrs",
