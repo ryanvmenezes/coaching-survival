@@ -58,9 +58,12 @@ franchise.scrape = franchises %>%
 franchise.scrape
 
 seasons = franchise.scrape %>% 
-  mutate(franchise.id = str_sub(franchise.url, start = -4, end = -2)) %>% 
-  select(franchise.name, franchise.id, season, season.url, season.team.name, coach.names, coach.urls) %>% 
-  unnest(c(season, season.url, coach.names, season.team.name, coach.urls))
+  mutate(
+    franchise.id = str_sub(franchise.url, start = -4, end = -2),
+    season.team.id = map(season.url, ~str_sub(.x, start = 8, end = 10)),
+  ) %>% 
+  select(franchise.name, franchise.id, season, season.team.id, season.url, season.team.name, coach.names, coach.urls) %>% 
+  unnest(c(season, season.team.id, season.url, coach.names, season.team.name, coach.urls))
 
 seasons
 

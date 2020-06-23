@@ -4,14 +4,19 @@ library(tidyverse)
 
 source('nba/scrape/utils.R')
 
-coaches = read_csv(glue('{outfolder}processed/coaches.csv'))
+seasons = read_csv(glue('{outfolder}processed/seasons.csv'))
 
-coaches
+seasons
 
-coaches.scrape = coaches %>% 
-  distinct(coach.id) %>% 
+coaches.scrape = seasons %>% 
+  select(url = coach.urls) %>% 
+  separate_rows(url, sep = '\\|\\|') %>% 
   mutate(
-    url = glue('/coaches/{coach.id}.html'),
+    coach.id = str_replace_all(url, '/coaches/', ''),
+    coach.id = str_replace_all(coach.id, '.html', ''),
+  ) %>% 
+  distinct(coach.id, url) %>% 
+  mutate(
     html = map(url, get.or.read.html),
     info = map(
       html,
