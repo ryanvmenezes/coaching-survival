@@ -1,0 +1,97 @@
+---
+title: "NBA coaching survival analysis"
+output: html_notebook
+---
+
+```{r message=FALSE}
+library(glue)
+library(survival)
+library(survminer)
+library(tidyverse)
+source('nba/utils.R')
+```
+
+# Analysis of tenures
+
+```{r message=FALSE}
+study.summary = read_csv(glue('{outfolder}processed/study-data-summary.csv'))
+head(study.summary)
+```
+This covers all tenures that were active in the 1999-2000 season until today, excluding interim coaches.
+
+```{r}
+study.summary %>% count(black)
+```
+
+There are nearly many more white coaches than Black ones in this period. Non-Black coaches include one Asian (Erik Spoelstra) and one Latino (James Borrego).
+
+What kind of coaching opportunities do new hires get?
+
+```{r}
+study.summary %>% 
+  ggplot(aes(starting.elo)) +
+  geom_density() +
+  geom_vline(xintercept = 1500, color = 'red')
+```
+A 1500 ELO rating is average. This shows that slightly more openings are below-average teams, which makes sense.
+
+Are Black coaches getting different opportunities?
+
+```{r}
+study.summary %>% 
+  ggplot(aes(starting.elo)) +
+  geom_density() +
+  geom_vline(xintercept = 1500, color = 'red') +
+  facet_wrap(. ~ black)
+```
+
+```{r}
+study.summary %>% 
+  ggplot(aes(starting.elo)) +
+  geom_histogram() +
+  geom_vline(xintercept = 1500, color = 'red') +
+  facet_wrap(. ~ black)
+```
+
+```{r}
+openings.types = study.summary %>% 
+  transmute(
+    black,
+    starting.type = case_when(
+      starting.elo >= 1400 & starting.elo < 1500 ~ '02.below.avg',
+      starting.elo >= 1500 & starting.elo <= 1600 ~ '03.above.avg',
+      starting.elo > 1600 ~ '04.good',
+      starting.elo < 1400 ~ '01.bad',
+    )
+  )
+
+openings.dist = openings.types %>%
+  count(starting.type) %>% 
+  mutate(pct = n / sum(n) * 100)
+
+openings.dist
+```
+
+```{r}
+openings.dist.black = opening.types %>%
+  count(starting.type, black) %>% 
+  arrange(black, starting.type) %>%
+  group_by(black) %>% 
+  mutate(pct = n / sum(n) * 100)
+
+openings.dist.black
+```
+
+```{r}
+openings.dist.black %>% 
+  ggplot() +
+  geom_bar(
+    aes(as.factor(starting.type), pct, fill = as.factor(black)),
+    stat = 'identity', position = 'dodge'
+  ) +
+  geom_errorbar(
+    data = opening.dist,
+    aes(as.factor(starting.type), ymin = pct, ymax = pct)
+  )
+```
+

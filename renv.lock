@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.0.0",
+    "Version": "4.0.2",
     "Repositories": [
       {
         "Name": "CRAN",
@@ -603,6 +603,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "0759e6b6c0957edb1311028a49a35e76"
+    },
+    "survival": {
+      "Package": "survival",
+      "Version": "3.2-3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "3cc6154c577a82f06250254db30a4bfb"
     },
     "sys": {
       "Package": "sys",
