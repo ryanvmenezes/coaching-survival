@@ -20,14 +20,14 @@ tenures %>% count(tenure.ending)
 coaches.tenures.coded = tenures %>% 
   mutate(tenure.ending = replace_na(tenure.ending, 'active')) %>% 
   filter(tenure.ending != 'interim only') %>% 
-  select(tenure.slug, coach.id, tenure.ending, interim.promoted) %>% 
   transmute(
     tenure.slug, coach.id,
     released = case_when(
       tenure.ending %in% c('died', 'resigned', 'retired', 'active') ~ 0,
       TRUE ~ 1
     ),
-    interim.promoted = as.numeric(!is.na(interim.promoted))
+    interim.promoted = as.numeric(!is.na(interim.promoted)),
+    first.hc.job = as.numeric(first.hc.job == 'yes')
   ) %>%
   left_join(
     coaches %>% 
@@ -56,9 +56,8 @@ all.data = games %>%
     tenure.progress = elo - starting.elo,
     recent.progress = elo - lag(elo, 10),
     peak = cummax(elo),
-    bottom = cummin(elo),
-    peak.to.start = peak - starting.elo,
-    bottom.to.start = bottom - starting.elo,
+    middle = cummean(elo),
+    bottom = cummin(elo)
   ) %>% 
   ungroup() %>% 
   left_join(
@@ -79,17 +78,24 @@ all.data
 
 study.by.game = all.data %>% 
   select(
-    tenure.slug, end.event, black, interim.promoted,
+    tenure.slug, end.event,
+    black, interim.promoted, first.hc.job,
     total.games, win.pct, starting.elo,
     tenure.progress, last.year.progress, recent.progress, 
-    peak, bottom, peak.to.start, bottom.to.start
+    peak, middle, bottom
   )
 
 study.by.game
 
 study.summary = study.by.game %>% 
   group_by(tenure.slug) %>% 
-  filter(total.games == max(total.games))
+  filter(total.games == max(total.games)) %>% 
+  left_join(
+    tenures %>% 
+      select(tenure.slug, tenure.ending, coach.id, name) %>% 
+      mutate(tenure.ending = replace_na(tenure.ending, 'active'))
+  ) %>% 
+  select(tenure.slug, coach.id, name, tenure.ending, everything())
 
 study.summary
 

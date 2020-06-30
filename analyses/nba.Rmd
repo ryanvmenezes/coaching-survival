@@ -1,0 +1,248 @@
+---
+title: "NBA coaching survival analysis"
+output: html_notebook
+---
+
+**By Ryan Menezes**
+
+**Last updated: 2020-06-29**
+
+A look at NBA coaches, the length of their tenures and if they are treated equally based on race while adjusting for performance.
+
+```{r message=FALSE}
+library(survival)
+library(survminer)
+library(tidyverse)
+```
+
+# The data
+
+The summary file covers all head-coaching tenures that were active in the 1999-2000 season until today, excluding coaches who worked on an interim basis only.
+
+```{r message=FALSE}
+study.summary = read_csv('nba/processed/study-data-summary.csv')
+study.summary
+```
+Data come from basketball-reference.com and fivethirtyeight.com.
+
+`tenure.slug` denotes each coach's tenure, formed by combining the [basketball-reference id](https://www.basketball-reference.com/coaches/piercll01c.html), the franchise abbreviation, the start season and the end season.
+
+`tenure.ending` describes how the tenure came to an end. The vast majority of these are firings by the team, with some exceptions.
+
+```{r}
+study.summary %>% count(tenure.ending) %>% arrange(-n)
+```
+
+It's tough for the public to know the exact specifics of each separation, especially when it's not an outright firing. When unclear, I used as many news reports as possible to classify the tenure into one of the above categories.
+
+This analysis seeks to identify if coaches are treated differently by their organizations. The simplest way to do that is to check when the relationship between team and coach ended, given all that happened before it. Most often separations happen because of firings, but there are a handful of situations where coaches decide to leave on their own terms. It's likely that these tenures would have continued, as a firing did not take place. Such observations can be considered "right-censored" in the language of survival analysis (more on this later).
+
+For this study, `end.event` marks whether censoring is needed. I've decided to censor all tenures that ended because of resignations, retirements and death. All active coaches are censored as well. In my view, team management has a say in the other departures, whether by firing or trade, so I'm considering the "death event" (more survival analysis terminology) to have occurred.
+
+```{r}
+study.summary %>% distinct(tenure.ending, end.event)
+```
+
+`black` is a marker of if the coach is Black or not, based on my research.
+
+```{r}
+study.summary %>% count(black)
+```
+
+There are many more white coaches than Black ones in this period. Non-Black coaches include one Asian (Erik Spoelstra) and one Latino (James Borrego).
+
+`interim.promoted` is a flag for if the coach's tenure started on an interim basis. (Interim-only coaches are not included here.) This is a very rare occurrence.
+
+`total.games` and `win.pct` describe the coach's tenure in regular-season games.
+
+For an objective metric to describe the team's trajectory over the coach's tenure, I decided to use [538's ELO ratings](https://fivethirtyeight.com/features/how-we-calculate-nba-elo-ratings/). I found these a little more useful than pure win-loss records for a variety of reasons, though they have their downsides.
+
+From the ELO data set, I created a few summary metrics for the tenure. `starting.elo` is the rating as of the first game of the tenure. `tenure.progress` is the last rating subtracted by the rating at the start. `last.year.progress` is the change in rating in the most recent season, compared to the season before. `recent.progress` is the difference in the last 10 games, to explore if a losing streak may lead to a firing. `peak` and `bottom` are the highest and lowest ratings achieved in that tenure. `peak.to.start` measures the most progress made by the coach since the starting point, while `bottom.to.start` looks at how far the team fell from the starting point.
+
+```{r}
+study.summary %>%
+  arrange(-peak.to.start) %>% 
+  select(peak.to.start, everything())
+```
+Other metrics I could consider that are not in the data presently:
+
+* Whether the coach was a first-time coach or not
+* Playoff achievements during the tenure (playoff appearance, playoff round wins, championships, etc.)
+* Using a different metric to rate teams like season-opening playoff odds
+
+# Exploring the data
+
+What kind of coaching opportunities do new hires get?
+
+```{r}
+study.summary %>% 
+  ggplot(aes(starting.elo)) +
+  geom_density() +
+  geom_vline(xintercept = 1500, color = 'red')
+```
+A 1500 ELO rating is average. This shows that slightly more openings are below-average teams, which makes sense.
+
+**Are Black coaches getting different opportunities?**
+
+```{r}
+study.summary %>% 
+  ggplot(aes(starting.elo)) +
+  geom_density() +
+  geom_vline(xintercept = 1500, color = 'red') +
+  facet_wrap(. ~ black)
+```
+
+```{r message=FALSE}
+study.summary %>% 
+  ggplot(aes(starting.elo)) +
+  geom_histogram() +
+  geom_vline(xintercept = 1500, color = 'red') +
+  facet_wrap(. ~ black)
+```
+
+```{r}
+openings.types = study.summary %>% 
+  transmute(
+    black,
+    starting.type = case_when(
+      starting.elo >= 1400 & starting.elo < 1500 ~ '02.below.avg',
+      starting.elo >= 1500 & starting.elo <= 1600 ~ '03.above.avg',
+      starting.elo > 1600 ~ '04.good',
+      starting.elo < 1400 ~ '01.bad',
+    )
+  )
+
+openings.dist = openings.types %>%
+  count(starting.type) %>% 
+  mutate(pct = n / sum(n) * 100)
+
+openings.dist
+```
+
+```{r}
+openings.dist.black = openings.types %>%
+  count(starting.type, black) %>% 
+  arrange(black, starting.type) %>%
+  group_by(black) %>% 
+  mutate(pct = n / sum(n) * 100)
+
+openings.dist.black
+```
+
+```{r}
+openings.dist.black %>% 
+  ggplot() +
+  geom_bar(
+    aes(x = as.factor(starting.type), y = pct, fill = as.factor(black)),
+    stat = 'identity', position = 'dodge'
+  ) +
+  geom_errorbar(
+    data = openings.dist,
+    aes(x = as.factor(starting.type), ymin = pct, ymax = pct)
+  )
+```
+
+Both groups appear to roughly follow the same distribution in terms of the type of openings they are given. White coaches tend to get the worst teams more often. One interpretation of this is that white coaches are getting the tougher coaching jobs. However, a bad team improving may have as much to do with regression to the mean as it does the skill of the coach.
+
+**Do the tenures differ?**
+
+```{r}
+study.summary %>% 
+  ggplot(aes(total.games)) +
+  geom_histogram() +
+  scale_x_continuous(
+    breaks = 0:13 * 2 * 82,
+    minor_breaks = NULL,
+    labels = 0:13 * 2 * 82
+  ) +
+  facet_wrap(. ~ black)
+```
+
+```{r}
+study.summary %>% 
+  ggplot(aes(total.games, color = as.factor(black))) +
+  scale_x_continuous(
+    breaks = 0:13 * 2 * 82,
+    minor_breaks = NULL,
+    labels = 0:13 * 2 * 82
+  ) +
+  geom_density()
+```
+
+Some major outliers (Gregg Popovich, Jerry Sloan) and the issue of censored observations make this comparison tricky. But it looks like the median tenure for coaches is about two seasons. Black coaches appear to have a slightly lower median and fewer really long tenures.
+
+**Progress of teams during tenure**
+
+```{r}
+study.summary %>% 
+  ggplot(aes(starting.elo, peak.to.start, color = as.factor(black), size = total.games)) +
+  geom_point() +
+  geom_smooth(method = 'lm')
+```
+
+This shows the clear downward relationship between starting point of the team and potential for improvement. The chances for improvement with a lower-rated team are much higher. And that improvement may be because of natural progression.
+
+# Survival analysis
+
+```{r}
+all.fit = survfit(Surv(total.games, end.event) ~ 1, data = study.summary)
+```
+
+```{r}
+ggsurvplot(all.fit)
+```
+
+```{r}
+all.fit
+```
+
+The median tenure is 246 games, or about four seasons.
+
+```{r}
+black.fit = survfit(Surv(total.games, end.event) ~ black, data = study.summary)
+```
+
+```{r}
+black.fit
+```
+
+```{r}
+summary(black.fit, times = 1:5 * 82)
+```
+
+
+```{r}
+ggsurvplot(black.fit)
+```
+
+```{r}
+start.team.fit = survfit(
+  Surv(total.games, end.event) ~ starting.type,
+  data = study.summary %>% 
+    mutate(
+      starting.type = case_when(
+        starting.elo >= 1400 & starting.elo < 1500 ~ '02.below.avg',
+        starting.elo >= 1500 & starting.elo <= 1600 ~ '03.above.avg',
+        starting.elo > 1600 ~ '04.good',
+        starting.elo < 1400 ~ '01.bad',
+      )
+    )
+  )
+```
+
+```{r}
+ggsurvplot(start.team.fit)
+```
+
+```{r}
+start.team.fit
+```
+
+Shortest tenures are the slightly below average teams, which black coaches get more often than white coaches. Longest tenures are the slightly above average teams. which are handed out about equally.
+
+# Regression 
+
+```{r}
+# coxph(Surv(total.games, end.event) ~ win.pct + )
+```
+

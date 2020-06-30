@@ -124,7 +124,16 @@ games.by.tenure = game.logs %>%
   ) %>% 
   arrange(franchise.id, season, game.number) %>% 
   group_by(franchise.id) %>% 
-  fill(tenure.slug, .direction = 'up')
+  fill(tenure.slug, .direction = 'up') %>% 
+  # impute a handful of missing elo ratings
+  group_by(franchise.id, season) %>% 
+  mutate(
+    elo = case_when(
+      is.na(elo) ~ (lead(elo) + lag(elo)) / 2,
+      TRUE ~ elo
+    )
+  ) %>% 
+  ungroup()
 
 games.by.tenure
 
